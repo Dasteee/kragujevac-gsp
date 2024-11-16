@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Local transport agency City of Kragujevac,https://www.kgbus.rs/,sr,20220119,20220331,20220117,saobracaj@jkpsumadija.rs,https://www.kgbus.rs/uputstvo/

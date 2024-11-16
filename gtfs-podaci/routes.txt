@@ -1,0 +1,52 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,JKP Šumadija,1,/Goločelo/Dragobraća-Korman /Botunje/,,3,,FF54AF,000000
+1001,JKP Šumadija,1,/Goločelo/Dragobraća-Korman /Mala Reka/,,3,,FF54AF,000000
+2,JKP Šumadija,2,/Novi Milanovac/ Petrovac-Ždraljica/Donja Sabanta/,,3,,ABA9A6,000000
+3,JKP Šumadija,3,Denino Brdo-Bresnica,,3,,1736FF,FFFFFF
+1030,JKP Šumadija,3,Denino Brdo-/Bresnica/ Vodovod,,3,,1736FF,FFFFFF
+4,JKP Šumadija,4,Autobuska Stanica-Stara Kolonija-Autobuska Stanica,,3,,FF0000,FFFFFF
+5,JKP Šumadija,5,Vinogradi-Male Pčelice,,3,,FFAA00,000000
+6,JKP Šumadija,6,Kvantaš-Grošnica,,3,,FFF700,000000
+1060,JKP Šumadija,6,Autobuska Stanica-Grošnica,,3,,FFF700,000000
+7,JKP Šumadija,7,Palata Pravde-/Erdoglija/Centar-Palata Pravde,,3,,D977CF,000000
+8,JKP Šumadija,8,Višnjak-Ilićevo Spomenik /Stara Opština/,,3,,00F7FF,000000
+1080,JKP Šumadija,8,Bagremar-Ilićevo Spomenik /Stara Opština/,,3,,00F7FF,000000
+9,JKP Šumadija,9,Ćiftina Ćuprija-Cvetojevac,,3,,FFAD5C,000000
+10,JKP Šumadija,10,Erdeč-Maršić,,3,,1D6629,FFFFFF
+11,JKP Šumadija,11A,Hotel-/Bolnica/Stanovo-Hotel,,3,,A10CCF,FFFFFF
+1110,JKP Šumadija,11B,Hotel-Stanovo/Višnjak/-Hotel,,3,,A10CCF,FFFFFF
+1111,JKP Šumadija,11A,/Data Centar/Hotel-/Bolnica/-Hotel/Data Centar/,,3,,A10CCF,FFFFFF
+1112,JKP Šumadija,11B,/Data Centar/Hotel-/Višnjak/-Hotel/Data Centar/,,3,,A10CCF,FFFFFF
+13,JKP Šumadija,13,Trmbas-Grošnica,,3,,A86138,FFFFFF
+14,JKP Šumadija,14,Trmbas-Kvantaš,,3,,CBFF52,000000
+15,JKP Šumadija,15,Korićani-Šumarice /Drača/,,3,,FFFF00,000000
+16,JKP Šumadija,16,Veliko Polje-Desimirovac/Selo/,,3,,F700FF,000000
+17,JKP Šumadija,17,Baljkovljc-Dom Starih /Jezero/,,3,,00FFBB,000000
+18,JKP Šumadija,18,Bozman-Mala Vaga-Bozman,,3,,FF6969,000000
+19,JKP Šumadija,19,Smer A-Smer B,,3,,D90202,FFFFFF
+20,JKP Šumadija,20,Denino Brdo-Korićani,,3,,1C73C9,FFFFFF
+24,JKP Šumadija,24,Ćava-Košutnjak Brdo,,3,,B5A95C,000000
+25,JKP Šumadija,25,Erdeč-Šumski Raj,,3,,B5195C,FFFFFF
+26,JKP Šumadija,26,Male Pčelice Staro Selo-Teferič,,3,,6060C4,FFFFFF
+600,JKP Šumadija,600,Kragujevac-/Velika Sugubina/Prvi Rakalj,,3,,37FF0F,000000
+6000,JKP Šumadija,600,Kragujevac-/Velika Sugubina/Dulene,,3,,37FF0F,000000
+601,JKP Šumadija,601,Kragujevac-Bukorovac,,3,,37FF0F,000000
+602,JKP Šumadija,602,Kragujevac-/Ramaća/Kamenica,,3,,37FF0F,000000
+6020,JKP Šumadija,602,Kragujevac-Kamenica,,3,,37FF0F,000000
+6021,JKP Šumadija,602,Kragujevac-Rogojevac,,3,,37FF0F,000000
+603,JKP Šumadija,603,Kragujevac-Donje Grbice,,3,,37FF0F,000000
+604,JKP Šumadija,604,Kragujevac-Resnik,,3,,37FF0F,000000
+605,JKP Šumadija,605,Kragujevac-Dulene,,3,,37FF0F,000000
+6050,JKP Šumadija,605,Kragujevac-/Velika Sugubina/Dulene,,3,,37FF0F,000000
+606,JKP Šumadija,606,Kragujevac-Stragari,,3,,37FF0F,000000
+6060,JKP Šumadija,606,Kragujevac-/Čumić/Stragari,,3,,37FF0F,000000
+607,JKP Šumadija,607,Kragujevac-Donje Komarice,,3,,37FF0F,000000
+608,JKP Šumadija,608,Kragujevac-/Mind/Gornje Jarušice,,3,,37FF0F,000000
+609,JKP Šumadija,609,Kragujevac-Pajazitovo,,3,,37FF0F,000000
+6090,JKP Šumadija,609,Kragujevac-Mala Vrbica,,3,,37FF0F,000000
+610,JKP Šumadija,610,Kragujevac-/Drenovac/Đuriselo,,3,,37FF0F,000000
+6100,JKP Šumadija,610,Kragujevac-Đuriselo,,3,,37FF0F,000000
+611,JKP Šumadija,611,Kragujevac-Lužnice,,3,,37FF0F,000000
+6110,JKP Šumadija,611,Kragujevac-/Cerovac Selo/Lužnice,,3,,37FF0F,000000
+612,JKP Šumadija,612,Kragujevac-Vinjište,,3,,37FF0F,000000
+613,JKP Šumadija,613,Kragujevac-/Lužnice/Mala Vrbica,,3,,37FF0F,000000

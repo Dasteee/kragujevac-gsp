@@ -1,0 +1,2171 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,work_day,1_work_day_f_T01,Botunje,0,,,1,1
+1,work_day,1_work_day_f_T02,Botunje,0,,,1,1
+1,work_day,1_work_day_b_T01,Goločelo,1,,,,
+1,work_day,1_work_day_b_T02,Goločelo,1,,,,
+1,work_day,1_work_day_b_T03,Goločelo,1,,,,
+1,work_day,1_2_work_day_f_T01,Korman,0,,,1,1
+1,work_day,1_2_work_day_f_T02,Korman,0,,,1,1
+1,work_day,1_2_work_day_f_T03,Korman,0,,,1,1
+1,work_day,1_2_work_day_f_T04,Korman,0,,,1,1
+1,work_day,1_2_work_day_f_T05,Korman,0,,,1,1
+1,work_day,1_2_work_day_b_T01,Goločelo,1,,,1,1
+1,work_day,1_2_work_day_b_T02,Goločelo,1,,,1,1
+1,work_day,1_2_work_day_b_T03,Goločelo,1,,,1,1
+1,work_day,1_2_work_day_b_T04,Goločelo,1,,,1,1
+1,work_day,1_3_work_day_f_T01,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T02,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T03,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T04,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T05,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T06,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T07,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T08,Botunje,0,,,1,1
+1,work_day,1_3_work_day_f_T09,Botunje,0,,,1,1
+1,work_day,1_3_work_day_b_T01,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T02,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T03,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T04,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T05,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T06,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T07,Dragobraća,1,,,1,1
+1,work_day,1_3_work_day_b_T08,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_f_T01,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T02,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T03,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T04,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T05,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T06,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T07,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T08,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T09,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T10,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T11,Korman,0,,,1,1
+1,work_day,1_4_work_day_f_T12,Korman,0,,,1,1
+1,work_day,1_4_work_day_b_T01,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T02,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T03,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T04,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T05,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T06,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T07,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T08,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T09,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T10,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T11,Dragobraća,1,,,1,1
+1,work_day,1_4_work_day_b_T12,Dragobraća,1,,,1,1
+1,saturday,1_saturday_f_T01,Botunje,0,,,1,1
+1,saturday,1_2_saturday_f_T01,Korman,0,,,1,1
+1,saturday,1_2_saturday_f_T02,Korman,0,,,1,1
+1,saturday,1_2_saturday_f_T03,Korman,0,,,1,1
+1,saturday,1_3_saturday_f_T01,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T02,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T03,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T04,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T05,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T06,Botunje,0,,,1,1
+1,saturday,1_3_saturday_f_T07,Botunje,0,,,1,1
+1,saturday,1_4_saturday_f_T01,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T02,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T03,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T04,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T05,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T06,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T07,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T08,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T09,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T10,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T11,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T12,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T13,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T14,Korman,0,,,1,1
+1,saturday,1_4_saturday_f_T15,Korman,0,,,1,1
+1,saturday,1_saturday_b_T01,Goločelo,1,,,1,1
+1,saturday,1_saturday_b_T02,Goločelo,1,,,1,1
+1,saturday,1_3_saturday_b_T01,Dragobraća,1,,,1,1
+1,saturday,1_3_saturday_b_T02,Dragobraća,1,,,1,1
+1,saturday,1_3_saturday_b_T03,Dragobraća,1,,,1,1
+1,saturday,1_3_saturday_b_T04,Dragobraća,1,,,1,1
+1,saturday,1_3_saturday_b_T05,Dragobraća,1,,,1,1
+1,saturday,1_3_saturday_b_T06,Dragobraća,1,,,1,1
+1,saturday,1_2_saturday_b_T01,Goločelo,1,,,1,1
+1,saturday,1_4_saturday_b_T01,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T02,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T03,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T04,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T05,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T06,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T07,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T08,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T09,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T10,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T11,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T12,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T13,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T14,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T15,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T16,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T17,Dragobraća,1,,,1,1
+1,saturday,1_4_saturday_b_T18,Dragobraća,1,,,1,1
+1,sunday,1_2_sunday_f_T01,Korman,0,,,1,1
+1,sunday,1_2_sunday_f_T02,Korman,0,,,1,1
+1,sunday,1_2_sunday_f_T03,Korman,0,,,1,1
+1,sunday,1_3_sunday_f_T01,Botunje,0,,,1,1
+1,sunday,1_3_sunday_f_T02,Botunje,0,,,1,1
+1,sunday,1_3_sunday_f_T03,Botunje,0,,,1,1
+1,sunday,1_3_sunday_f_T04,Botunje,0,,,1,1
+1,sunday,1_4_sunday_f_T01,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T02,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T03,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T04,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T05,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T06,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T07,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T08,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T09,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T10,Korman,0,,,1,1
+1,sunday,1_4_sunday_f_T11,Korman,0,,,1,1
+1,sunday,1_sunday_b_T01,Goločelo,1,,,1,1
+1,sunday,1_3_sunday_b_T01,Dragobraća,1,,,1,1
+1,sunday,1_3_sunday_b_T02,Dragobraća,1,,,1,1
+1,sunday,1_3_sunday_b_T03,Dragobraća,1,,,1,1
+1,sunday,1_2_sunday_b_T01,Goločelo,1,,,1,1
+1,sunday,1_2_sunday_b_T02,Goločelo,1,,,1,1
+1,sunday,1_4_sunday_b_T01,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T02,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T03,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T04,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T05,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T06,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T07,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T08,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T09,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T10,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T11,Dragobraća,1,,,1,1
+1,sunday,1_4_sunday_b_T12,Dragobraća,1,,,1,1
+2,work_day,2_work_day_f_T01,Donja Sabanta,0,,,1,1
+2,work_day,2_work_day_f_T02,Donja Sabanta,0,,,1,1
+2,work_day,2_work_day_f_T03,Donja Sabanta,0,,,1,1
+2,work_day,2_work_day_f_T04,Donja Sabanta,0,,,1,1
+2,work_day,2_2_work_day_f_T01,Ždraljica,0,,,1,1
+2,work_day,2_2_work_day_f_T02,Ždraljica,0,,,1,1
+2,work_day,2_2_work_day_f_T03,Ždraljica,0,,,1,1
+2,work_day,2_2_work_day_f_T04,Ždraljica,0,,,1,1
+2,work_day,2_3_work_day_f_T01,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T02,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T03,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T04,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T05,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T06,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T07,Donja Sabanta,0,,,1,1
+2,work_day,2_3_work_day_f_T08,Donja Sabanta,0,,,1,1
+2,work_day,2_4_work_day_f_T01,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T02,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T03,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T04,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T05,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T06,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T07,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T08,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T09,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T10,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T11,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T12,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T13,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T14,Ždraljica,0,,,1,1
+2,work_day,2_4_work_day_f_T15,Ždraljica,0,,,1,1
+2,work_day,2_work_day_b_T01,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T02,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T03,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T04,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T05,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T06,Novi Milanovac,1,,,1,1
+2,work_day,2_work_day_b_T07,Novi Milanovac,1,,,1,1
+2,work_day,2_3_work_day_b_T01,Petrovac,1,,,1,1
+2,work_day,2_3_work_day_b_T02,Petrovac,1,,,1,1
+2,work_day,2_3_work_day_b_T03,Petrovac,1,,,1,1
+2,work_day,2_3_work_day_b_T04,Petrovac,1,,,1,1
+2,work_day,2_3_work_day_b_T05,Petrovac,1,,,1,1
+2,work_day,2_2_work_day_b_T01,Novi Milanovac,1,,,1,1
+2,work_day,2_2_work_day_b_T02,Novi Milanovac,1,,,1,1
+2,work_day,2_4_work_day_b_T01,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T02,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T03,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T04,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T05,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T06,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T07,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T08,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T09,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T10,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T11,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T12,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T13,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T14,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T15,Petrovac,1,,,1,1
+2,work_day,2_4_work_day_b_T16,Petrovac,1,,,1,1
+2,saturday,2_saturday_f_T01,Donja Sabanta,0,,,1,1
+2,saturday,2_saturday_f_T02,Donja Sabanta,0,,,1,1
+2,saturday,2_saturday_f_T03,Donja Sabanta,0,,,1,1
+2,saturday,2_2_saturday_f_T01,Ždraljica,0,,,1,1
+2,saturday,2_2_saturday_f_T02,Ždraljica,0,,,1,1
+2,saturday,2_2_saturday_f_T03,Ždraljica,0,,,1,1
+2,saturday,2_2_saturday_f_T04,Ždraljica,0,,,1,1
+2,saturday,2_2_saturday_f_T05,Ždraljica,0,,,1,1
+2,saturday,2_3_saturday_f_T01,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T02,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T03,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T04,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T05,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T06,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T07,Donja Sabanta,0,,,1,1
+2,saturday,2_3_saturday_f_T08,Donja Sabanta,0,,,1,1
+2,saturday,2_4_saturday_f_T01,Ždraljica,0,,,1,1
+2,saturday,2_4_saturday_f_T02,Ždraljica,0,,,1,1
+2,saturday,2_4_saturday_f_T03,Ždraljica,0,,,1,1
+2,saturday,2_4_saturday_f_T04,Ždraljica,0,,,1,1
+2,saturday,2_4_saturday_f_T05,Ždraljica,0,,,1,1
+2,saturday,2_saturday_b_T01,Novi Milanovac,1,,,1,1
+2,saturday,2_saturday_b_T02,Novi Milanovac,1,,,1,1
+2,saturday,2_saturday_b_T03,Novi Milanovac,1,,,1,1
+2,saturday,2_3_saturday_b_T01,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T02,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T03,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T04,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T05,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T06,Petrovac,1,,,1,1
+2,saturday,2_3_saturday_b_T07,Petrovac,1,,,1,1
+2,saturday,2_2_saturday_b_T01,Novi Milanovac,1,,,1,1
+2,saturday,2_2_saturday_b_T02,Novi Milanovac,1,,,1,1
+2,saturday,2_2_saturday_b_T03,Novi Milanovac,1,,,1,1
+2,saturday,2_2_saturday_b_T04,Novi Milanovac,1,,,1,1
+2,saturday,2_2_saturday_b_T05,Novi Milanovac,1,,,1,1
+2,saturday,2_4_saturday_b_T01,Petrovac,1,,,1,1
+2,saturday,2_4_saturday_b_T02,Petrovac,1,,,1,1
+2,saturday,2_4_saturday_b_T03,Petrovac,1,,,1,1
+2,saturday,2_4_saturday_b_T04,Petrovac,1,,,1,1
+2,saturday,2_4_saturday_b_T05,Petrovac,1,,,1,1
+2,saturday,2_4_saturday_b_T06,Petrovac,1,,,1,1
+2,sunday,2_sunday_f_T01,Donja Sabanta,0,,,1,1
+2,sunday,2_2_sunday_f_T01,Ždraljica,0,,,1,1
+2,sunday,2_2_sunday_f_T02,Ždraljica,0,,,1,1
+2,sunday,2_3_sunday_f_T01,Donja Sabanta,0,,,1,1
+2,sunday,2_3_sunday_f_T02,Donja Sabanta,0,,,1,1
+2,sunday,2_3_sunday_f_T03,Donja Sabanta,0,,,1,1
+2,sunday,2_3_sunday_f_T04,Donja Sabanta,0,,,1,1
+2,sunday,2_3_sunday_f_T05,Donja Sabanta,0,,,1,1
+2,sunday,2_3_sunday_f_T06,Donja Sabanta,0,,,1,1
+2,sunday,2_4_sunday_f_T01,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T02,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T03,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T04,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T05,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T06,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T07,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T08,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T09,Ždraljica,0,,,1,1
+2,sunday,2_4_sunday_f_T10,Ždraljica,0,,,1,1
+2,sunday,2_3_sunday_b_T01,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T02,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T03,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T04,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T05,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T06,Petrovac,1,,,1,1
+2,sunday,2_3_sunday_b_T07,Petrovac,1,,,1,1
+2,sunday,2_2_sunday_b_T01,Novi Milanovac,1,,,1,1
+2,sunday,2_2_sunday_b_T02,Novi Milanovac,1,,,1,1
+2,sunday,2_4_sunday_b_T01,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T02,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T03,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T04,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T05,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T06,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T07,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T08,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T09,Petrovac,1,,,1,1
+2,sunday,2_4_sunday_b_T10,Petrovac,1,,,1,1
+3,work_day,3_work_day_f_T01,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T02,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T03,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T04,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T05,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T06,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T07,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T08,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T09,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T10,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T11,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T12,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T13,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T14,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T15,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T16,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T17,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T18,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T19,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T20,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T21,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T22,Bresnica,0,,,1,1
+3,work_day,3_work_day_f_T23,Bresnica,0,,,1,1
+3,work_day,3_work_day_b_T01,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T02,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T03,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T04,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T05,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T06,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T07,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T08,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T09,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T10,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T11,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T12,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T13,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T14,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T15,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T16,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T17,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T18,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T19,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T20,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T21,Denino Brdo,1,,,1,1
+3,work_day,3_work_day_b_T22,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_f_T01,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T02,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T03,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T04,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T05,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T06,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T07,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T08,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T09,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T10,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T11,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T12,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T13,Bresnica,0,,,1,1
+3,saturday,3_saturday_f_T14,Bresnica,0,,,1,1
+3,saturday,3_saturday_b_T01,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T02,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T03,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T04,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T05,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T06,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T07,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T08,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T09,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T10,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T11,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T12,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T13,Denino Brdo,1,,,1,1
+3,saturday,3_saturday_b_T14,Denino Brdo,1,,,1,1
+3,sunday,3_sunday_f_T01,Bresnica,0,,,1,1
+3,sunday,3_sunday_f_T02,Bresnica,0,,,1,1
+3,sunday,3_sunday_f_T03,Bresnica,0,,,1,1
+3,sunday,3_sunday_f_T04,Bresnica,0,,,1,1
+3,sunday,3_sunday_f_T05,Bresnica,0,,,1,1
+3,sunday,3_sunday_b_T01,Denino Brdo,1,,,1,1
+3,sunday,3_sunday_b_T02,Denino Brdo,1,,,1,1
+3,sunday,3_sunday_b_T03,Denino Brdo,1,,,1,1
+3,sunday,3_sunday_b_T04,Denino Brdo,1,,,1,1
+3,sunday,3_sunday_b_T05,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_f_T01,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T02,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T03,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T04,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T05,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T06,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T07,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T08,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T09,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T10,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T11,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T12,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T13,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_f_T14,/Bresnica/Vodovod,0,,,1,1
+1030,work_day,1030_work_day_b_T01,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T02,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T03,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T04,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T05,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T06,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T07,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T08,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T09,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T10,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T11,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T12,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T13,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T14,Denino Brdo,1,,,1,1
+1030,work_day,1030_work_day_b_T15,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_f_T01,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T02,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T03,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T04,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T05,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T06,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T07,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T08,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T09,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_f_T10,/Bresnica/Vodovod,0,,,1,1
+1030,saturday,1030_saturday_b_T01,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T02,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T03,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T04,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T05,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T06,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T07,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T08,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T09,Denino Brdo,1,,,1,1
+1030,saturday,1030_saturday_b_T10,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_f_T01,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_f_T02,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_f_T03,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_f_T04,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_f_T05,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_f_T06,/Bresnica/Vodovod,0,,,1,1
+1030,sunday,1030_sunday_b_T01,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T02,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T03,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T04,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T05,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T06,Denino Brdo,1,,,1,1
+1030,sunday,1030_sunday_b_T07,Denino Brdo,1,,,1,1
+4,work_day,4_work_day_f_T01,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T02,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T03,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T04,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T05,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T06,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T07,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T08,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T09,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T10,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T11,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T12,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T13,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T14,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T15,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T16,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T17,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T18,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T19,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T20,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T21,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T22,Autobuska Stanica,0,,,1,1
+4,work_day,4_work_day_f_T23,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T01,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T02,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T03,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T04,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T05,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T06,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T07,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T08,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T09,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T10,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T11,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T12,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T13,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T14,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T15,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T16,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T17,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T18,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T19,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T20,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T21,Autobuska Stanica,0,,,1,1
+4,saturday,4_saturday_f_T22,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T01,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T02,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T03,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T04,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T05,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T06,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T07,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T08,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T09,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T10,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T11,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T12,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T13,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T14,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T15,Autobuska Stanica,0,,,1,1
+4,sunday,4_sunday_f_T16,Autobuska Stanica,0,,,1,1
+5,work_day,5_work_day_f_T01,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T02,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T03,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T04,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T05,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T06,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T07,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T08,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T09,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T10,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T11,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T12,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T13,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T14,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T15,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T16,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T17,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T18,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T19,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T20,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T21,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T22,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T23,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T24,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T25,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T26,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T27,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T28,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T29,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T30,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T31,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T32,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T33,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T34,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T35,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T36,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_f_T37,Male Pčelice,0,,,1,1
+5,work_day,5_work_day_b_T01,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T02,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T03,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T04,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T05,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T06,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T07,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T08,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T09,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T10,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T11,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T12,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T13,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T14,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T15,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T16,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T17,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T18,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T19,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T20,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T21,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T22,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T23,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T24,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T25,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T26,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T27,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T28,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T29,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T30,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T31,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T32,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T33,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T34,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T35,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T36,Vinogradi,1,,,1,1
+5,work_day,5_work_day_b_T37,Vinogradi,1,,,1,1
+5,saturday,5_saturday_f_T01,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T02,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T03,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T04,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T05,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T06,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T07,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T08,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T09,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T10,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T11,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T12,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T13,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T14,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T15,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T16,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T17,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T18,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T19,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T20,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T21,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_f_T22,Male Pčelice,0,,,1,1
+5,saturday,5_saturday_b_T01,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T02,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T03,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T04,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T05,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T06,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T07,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T08,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T09,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T10,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T11,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T12,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T13,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T14,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T15,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T16,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T17,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T18,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T19,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T20,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T21,Vinogradi,1,,,1,1
+5,saturday,5_saturday_b_T22,Vinogradi,1,,,1,1
+5,sunday,5_sunday_f_T01,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T02,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T03,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T04,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T05,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T06,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T07,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_f_T08,Male Pčelice,0,,,1,1
+5,sunday,5_sunday_b_T01,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T02,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T03,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T04,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T05,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T06,Vinogradi,1,,,1,1
+5,sunday,5_sunday_b_T07,Vinogradi,1,,,1,1
+6,work_day,6_work_day_f_T01,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T02,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T03,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T04,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T05,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T06,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T07,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T08,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T09,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T10,Grošnica,0,,,1,1
+6,work_day,6_work_day_f_T11,Grošnica,0,,,1,1
+6,work_day,6_work_day_b_T01,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T02,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T03,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T04,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T05,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T06,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T07,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T08,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T09,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T10,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T11,Kvantaš,1,,,1,1
+6,work_day,6_work_day_b_T12,Kvantaš,1,,,1,1
+6,saturday,6_saturday_f_T01,Grošnica,0,,,1,1
+6,saturday,6_saturday_f_T02,Grošnica,0,,,1,1
+6,saturday,6_saturday_f_T03,Grošnica,0,,,1,1
+6,saturday,6_saturday_f_T04,Grošnica,0,,,1,1
+6,saturday,6_saturday_f_T05,Grošnica,0,,,1,1
+6,saturday,6_saturday_b_T01,Kvantaš,1,,,1,1
+6,saturday,6_saturday_b_T02,Kvantaš,1,,,1,1
+6,saturday,6_saturday_b_T03,Kvantaš,1,,,1,1
+6,saturday,6_saturday_b_T04,Kvantaš,1,,,1,1
+6,saturday,6_saturday_b_T05,Kvantaš,1,,,1,1
+1060,work_day,1060_work_day_f_T01,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_f_T02,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_f_T03,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_f_T04,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_f_T05,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_f_T06,Grošnica,0,,,1,1
+1060,work_day,1060_work_day_b_T01,Autobuska Stanica,1,,,1,1
+1060,work_day,1060_work_day_b_T02,Autobuska Stanica,1,,,1,1
+1060,work_day,1060_work_day_b_T03,Autobuska Stanica,1,,,1,1
+1060,work_day,1060_work_day_b_T04,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_f_T01,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_f_T02,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_f_T03,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_f_T04,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_f_T05,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_f_T06,Grošnica,0,,,1,1
+1060,saturday,1060_saturday_b_T01,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_b_T02,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_b_T03,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_b_T04,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_b_T05,Autobuska Stanica,1,,,1,1
+1060,saturday,1060_saturday_b_T06,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_f_T01,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T02,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T03,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T04,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T05,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T06,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T07,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T08,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_f_T09,Grošnica,0,,,1,1
+1060,sunday,1060_sunday_b_T01,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T02,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T03,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T04,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T05,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T06,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T07,Autobuska Stanica,1,,,1,1
+1060,sunday,1060_sunday_b_T08,Autobuska Stanica,1,,,1,1
+7,work_day,7_work_day_b_T01,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T02,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T03,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T04,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T05,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T06,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T07,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T08,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T09,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T10,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T11,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T12,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T13,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T14,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T15,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T16,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T17,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T18,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T19,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_b_T20,/Erdoglija/Centar-Palata Pravde,1,,,1,1
+7,work_day,7_work_day_f_T01,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T02,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T03,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T04,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T05,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T06,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T07,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T08,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T09,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T10,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T11,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T12,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T13,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T14,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T15,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T16,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T17,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T18,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T19,Centar-Palata Pravde,0,,,1,1
+7,work_day,7_work_day_f_T20,Centar-Palata Pravde,0,,,1,1
+8,work_day,8_work_day_f_T01,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T02,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T03,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T04,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T05,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T06,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T07,Stara Opština,0,,,1,1
+8,work_day,8_work_day_f_T08,Stara Opština,0,,,1,1
+8,work_day,8_2_work_day_f_T01,Ilićevo Spomenik,0,,,1,1
+8,work_day,8_2_work_day_f_T02,Ilićevo Spomenik,0,,,1,1
+8,work_day,8_2_work_day_f_T03,Ilićevo Spomenik,0,,,1,1
+8,work_day,8_2_work_day_f_T04,Ilićevo Spomenik,0,,,1,1
+8,work_day,8_2_work_day_f_T05,Ilićevo Spomenik,0,,,1,1
+8,work_day,8_work_day_b_T01,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T02,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T03,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T04,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T05,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T06,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T07,Višnjak,1,,,1,1
+8,work_day,8_work_day_b_T08,Višnjak,1,,,1,1
+8,work_day,8_2_work_day_b_T01,Višnjak,1,,,1,1
+8,work_day,8_2_work_day_b_T02,Višnjak,1,,,1,1
+8,work_day,8_2_work_day_b_T03,Višnjak,1,,,1,1
+8,work_day,8_2_work_day_b_T04,Višnjak,1,,,1,1
+8,work_day,8_2_work_day_b_T05,Višnjak,1,,,1,1
+8,saturday,8_saturday_f_T01,Stara Opština,0,,,1,1
+8,saturday,8_saturday_f_T02,Stara Opština,0,,,1,1
+8,saturday,8_saturday_f_T03,Stara Opština,0,,,1,1
+8,saturday,8_2_saturday_f_T01,Ilićevo Spomenik,0,,,1,1
+8,saturday,8_2_saturday_f_T02,Ilićevo Spomenik,0,,,1,1
+8,saturday,8_2_saturday_f_T03,Ilićevo Spomenik,0,,,1,1
+8,saturday,8_saturday_b_T01,Višnjak,1,,,1,1
+8,saturday,8_saturday_b_T02,Višnjak,1,,,1,1
+8,saturday,8_saturday_b_T03,Višnjak,1,,,1,1
+8,saturday,8_saturday_b_T04,Višnjak,1,,,1,1
+8,saturday,8_saturday_b_T05,Višnjak,1,,,1,1
+8,saturday,8_2_saturday_b_T01,Višnjak,1,,,1,1
+8,sunday,8_sunday_f_T01,Stara Opština,0,,,1,1
+8,sunday,8_sunday_f_T02,Stara Opština,0,,,1,1
+8,sunday,8_sunday_f_T03,Stara Opština,0,,,1,1
+8,sunday,8_2_sunday_f_T01,Ilićevo Spomenik,0,,,1,1
+8,sunday,8_sunday_b_T01,Višnjak,1,,,1,1
+8,sunday,8_sunday_b_T02,Višnjak,1,,,1,1
+8,sunday,8_2_sunday_b_T01,Višnjak,1,,,1,1
+1080,work_day,1080_work_day_f_T01,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T02,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T03,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T04,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T05,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T06,Stara Opština,0,,,1,1
+1080,work_day,1080_work_day_f_T07,Stara Opština,0,,,1,1
+1080,work_day,1080_2_work_day_f_T01,Ilićevo Spomenik,0,,,1,1
+1080,work_day,1080_2_work_day_f_T02,Ilićevo Spomenik,0,,,1,1
+1080,work_day,1080_2_work_day_f_T03,Ilićevo Spomenik,0,,,1,1
+1080,work_day,1080_2_work_day_f_T04,Ilićevo Spomenik,0,,,1,1
+1080,work_day,1080_2_work_day_f_T05,Ilićevo Spomenik,0,,,1,1
+1080,work_day,1080_work_day_b_T01,Bagremar,1,,,1,1
+1080,work_day,1080_work_day_b_T02,Bagremar,1,,,1,1
+1080,work_day,1080_work_day_b_T03,Bagremar,1,,,1,1
+1080,work_day,1080_work_day_b_T04,Bagremar,1,,,1,1
+1080,work_day,1080_work_day_b_T05,Bagremar,1,,,1,1
+1080,work_day,1080_work_day_b_T06,Bagremar,1,,,1,1
+1080,work_day,1080_2_work_day_b_T01,Bagremar,1,,,1,1
+1080,work_day,1080_2_work_day_b_T02,Bagremar,1,,,1,1
+1080,work_day,1080_2_work_day_b_T03,Bagremar,1,,,1,1
+1080,work_day,1080_2_work_day_b_T04,Bagremar,1,,,1,1
+1080,saturday,1080_saturday_f_T01,Stara Opština,0,,,1,1
+1080,saturday,1080_saturday_f_T02,Stara Opština,0,,,1,1
+1080,saturday,1080_saturday_f_T03,Stara Opština,0,,,1,1
+1080,saturday,1080_2_saturday_f_T01,Ilićevo Spomenik /Stara Opština/,0,,,1,1
+1080,saturday,1080_saturday_b_T01,Bagremar,1,,,1,1
+1080,saturday,1080_2_saturday_b_T01,Bagremar,1,,,1,1
+1080,saturday,1080_2_saturday_b_T02,Bagremar,1,,,1,1
+1080,saturday,1080_2_saturday_b_T03,Bagremar,1,,,1,1
+1080,sunday,1080_sunday_f_T01,Stara Opština,0,,,1,1
+1080,sunday,1080_sunday_f_T02,Stara Opština,0,,,1,1
+1080,sunday,1080_2_sunday_f_T01,Ilićevo Spomenik,0,,,1,1
+1080,sunday,1080_2_sunday_f_T02,Ilićevo Spomenik,0,,,1,1
+1080,sunday,1080_2_sunday_f_T03,Ilićevo Spomenik,0,,,1,1
+1080,sunday,1080_sunday_b_T01,Bagremar,1,,,1,1
+1080,sunday,1080_sunday_b_T02,Bagremar,1,,,1,1
+1080,sunday,1080_sunday_b_T03,Bagremar,1,,,1,1
+1080,sunday,1080_2_sunday_b_T01,Bagremar,1,,,1,1
+9,work_day,9_work_day_f_T01,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T02,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T03,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T04,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T05,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T06,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T07,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T08,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T09,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T10,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T11,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T12,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T13,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T14,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T15,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_f_T16,Cvetojevac,0,,,1,1
+9,work_day,9_work_day_b_T01,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T02,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T03,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T04,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T05,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T06,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T07,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T08,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T09,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T10,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T11,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T12,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T13,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T14,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T15,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T16,Ćiftina Ćuprija,1,,,1,1
+9,work_day,9_work_day_b_T17,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_f_T01,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T02,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T03,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T04,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T05,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T06,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T07,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_f_T08,Cvetojevac,0,,,1,1
+9,saturday,9_saturday_b_T01,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T02,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T03,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T04,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T05,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T06,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T07,Ćiftina Ćuprija,1,,,1,1
+9,saturday,9_saturday_b_T08,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_f_T01,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T02,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T03,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T04,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T05,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T06,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_f_T07,Cvetojevac,0,,,1,1
+9,sunday,9_sunday_b_T01,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T02,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T03,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T04,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T05,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T06,Ćiftina Ćuprija,1,,,1,1
+9,sunday,9_sunday_b_T07,Ćiftina Ćuprija,1,,,1,1
+10,work_day,10_work_day_f_T01,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T02,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T03,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T04,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T05,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T06,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T07,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T08,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T09,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T10,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T11,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T12,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T13,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T14,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T15,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T16,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T17,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T18,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T19,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T20,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T21,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T22,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T23,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T24,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T25,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T26,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T27,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T28,Maršić,0,,,1,1
+10,work_day,10_work_day_f_T29,Maršić,0,,,1,1
+10,work_day,10_work_day_b_T01,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T02,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T03,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T04,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T05,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T06,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T07,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T08,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T09,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T10,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T11,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T12,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T13,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T14,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T15,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T16,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T17,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T18,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T19,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T20,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T21,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T22,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T23,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T24,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T25,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T26,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T27,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T28,Erdeč,1,,,1,1
+10,work_day,10_work_day_b_T29,Erdeč,1,,,1,1
+10,saturday,10_saturday_f_T01,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T02,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T03,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T04,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T05,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T06,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T07,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T08,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T09,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T10,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T11,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T12,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T13,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T14,Maršić,0,,,1,1
+10,saturday,10_saturday_f_T15,Maršić,0,,,1,1
+10,saturday,10_saturday_b_T01,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T02,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T03,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T04,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T05,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T06,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T07,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T08,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T09,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T10,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T11,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T12,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T13,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T14,Erdeč,1,,,1,1
+10,saturday,10_saturday_b_T15,Erdeč,1,,,1,1
+10,sunday,10_sunday_f_T01,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T02,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T03,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T04,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T05,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T06,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T07,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T08,Maršić,0,,,1,1
+10,sunday,10_sunday_f_T09,Maršić,0,,,1,1
+10,sunday,10_sunday_b_T01,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T02,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T03,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T04,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T05,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T06,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T07,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T08,Erdeč,1,,,1,1
+10,sunday,10_sunday_b_T09,Erdeč,1,,,1,1
+11,work_day,11_work_day_f_T01,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T02,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T03,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T04,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T05,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T06,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T07,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T08,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T09,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T10,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T11,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,work_day,11_work_day_f_T12,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T01,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T02,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T03,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T04,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T05,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T06,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,saturday,11_saturday_f_T07,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T01,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T02,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T03,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T04,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T05,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T06,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T07,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T08,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T09,/Bolnica/Stanovo-Hotel,0,,,1,1
+11,sunday,11_sunday_f_T10,/Bolnica/Stanovo-Hotel,0,,,1,1
+1110,work_day,1110_work_day_b_T01,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T02,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T03,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T04,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T05,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T06,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T07,Stanovo/Hotel,1,,,1,1
+1110,work_day,1110_work_day_b_T08,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T01,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T02,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T03,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T04,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T05,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T06,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T07,Stanovo/Hotel,1,,,1,1
+1110,saturday,1110_saturday_b_T08,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T01,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T02,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T03,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T04,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T05,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T06,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T07,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T08,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T09,Stanovo/Hotel,1,,,1,1
+1110,sunday,1110_sunday_b_T10,Stanovo/Hotel,1,,,1,1
+1111,work_day,1111_work_day_f_T01,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_work_day_f_T02,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_work_day_f_T03,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_work_day_f_T04,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_2_work_day_f_T01,/Bolnica/-Hotel,0,,,1,1
+1111,work_day,1111_2_work_day_f_T02,/Bolnica/-Hotel,0,,,1,1
+1111,work_day,1111_2_work_day_f_T03,/Bolnica/-Hotel,0,,,1,1
+1111,work_day,1111_2_work_day_f_T04,/Bolnica/-Hotel,0,,,1,1
+1111,work_day,1111_2_work_day_f_T05,/Bolnica/-Hotel,0,,,1,1
+1111,work_day,1111_3_work_day_f_T01,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_3_work_day_f_T02,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_3_work_day_f_T03,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_3_work_day_f_T04,/Bolnica/-Data Centar,0,,,1,1
+1111,work_day,1111_3_work_day_f_T05,/Bolnica/-Data Centar,0,,,1,1
+1112,work_day,1112_work_day_b_T01,/Višnjak/-Data Centar,1,,,1,1
+1112,work_day,1112_2_work_day_b_T01,/Višnjak/-Hotel,1,,,1,1
+1112,work_day,1112_2_work_day_b_T02,/Višnjak/-Hotel,1,,,1,1
+1112,work_day,1112_2_work_day_b_T03,/Višnjak/-Hotel,1,,,1,1
+1112,work_day,1112_3_work_day_b_T01,/Višnjak/-Data Centar,1,,,1,1
+1112,work_day,1112_3_work_day_b_T02,/Višnjak/-Data Centar,1,,,1,1
+1112,work_day,1112_3_work_day_b_T03,/Višnjak/-Data Centar,1,,,1,1
+1111,saturday,1111_saturday_f_T01,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_saturday_f_T02,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_saturday_f_T03,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_saturday_f_T04,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_2_saturday_f_T01,/Bolnica/-Hotel,0,,,1,1
+1111,saturday,1111_2_saturday_f_T02,/Bolnica/-Hotel,0,,,1,1
+1111,saturday,1111_2_saturday_f_T03,/Bolnica/-Hotel,0,,,1,1
+1111,saturday,1111_3_saturday_f_T01,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_3_saturday_f_T02,/Bolnica/-Data Centar,0,,,1,1
+1111,saturday,1111_3_saturday_f_T03,/Bolnica/-Data Centar,0,,,1,1
+1112,saturday,1112_saturday_b_T01,/Višnjak/-Data Centar,1,,,1,1
+1112,saturday,1112_2_saturday_b_T01,/Višnjak/-Hotel,1,,,1,1
+1112,saturday,1112_2_saturday_b_T02,/Višnjak/-Hotel,1,,,1,1
+1112,saturday,1112_2_saturday_b_T03,/Višnjak/-Hotel,1,,,1,1
+1112,saturday,1112_3_saturday_b_T01,/Višnjak/-Data Centar,1,,,1,1
+1112,saturday,1112_3_saturday_b_T02,/Višnjak/-Data Centar,1,,,1,1
+1112,saturday,1112_3_saturday_b_T03,/Višnjak/-Data Centar,1,,,1,1
+13,work_day,13_work_day_f_T01,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T02,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T03,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T04,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T05,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T06,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T07,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T08,Grošnica,0,,,1,1
+13,work_day,13_work_day_f_T09,Grošnica,0,,,1,1
+13,work_day,13_work_day_b_T01,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T02,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T03,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T04,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T05,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T06,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T07,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T08,Trmbas,1,,,1,1
+13,work_day,13_work_day_b_T09,Trmbas,1,,,1,1
+13,saturday,13_saturday_f_T01,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T02,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T03,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T04,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T05,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T06,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T07,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T08,Grošnica,0,,,1,1
+13,saturday,13_saturday_f_T09,Grošnica,0,,,1,1
+13,saturday,13_saturday_b_T01,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T02,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T03,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T04,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T05,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T06,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T07,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T08,Trmbas,1,,,1,1
+13,saturday,13_saturday_b_T09,Trmbas,1,,,1,1
+13,sunday,13_sunday_f_T01,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T02,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T03,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T04,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T05,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T06,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T07,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T08,Grošnica,0,,,1,1
+13,sunday,13_sunday_f_T09,Grošnica,0,,,1,1
+13,sunday,13_sunday_b_T01,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T02,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T03,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T04,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T05,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T06,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T07,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T08,Trmbas,1,,,1,1
+13,sunday,13_sunday_b_T09,Trmbas,1,,,1,1
+14,work_day,14_work_day_f_T01,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T02,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T03,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T04,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T05,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T06,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T07,Grošnica,0,,,1,1
+14,work_day,14_work_day_f_T08,Grošnica,0,,,1,1
+14,work_day,14_work_day_b_T01,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T02,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T03,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T04,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T05,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T06,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T07,Trmbas,1,,,1,1
+14,work_day,14_work_day_b_T08,Trmbas,1,,,1,1
+14,saturday,14_saturday_f_T01,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T02,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T03,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T04,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T05,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T06,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T07,Grošnica,0,,,1,1
+14,saturday,14_saturday_f_T08,Grošnica,0,,,1,1
+14,saturday,14_saturday_b_T01,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T02,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T03,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T04,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T05,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T06,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T07,Trmbas,1,,,1,1
+14,saturday,14_saturday_b_T08,Trmbas,1,,,1,1
+15,work_day,15_work_day_f_T01,Drača,0,,,1,1
+15,work_day,15_work_day_f_T02,Drača,0,,,1,1
+15,work_day,15_work_day_f_T03,Drača,0,,,1,1
+15,work_day,15_work_day_f_T04,Drača,0,,,1,1
+15,work_day,15_work_day_f_T05,Drača,0,,,1,1
+15,work_day,15_work_day_f_T06,Drača,0,,,1,1
+15,work_day,15_work_day_f_T07,Drača,0,,,1,1
+15,work_day,15_work_day_f_T08,Drača,0,,,1,1
+15,work_day,15_work_day_f_T09,Drača,0,,,1,1
+15,work_day,15_work_day_f_T10,Drača,0,,,1,1
+15,work_day,15_work_day_f_T11,Drača,0,,,1,1
+15,work_day,15_work_day_f_T12,Drača,0,,,1,1
+15,work_day,15_work_day_f_T13,Drača,0,,,1,1
+15,work_day,15_work_day_f_T14,Drača,0,,,1,1
+15,work_day,15_2_work_day_f_T01,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T02,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T03,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T04,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T05,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T06,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T07,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T08,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T09,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T10,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T11,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T12,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T13,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T14,Šumarice,0,,,1,1
+15,work_day,15_2_work_day_f_T15,Šumarice,0,,,1,1
+15,work_day,15_work_day_b_T01,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T02,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T03,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T04,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T05,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T06,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T07,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T08,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T09,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T10,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T11,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T12,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T13,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T14,Korićani,1,,,1,1
+15,work_day,15_work_day_b_T15,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T01,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T02,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T03,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T04,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T05,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T06,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T07,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T08,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T09,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T10,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T11,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T12,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T13,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T14,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T15,Korićani,1,,,1,1
+15,work_day,15_2_work_day_b_T16,Korićani,1,,,1,1
+15,saturday,15_saturday_f_T01,Drača,0,,,1,1
+15,saturday,15_saturday_f_T02,Drača,0,,,1,1
+15,saturday,15_saturday_f_T03,Drača,0,,,1,1
+15,saturday,15_saturday_f_T04,Drača,0,,,1,1
+15,saturday,15_saturday_f_T05,Drača,0,,,1,1
+15,saturday,15_saturday_f_T06,Drača,0,,,1,1
+15,saturday,15_saturday_f_T07,Drača,0,,,1,1
+15,saturday,15_saturday_f_T08,Drača,0,,,1,1
+15,saturday,15_saturday_f_T09,Drača,0,,,1,1
+15,saturday,15_saturday_f_T10,Drača,0,,,1,1
+15,saturday,15_2_saturday_f_T01,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T02,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T03,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T04,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T05,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T06,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T07,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T08,Šumarice,0,,,1,1
+15,saturday,15_2_saturday_f_T09,Šumarice,0,,,1,1
+15,saturday,15_saturday_b_T01,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T02,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T03,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T04,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T05,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T06,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T07,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T08,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T09,Korićani,1,,,1,1
+15,saturday,15_saturday_b_T10,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T01,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T02,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T03,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T04,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T05,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T06,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T07,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T08,Korićani,1,,,1,1
+15,saturday,15_2_saturday_b_T09,Korićani,1,,,1,1
+15,sunday,15_sunday_f_T01,Drača,0,,,1,1
+15,sunday,15_sunday_f_T02,Drača,0,,,1,1
+15,sunday,15_sunday_f_T03,Drača,0,,,1,1
+15,sunday,15_sunday_f_T04,Drača,0,,,1,1
+15,sunday,15_sunday_f_T05,Drača,0,,,1,1
+15,sunday,15_sunday_f_T06,Drača,0,,,1,1
+15,sunday,15_2_sunday_f_T01,Šumarice,0,,,1,1
+15,sunday,15_2_sunday_f_T02,Šumarice,0,,,1,1
+15,sunday,15_2_sunday_f_T03,Šumarice,0,,,1,1
+15,sunday,15_sunday_b_T01,Korićani,1,,,1,1
+15,sunday,15_sunday_b_T02,Korićani,1,,,1,1
+15,sunday,15_sunday_b_T03,Korićani,1,,,1,1
+15,sunday,15_sunday_b_T04,Korićani,1,,,1,1
+15,sunday,15_sunday_b_T05,Korićani,1,,,1,1
+15,sunday,15_sunday_b_T06,Korićani,1,,,1,1
+15,sunday,15_2_sunday_b_T01,Korićani,1,,,1,1
+15,sunday,15_2_sunday_b_T02,Korićani,1,,,1,1
+15,sunday,15_2_sunday_b_T03,Korićani,1,,,1,1
+16,work_day,16_work_day_f_T01,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T02,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T03,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T04,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T05,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T06,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T07,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T08,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T09,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_work_day_f_T10,Desimirovac /Selo/,0,,,1,1
+16,work_day,16_2_work_day_f_T01,Desimirovac,0,,,1,1
+16,work_day,16_2_work_day_f_T02,Desimirovac,0,,,1,1
+16,work_day,16_2_work_day_f_T03,Desimirovac,0,,,1,1
+16,work_day,16_2_work_day_f_T04,Desimirovac,0,,,1,1
+16,work_day,16_2_work_day_f_T05,Desimirovac,0,,,1,1
+16,work_day,16_work_day_b_T01,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T02,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T03,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T04,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T05,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T06,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T07,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T08,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T09,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T10,Veliko Polje,1,,,1,1
+16,work_day,16_work_day_b_T11,Veliko Polje,1,,,1,1
+16,work_day,16_2_work_day_b_T01,Veliko Polje,1,,,1,1
+16,work_day,16_2_work_day_b_T02,Veliko Polje,1,,,1,1
+16,work_day,16_2_work_day_b_T03,Veliko Polje,1,,,1,1
+16,work_day,16_2_work_day_b_T04,Veliko Polje,1,,,1,1
+16,work_day,16_2_work_day_b_T05,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_f_T01,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T02,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T03,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T04,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T05,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T06,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T07,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T08,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_f_T09,Desimirovac /Selo/,0,,,1,1
+16,saturday,16_saturday_b_T01,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T02,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T03,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T04,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T05,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T06,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T07,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T08,Veliko Polje,1,,,1,1
+16,saturday,16_saturday_b_T09,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_f_T01,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T02,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T03,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T04,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T05,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T06,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_f_T07,Desimirovac /Selo/,0,,,1,1
+16,sunday,16_sunday_b_T01,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T02,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T03,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T04,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T05,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T06,Veliko Polje,1,,,1,1
+16,sunday,16_sunday_b_T07,Veliko Polje,1,,,1,1
+17,work_day,17_work_day_f_T01,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T02,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T03,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T04,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T05,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T06,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T07,Jezero,0,,,1,1
+17,work_day,17_work_day_f_T08,Jezero,0,,,1,1
+17,work_day,17_2_work_day_f_T01,Dom Starih,0,,,1,1
+17,work_day,17_2_work_day_f_T02,Dom Starih,0,,,1,1
+17,work_day,17_2_work_day_f_T03,Dom Starih,0,,,1,1
+17,work_day,17_2_work_day_f_T04,Dom Starih,0,,,1,1
+17,work_day,17_2_work_day_f_T05,Dom Starih,0,,,1,1
+17,work_day,17_work_day_b_T01,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T02,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T03,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T04,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T05,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T06,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T07,Baljkovac,1,,,1,1
+17,work_day,17_work_day_b_T08,Baljkovac,1,,,1,1
+17,work_day,17_2_work_day_b_T01,Baljkovac,1,,,1,1
+17,work_day,17_2_work_day_b_T02,Baljkovac,1,,,1,1
+17,work_day,17_2_work_day_b_T03,Baljkovac,1,,,1,1
+17,work_day,17_2_work_day_b_T04,Baljkovac,1,,,1,1
+17,work_day,17_2_work_day_b_T05,Baljkovac,1,,,1,1
+17,saturday,17_saturday_f_T01,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T02,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T03,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T04,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T05,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T06,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T07,Jezero,0,,,1,1
+17,saturday,17_saturday_f_T08,Jezero,0,,,1,1
+17,saturday,17_2_saturday_f_T01,Dom Starih,0,,,1,1
+17,saturday,17_2_saturday_f_T02,Dom Starih,0,,,1,1
+17,saturday,17_2_saturday_f_T03,Dom Starih,0,,,1,1
+17,saturday,17_2_saturday_f_T04,Dom Starih,0,,,1,1
+17,saturday,17_2_saturday_f_T05,Dom Starih,0,,,1,1
+17,saturday,17_saturday_b_T01,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T02,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T03,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T04,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T05,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T06,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T07,Baljkovac,1,,,1,1
+17,saturday,17_saturday_b_T08,Baljkovac,1,,,1,1
+17,saturday,17_2_saturday_b_T01,Baljkovac,1,,,1,1
+17,saturday,17_2_saturday_b_T02,Baljkovac,1,,,1,1
+17,saturday,17_2_saturday_b_T03,Baljkovac,1,,,1,1
+17,saturday,17_2_saturday_b_T04,Baljkovac,1,,,1,1
+17,saturday,17_2_saturday_b_T05,Baljkovac,1,,,1,1
+17,sunday,17_sunday_f_T01,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T02,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T03,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T04,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T05,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T06,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T07,Jezero,0,,,1,1
+17,sunday,17_sunday_f_T08,Jezero,0,,,1,1
+17,sunday,17_2_sunday_f_T01,Dom Starih,0,,,1,1
+17,sunday,17_2_sunday_f_T02,Dom Starih,0,,,1,1
+17,sunday,17_2_sunday_f_T03,Dom Starih,0,,,1,1
+17,sunday,17_2_sunday_f_T04,Dom Starih,0,,,1,1
+17,sunday,17_sunday_b_T01,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T02,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T03,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T04,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T05,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T06,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T07,Baljkovac,1,,,1,1
+17,sunday,17_sunday_b_T08,Baljkovac,1,,,1,1
+17,sunday,17_2_sunday_b_T01,Baljkovac,1,,,1,1
+17,sunday,17_2_sunday_b_T02,Baljkovac,1,,,1,1
+17,sunday,17_2_sunday_b_T03,Baljkovac,1,,,1,1
+18,work_day,18_work_day_f_T01,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T02,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T03,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T04,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T05,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T06,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T07,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T08,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T09,Bozman,0,,,1,1
+18,work_day,18_work_day_f_T10,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T01,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T02,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T03,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T04,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T05,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T06,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T07,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T08,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T09,Bozman,0,,,1,1
+18,saturday,18_saturday_f_T10,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T01,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T02,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T03,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T04,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T05,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T06,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T07,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T08,Bozman,0,,,1,1
+18,sunday,18_sunday_f_T09,Bozman,0,,,1,1
+19,work_day,19_work_day_f_T01,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T02,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T03,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T04,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T05,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T06,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T07,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T08,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T09,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T10,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T11,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T12,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T13,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T14,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T15,Smer A,0,,,1,1
+19,work_day,19_work_day_f_T16,Smer A,0,,,1,1
+19,work_day,19_work_day_b_T01,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T02,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T03,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T04,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T05,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T06,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T07,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T08,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T09,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T10,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T11,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T12,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T13,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T14,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T15,Smer B,1,,,1,1
+19,work_day,19_work_day_b_T16,Smer B,1,,,1,1
+19,saturday,19_saturday_f_T01,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T02,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T03,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T04,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T05,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T06,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T07,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T08,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T09,Smer A,0,,,1,1
+19,saturday,19_saturday_f_T10,Smer A,0,,,1,1
+19,saturday,19_saturday_b_T01,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T02,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T03,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T04,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T05,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T06,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T07,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T08,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T09,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T10,Smer B,1,,,1,1
+19,saturday,19_saturday_b_T11,Smer B,1,,,1,1
+19,sunday,19_sunday_f_T01,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T02,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T03,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T04,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T05,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T06,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T07,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T08,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T09,Smer A,0,,,1,1
+19,sunday,19_sunday_f_T10,Smer A,0,,,1,1
+19,sunday,19_sunday_b_T01,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T02,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T03,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T04,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T05,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T06,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T07,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T08,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T09,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T10,Smer B,1,,,1,1
+19,sunday,19_sunday_b_T11,Smer B,1,,,1,1
+20,work_day,20_work_day_f_T01,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T02,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T03,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T04,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T05,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T06,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T07,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T08,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T09,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T10,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T11,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T12,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T13,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T14,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T15,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T16,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T17,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T18,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T19,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T20,Korićani,0,,,1,1
+20,work_day,20_work_day_f_T21,Korićani,0,,,1,1
+20,work_day,20_work_day_b_T01,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T02,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T03,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T04,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T05,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T06,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T07,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T08,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T09,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T10,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T11,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T12,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T13,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T14,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T15,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T16,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T17,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T18,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T19,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T20,Denino Brdo,1,,,1,1
+20,work_day,20_work_day_b_T21,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_f_T01,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T02,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T03,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T04,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T05,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T06,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T07,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T08,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T09,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T10,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T11,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T12,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T13,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T14,Korićani,0,,,1,1
+20,saturday,20_saturday_f_T15,Korićani,0,,,1,1
+20,saturday,20_saturday_b_T01,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T02,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T03,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T04,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T05,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T06,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T07,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T08,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T09,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T10,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T11,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T12,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T13,Denino Brdo,1,,,1,1
+20,saturday,20_saturday_b_T14,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_f_T01,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T02,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T03,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T04,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T05,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T06,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T07,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T08,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T09,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T10,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T11,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T12,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T13,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T14,Korićani,0,,,1,1
+20,sunday,20_sunday_f_T15,Korićani,0,,,1,1
+20,sunday,20_sunday_b_T01,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T02,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T03,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T04,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T05,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T06,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T07,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T08,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T09,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T10,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T11,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T12,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T13,Denino Brdo,1,,,1,1
+20,sunday,20_sunday_b_T14,Denino Brdo,1,,,1,1
+24,work_day,24_work_day_f_T01,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T02,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T03,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T04,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T05,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T06,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T07,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T08,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T09,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T10,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T11,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T12,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T13,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T14,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T15,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T16,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T17,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_f_T18,Košutnjak Brdo,0,,,1,1
+24,work_day,24_work_day_b_T01,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T02,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T03,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T04,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T05,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T06,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T07,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T08,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T09,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T10,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T11,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T12,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T13,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T14,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T15,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T16,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T17,Ćava,1,,,1,1
+24,work_day,24_work_day_b_T18,Ćava,1,,,1,1
+24,saturday,24_saturday_f_T01,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T02,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T03,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T04,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T05,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T06,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T07,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T08,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T09,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T10,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_f_T11,Košutnjak Brdo,0,,,1,1
+24,saturday,24_saturday_b_T01,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T02,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T03,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T04,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T05,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T06,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T07,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T08,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T09,Ćava,1,,,1,1
+24,saturday,24_saturday_b_T10,Ćava,1,,,1,1
+24,sunday,24_sunday_f_T01,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T02,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T03,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T04,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T05,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T06,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T07,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T08,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_f_T09,Košutnjak Brdo,0,,,1,1
+24,sunday,24_sunday_b_T01,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T02,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T03,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T04,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T05,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T06,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T07,Ćava,1,,,1,1
+24,sunday,24_sunday_b_T08,Ćava,1,,,1,1
+25,work_day,25_work_day_f_T01,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T02,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T03,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T04,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T05,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T06,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T07,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T08,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T09,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_f_T10,Šumski Raj,0,,,1,1
+25,work_day,25_work_day_b_T01,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T02,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T03,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T04,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T05,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T06,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T07,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T08,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T09,Erdeč,1,,,1,1
+25,work_day,25_work_day_b_T10,Erdeč,1,,,1,1
+25,saturday,25_saturday_f_T01,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T02,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T03,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T04,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T05,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T06,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T07,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T08,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_f_T09,Šumski Raj,0,,,1,1
+25,saturday,25_saturday_b_T01,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T02,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T03,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T04,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T05,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T06,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T07,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T08,Erdeč,1,,,1,1
+25,saturday,25_saturday_b_T09,Erdeč,1,,,1,1
+25,sunday,25_sunday_f_T01,Šumski Raj,0,,,1,1
+25,sunday,25_sunday_f_T02,Šumski Raj,0,,,1,1
+25,sunday,25_sunday_f_T03,Šumski Raj,0,,,1,1
+25,sunday,25_sunday_f_T04,Šumski Raj,0,,,1,1
+25,sunday,25_sunday_f_T05,Šumski Raj,0,,,1,1
+25,sunday,25_sunday_b_T01,Erdeč,1,,,1,1
+25,sunday,25_sunday_b_T02,Erdeč,1,,,1,1
+25,sunday,25_sunday_b_T03,Erdeč,1,,,1,1
+25,sunday,25_sunday_b_T04,Erdeč,1,,,1,1
+25,sunday,25_sunday_b_T05,Erdeč,1,,,1,1
+26,work_day,26_work_day_f_T01,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T02,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T03,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T04,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T05,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T06,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T07,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T08,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T09,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T10,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T11,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T12,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T13,Teferič,0,,,1,1
+26,work_day,26_work_day_f_T14,Teferič,0,,,1,1
+26,work_day,26_work_day_b_T01,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T02,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T03,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T04,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T05,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T06,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T07,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T08,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T09,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T10,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T11,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T12,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T13,Male Pčelice Staro Selo,1,,,1,1
+26,work_day,26_work_day_b_T14,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_f_T01,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T02,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T03,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T04,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T05,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T06,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T07,Teferič,0,,,1,1
+26,saturday,26_saturday_f_T08,Teferič,0,,,1,1
+26,saturday,26_saturday_b_T01,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T02,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T03,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T04,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T05,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T06,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T07,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T08,Male Pčelice Staro Selo,1,,,1,1
+26,saturday,26_saturday_b_T09,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_f_T01,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T02,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T03,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T04,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T05,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T06,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T07,Teferič,0,,,1,1
+26,sunday,26_sunday_f_T08,Teferič,0,,,1,1
+26,sunday,26_sunday_b_T01,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T02,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T03,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T04,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T05,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T06,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T07,Male Pčelice Staro Selo,1,,,1,1
+26,sunday,26_sunday_b_T08,Male Pčelice Staro Selo,1,,,1,1
+600,work_day,600_work_day_f_T01,Prvi Rakalj,0,,,1,1
+600,work_day,600_work_day_f_T02,Prvi Rakalj,0,,,1,1
+600,work_day,600_work_day_f_T03,Prvi Rakalj,0,,,1,1
+600,work_day,600_work_day_f_T04,Prvi Rakalj,0,,,1,1
+600,work_day,600_work_day_f_T05,Prvi Rakalj,0,,,1,1
+600,work_day,600_work_day_b_T01,/V.Sugubina/Kragujevac,1,,,1,1
+600,work_day,600_work_day_b_T02,/V.Sugubina/Kragujevac,1,,,1,1
+600,work_day,600_work_day_b_T03,/V.Sugubina/Kragujevac,1,,,1,1
+600,work_day,600_work_day_b_T04,/V.Sugubina/Kragujevac,1,,,1,1
+600,work_day,600_work_day_b_T05,/V.Sugubina/Kragujevac,1,,,1,1
+600,saturday,600_saturday_f_T01,Prvi Rakalj,0,,,1,1
+600,saturday,600_saturday_f_T02,Prvi Rakalj,0,,,1,1
+600,saturday,600_saturday_f_T03,Prvi Rakalj,0,,,1,1
+600,saturday,600_saturday_b_T01,/V.Sugubina/Kragujevac,1,,,1,1
+600,saturday,600_saturday_b_T02,/V.Sugubina/Kragujevac,1,,,1,1
+600,saturday,600_saturday_b_T03,/V.Sugubina/Kragujevac,1,,,1,1
+600,sunday,600_sunday_f_T01,Prvi Rakalj,0,,,1,1
+600,sunday,600_sunday_f_T02,Prvi Rakalj,0,,,1,1
+600,sunday,600_sunday_b_T01,/V.Sugubina/Kragujevac,1,,,1,1
+600,sunday,600_sunday_b_T02,/V.Sugubina/Kragujevac,1,,,1,1
+601,work_day,601_work_day_f_T01,Bukorovac,0,,,1,1
+601,work_day,601_work_day_f_T02,Bukorovac,0,,,1,1
+601,work_day,601_work_day_f_T03,Bukorovac,0,,,1,1
+601,work_day,601_work_day_f_T04,Bukorovac,0,,,1,1
+601,work_day,601_work_day_b_T01,Ćiftina Ćuprija,1,,,1,1
+601,work_day,601_work_day_b_T02,Ćiftina Ćuprija,1,,,1,1
+601,work_day,601_work_day_b_T03,Ćiftina Ćuprija,1,,,1,1
+601,work_day,601_work_day_b_T04,Ćiftina Ćuprija,1,,,1,1
+601,work_day,601_work_day_b_T05,Ćiftina Ćuprija,1,,,1,1
+601,saturday,601_saturday_f_T01,Bukorovac,0,,,1,1
+601,saturday,601_saturday_f_T02,Bukorovac,0,,,1,1
+601,saturday,601_saturday_b_T01,Ćiftina Ćuprija,1,,,1,1
+601,saturday,601_saturday_b_T02,Ćiftina Ćuprija,1,,,1,1
+601,sunday,601_sunday_f_T01,Bukorovac,0,,,1,1
+601,sunday,601_sunday_f_T02,Bukorovac,0,,,1,1
+601,sunday,601_sunday_b_T01,Ćiftina Ćuprija,1,,,1,1
+601,sunday,601_sunday_b_T02,Ćiftina Ćuprija,1,,,1,1
+602,work_day,602_work_day_f_T01,/Ramaća/Kamenica,0,,,1,1
+602,work_day,602_work_day_f_T02,/Ramaća/Kamenica,0,,,1,1
+602,work_day,602_work_day_f_T03,/Ramaća/Kamenica,0,,,1,1
+602,work_day,602_work_day_b_T01,/Ramaća/Kragujevac,1,,,1,1
+602,work_day,602_work_day_b_T02,/Ramaća/Kragujevac,1,,,1,1
+602,saturday,602_saturday_f_T01,/Ramaća/Kamenica,0,,,1,1
+602,saturday,602_saturday_f_T02,/Ramaća/Kamenica,0,,,1,1
+602,saturday,602_saturday_f_T03,/Ramaća/Kamenica,0,,,1,1
+602,saturday,602_saturday_b_T01,/Ramaća/Kragujevac,1,,,1,1
+6020,work_day,6020_work_day_f_T01,Kamenica,0,,,1,1
+6020,work_day,6020_work_day_b_T01,Kragujevac,1,,,1,1
+6020,work_day,6020_work_day_b_T02,Kragujevac,1,,,1,1
+6020,saturday,6020_saturday_b_T01,Kragujevac,1,,,,
+6020,saturday,6020_saturday_b_T02,Kragujevac,1,,,,
+6020,sunday,6020_sunday_f_T01,Kamenica,0,,,1,1
+6020,sunday,6020_sunday_b_T01,Kragujevac,1,,,1,1
+6021,work_day,6021_work_day_f_T01,Rogojevac,0,,,1,1
+6021,work_day,6021_work_day_f_T02,Rogojevac,0,,,1,1
+6021,work_day,6021_work_day_f_T03,Rogojevac,0,,,1,1
+6021,work_day,6021_work_day_f_T04,Rogojevac,0,,,1,1
+6021,work_day,6021_work_day_b_T01,Kragujevac,1,,,1,1
+6021,work_day,6021_work_day_b_T02,Kragujevac,1,,,1,1
+6021,work_day,6021_work_day_b_T03,Kragujevac,1,,,1,1
+6021,work_day,6021_work_day_b_T04,Kragujevac,1,,,1,1
+6021,saturday,6021_saturday_f_T01,Rogojevac,0,,,1,1
+6021,saturday,6021_saturday_b_T01,Kragujevac,1,,,1,1
+603,work_day,603_work_day_f_T01,Donje Grbice,0,,,1,1
+603,work_day,603_work_day_f_T02,Donje Grbice,0,,,1,1
+603,work_day,603_work_day_f_T03,Donje Grbice,0,,,1,1
+603,work_day,603_work_day_f_T04,Donje Grbice,0,,,1,1
+603,work_day,603_work_day_f_T05,Donje Grbice,0,,,1,1
+603,work_day,603_work_day_b_T01,Donje Grbice,1,,,1,1
+603,work_day,603_work_day_b_T02,Donje Grbice,1,,,1,1
+603,work_day,603_work_day_b_T03,Donje Grbice,1,,,1,1
+603,work_day,603_work_day_b_T04,Donje Grbice,1,,,1,1
+603,work_day,603_work_day_b_T05,Donje Grbice,1,,,1,1
+603,work_day,603_work_day_b_T06,Donje Grbice,1,,,1,1
+603,saturday,603_saturday_f_T01,Donje Grbice,0,,,1,1
+603,saturday,603_saturday_f_T02,Donje Grbice,0,,,1,1
+603,saturday,603_saturday_b_T01,Donje Grbice,1,,,1,1
+603,saturday,603_saturday_b_T02,Donje Grbice,1,,,1,1
+603,sunday,603_sunday_f_T01,Donje Grbice,0,,,1,1
+603,sunday,603_sunday_f_T02,Donje Grbice,0,,,1,1
+603,sunday,603_sunday_b_T01,Donje Grbice,1,,,1,1
+603,sunday,603_sunday_b_T02,Donje Grbice,1,,,1,1
+604,work_day,604_work_day_f_T01,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T02,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T03,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T04,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T05,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T06,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T07,Resnik,0,,,1,1
+604,work_day,604_work_day_f_T08,Resnik,0,,,1,1
+604,work_day,604_work_day_b_T01,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T02,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T03,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T04,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T05,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T06,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T07,Kragujevac,1,,,1,1
+604,work_day,604_work_day_b_T08,Kragujevac,1,,,1,1
+604,saturday,604_saturday_f_T01,Resnik,0,,,1,1
+604,saturday,604_saturday_f_T02,Resnik,0,,,1,1
+604,saturday,604_saturday_f_T03,Resnik,0,,,1,1
+604,saturday,604_saturday_f_T04,Resnik,0,,,1,1
+604,saturday,604_saturday_b_T01,Kragujevac,1,,,1,1
+604,saturday,604_saturday_b_T02,Kragujevac,1,,,1,1
+604,saturday,604_saturday_b_T03,Kragujevac,1,,,1,1
+604,saturday,604_saturday_b_T04,Kragujevac,1,,,1,1
+604,sunday,604_sunday_f_T01,Resnik,0,,,1,1
+604,sunday,604_sunday_f_T02,Resnik,0,,,1,1
+604,sunday,604_sunday_f_T03,Resnik,0,,,1,1
+604,sunday,604_sunday_f_T04,Resnik,0,,,1,1
+604,sunday,604_sunday_b_T01,Kragujevac,1,,,1,1
+604,sunday,604_sunday_b_T02,Kragujevac,1,,,1,1
+604,sunday,604_sunday_b_T03,Kragujevac,1,,,1,1
+604,sunday,604_sunday_b_T04,Kragujevac,1,,,1,1
+605,work_day,605_work_day_f_T01,Dulene,0,,,1,1
+605,work_day,605_work_day_f_T02,Dulene,0,,,1,1
+605,work_day,605_work_day_f_T03,Dulene,0,,,1,1
+605,work_day,605_work_day_f_T04,Dulene,0,,,1,1
+605,work_day,605_work_day_f_T05,Dulene,0,,,1,1
+605,work_day,605_work_day_b_T01,Kragujevac,1,,,1,1
+605,work_day,605_work_day_b_T02,Kragujevac,1,,,1,1
+605,work_day,605_work_day_b_T03,Kragujevac,1,,,1,1
+605,work_day,605_work_day_b_T04,Kragujevac,1,,,1,1
+605,work_day,605_work_day_b_T05,Kragujevac,1,,,1,1
+605,saturday,605_saturday_f_T01,Dulene,0,,,1,1
+605,saturday,605_saturday_f_T02,Dulene,0,,,1,1
+605,saturday,605_saturday_b_T01,Kragujevac,1,,,1,1
+605,saturday,605_saturday_b_T02,Kragujevac,1,,,1,1
+605,sunday,605_sunday_f_T01,Dulene,0,,,1,1
+605,sunday,605_sunday_f_T02,Dulene,0,,,1,1
+605,sunday,605_sunday_b_T01,Kragujevac,1,,,1,1
+605,sunday,605_sunday_b_T02,Kragujevac,1,,,1,1
+606,work_day,606_work_day_f_T01,Stragari,0,,,1,1
+606,work_day,606_work_day_f_T02,Stragari,0,,,1,1
+606,work_day,606_work_day_f_T03,Stragari,0,,,1,1
+606,work_day,606_work_day_f_T04,Stragari,0,,,1,1
+606,work_day,606_work_day_f_T05,Stragari,0,,,1,1
+606,work_day,606_work_day_f_T06,Stragari,0,,,1,1
+606,work_day,606_work_day_b_T01,Kragujevac,1,,,1,1
+606,work_day,606_work_day_b_T02,Kragujevac,1,,,1,1
+606,work_day,606_work_day_b_T03,Kragujevac,1,,,1,1
+606,work_day,606_work_day_b_T04,Kragujevac,1,,,1,1
+606,work_day,606_work_day_b_T05,Kragujevac,1,,,1,1
+606,work_day,606_work_day_b_T06,Kragujevac,1,,,1,1
+606,saturday,606_saturday_f_T01,Stragari,0,,,1,1
+606,saturday,606_saturday_f_T02,Stragari,0,,,1,1
+606,saturday,606_saturday_f_T03,Stragari,0,,,1,1
+606,saturday,606_saturday_f_T04,Stragari,0,,,1,1
+606,saturday,606_saturday_b_T01,Kragujevac,1,,,1,1
+606,saturday,606_saturday_b_T02,Kragujevac,1,,,1,1
+606,saturday,606_saturday_b_T03,Kragujevac,1,,,1,1
+606,saturday,606_saturday_b_T04,Kragujevac,1,,,1,1
+606,sunday,606_sunday_f_T01,Stragari,0,,,1,1
+606,sunday,606_sunday_f_T02,Stragari,0,,,1,1
+606,sunday,606_sunday_f_T03,Stragari,0,,,1,1
+606,sunday,606_sunday_f_T04,Stragari,0,,,1,1
+606,sunday,606_sunday_b_T01,Kragujevac,1,,,1,1
+606,sunday,606_sunday_b_T02,Kragujevac,1,,,1,1
+606,sunday,606_sunday_b_T03,Kragujevac,1,,,1,1
+606,sunday,606_sunday_b_T04,Kragujevac,1,,,1,1
+6060,work_day,6060_work_day_f_T01,/Čumić/Stragari,0,,,1,1
+6060,work_day,6060_work_day_b_T01,/Čumić/Kragujevac,1,,,1,1
+607,work_day,607_work_day_f_T01,Donje Komarice,0,,,1,1
+607,work_day,607_work_day_f_T02,Donje Komarice,0,,,1,1
+607,work_day,607_work_day_f_T03,Donje Komarice,0,,,1,1
+607,work_day,607_work_day_f_T04,Donje Komarice,0,,,1,1
+607,work_day,607_work_day_f_T05,Donje Komarice,0,,,1,1
+607,work_day,607_work_day_b_T01,Kragujevac,1,,,1,1
+607,work_day,607_work_day_b_T02,Kragujevac,1,,,1,1
+607,work_day,607_work_day_b_T03,Kragujevac,1,,,1,1
+607,work_day,607_work_day_b_T04,Kragujevac,1,,,1,1
+607,work_day,607_work_day_b_T05,Kragujevac,1,,,1,1
+607,saturday,607_saturday_f_T01,Donje Komarice,0,,,1,1
+607,saturday,607_saturday_f_T02,Donje Komarice,0,,,1,1
+607,saturday,607_saturday_b_T01,Kragujevac,1,,,1,1
+607,saturday,607_saturday_b_T02,Kragujevac,1,,,1,1
+607,sunday,607_sunday_f_T01,Donje Komarice,0,,,1,1
+607,sunday,607_sunday_f_T02,Donje Komarice,0,,,1,1
+607,sunday,607_sunday_b_T01,Kragujevac,1,,,1,1
+607,sunday,607_sunday_b_T02,Kragujevac,1,,,1,1
+608,work_day,608_work_day_f_T01,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_f_T02,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_f_T03,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_f_T04,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_f_T05,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_f_T06,Gornje Jarušice,0,,,1,1
+608,work_day,608_work_day_b_T01,Kragujevac,1,,,1,1
+608,work_day,608_work_day_b_T02,Kragujevac,1,,,1,1
+608,work_day,608_work_day_b_T03,Kragujevac,1,,,1,1
+608,work_day,608_work_day_b_T04,Kragujevac,1,,,1,1
+608,work_day,608_work_day_b_T05,Kragujevac,1,,,1,1
+608,work_day,608_work_day_b_T06,Kragujevac,1,,,1,1
+608,saturday,608_saturday_f_T01,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_f_T02,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_f_T03,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_f_T04,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_f_T05,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_f_T06,Gornje Jarušice,0,,,1,1
+608,saturday,608_saturday_b_T01,Kragujevac,1,,,1,1
+608,saturday,608_saturday_b_T02,Kragujevac,1,,,1,1
+608,saturday,608_saturday_b_T03,Kragujevac,1,,,1,1
+608,saturday,608_saturday_b_T04,Kragujevac,1,,,1,1
+608,saturday,608_saturday_b_T05,Kragujevac,1,,,1,1
+608,saturday,608_saturday_b_T06,Kragujevac,1,,,1,1
+608,sunday,608_sunday_f_T01,Gornje Jarušice,0,,,1,1
+608,sunday,608_sunday_f_T02,Gornje Jarušice,0,,,1,1
+608,sunday,608_sunday_f_T03,Gornje Jarušice,0,,,1,1
+608,sunday,608_sunday_b_T01,Kragujevac,1,,,1,1
+608,sunday,608_sunday_b_T02,Kragujevac,1,,,1,1
+608,sunday,608_sunday_b_T03,Kragujevac,1,,,1,1
+609,work_day,609_work_day_f_T01,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_f_T02,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_f_T03,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_f_T04,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_f_T05,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_f_T06,Pajazitovo,0,,,1,1
+609,work_day,609_work_day_b_T01,Kragujevac,1,,,1,1
+609,work_day,609_work_day_b_T02,Kragujevac,1,,,1,1
+609,work_day,609_work_day_b_T03,Kragujevac,1,,,1,1
+609,work_day,609_work_day_b_T04,Kragujevac,1,,,1,1
+609,work_day,609_work_day_b_T05,Kragujevac,1,,,1,1
+609,saturday,609_saturday_f_T01,Pajazitovo,0,,,1,1
+609,saturday,609_saturday_f_T02,Pajazitovo,0,,,1,1
+609,saturday,609_saturday_b_T01,Kragujevac,1,,,1,1
+609,saturday,609_saturday_b_T02,Kragujevac,1,,,1,1
+609,saturday,609_saturday_b_T03,Kragujevac,1,,,1,1
+609,sunday,609_sunday_f_T01,Pajazitovo,0,,,1,1
+609,sunday,609_sunday_b_T01,Kragujevac,1,,,1,1
+6090,work_day,6090_work_day_f_T01,Mala Vrbica,0,,,1,1
+6090,work_day,6090_work_day_b_T01,Kragujevac,1,,,1,1
+6090,work_day,6090_work_day_b_T02,Kragujevac,1,,,1,1
+6090,saturday,6090_saturday_f_T01,Mala Vrbica,0,,,1,1
+6090,saturday,6090_saturday_f_T02,Mala Vrbica,0,,,1,1
+6090,saturday,6090_saturday_b_T01,Kragujevac,1,,,1,1
+6090,saturday,6090_saturday_b_T02,Kragujevac,1,,,1,1
+6090,sunday,6090_sunday_f_T01,Mala Vrbica,0,,,1,1
+6090,sunday,6090_sunday_f_T02,Mala Vrbica,0,,,1,1
+6090,sunday,6090_sunday_b_T01,Kragujevac,1,,,1,1
+6090,sunday,6090_sunday_b_T02,Kragujevac,1,,,1,1
+610,work_day,610_work_day_f_T01,/Drenovac/Đuriselo,0,,,1,1
+610,work_day,610_work_day_f_T02,/Drenovac/Đuriselo,0,,,1,1
+610,work_day,610_work_day_f_T03,/Drenovac/Đuriselo,0,,,1,1
+610,work_day,610_work_day_f_T04,/Drenovac/Đuriselo,0,,,1,1
+610,work_day,610_work_day_f_T05,/Drenovac/Đuriselo,0,,,1,1
+610,work_day,610_work_day_b_T01,/Drenovac/Kragujevac,1,,,1,1
+610,work_day,610_work_day_b_T02,/Drenovac/Kragujevac,1,,,1,1
+610,work_day,610_work_day_b_T03,/Drenovac/Kragujevac,1,,,1,1
+610,work_day,610_work_day_b_T04,/Drenovac/Kragujevac,1,,,1,1
+610,saturday,610_saturday_f_T01,/Drenovac/Đuriselo,0,,,1,1
+610,saturday,610_saturday_f_T02,/Drenovac/Đuriselo,0,,,1,1
+610,saturday,610_saturday_f_T03,/Drenovac/Đuriselo,0,,,1,1
+610,saturday,610_saturday_b_T01,/Drenovac/Kragujevac,1,,,1,1
+610,saturday,610_saturday_b_T02,/Drenovac/Kragujevac,1,,,1,1
+610,saturday,610_saturday_b_T03,/Drenovac/Kragujevac,1,,,1,1
+610,sunday,610_sunday_f_T01,/Drenovac/Đuriselo,0,,,1,1
+610,sunday,610_sunday_f_T02,/Drenovac/Đuriselo,0,,,1,1
+610,sunday,610_sunday_b_T01,/Drenovac/Kragujevac,1,,,1,1
+610,sunday,610_sunday_b_T02,/Drenovac/Kragujevac,1,,,1,1
+610,sunday,610_sunday_b_T03,/Drenovac/Kragujevac,1,,,1,1
+6100,work_day,6100_work_day_f_T01,Đuriselo,0,,,1,1
+6100,work_day,6100_work_day_f_T02,Đuriselo,0,,,1,1
+6100,work_day,6100_work_day_f_T03,Đuriselo,0,,,1,1
+6100,work_day,6100_work_day_b_T01,Kragujevac,1,,,1,1
+6100,work_day,6100_work_day_b_T02,Kragujevac,1,,,1,1
+6100,work_day,6100_work_day_b_T03,Kragujevac,1,,,1,1
+6100,work_day,6100_work_day_b_T04,Kragujevac,1,,,1,1
+6100,saturday,6100_saturday_f_T01,Đuriselo,0,,,1,1
+6100,saturday,6100_saturday_f_T02,Đuriselo,0,,,1,1
+6100,saturday,6100_saturday_b_T01,Kragujevac,1,,,1,1
+6100,saturday,6100_saturday_b_T02,Kragujevac,1,,,1,1
+6100,saturday,6100_saturday_b_T03,Kragujevac,1,,,1,1
+6100,sunday,6100_sunday_f_T01,Đuriselo,0,,,1,1
+6100,sunday,6100_sunday_f_T02,Đuriselo,0,,,1,1
+6100,sunday,6100_sunday_b_T01,Kragujevac,1,,,1,1
+6100,sunday,6100_sunday_b_T02,Kragujevac,1,,,1,1
+611,work_day,611_work_day_f_T01,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T02,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T03,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T04,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T05,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T06,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T07,Lužnice,0,,,1,1
+611,work_day,611_work_day_f_T08,Lužnice,0,,,1,1
+611,work_day,611_work_day_b_T01,Kragujevac,1,,,1,1
+611,work_day,611_work_day_b_T02,Kragujevac,1,,,1,1
+611,work_day,611_work_day_b_T03,Kragujevac,1,,,1,1
+611,work_day,611_work_day_b_T04,Kragujevac,1,,,1,1
+611,work_day,611_work_day_b_T05,Kragujevac,1,,,1,1
+611,work_day,611_work_day_b_T06,Kragujevac,1,,,1,1
+611,saturday,611_saturday_f_T01,Lužnice,0,,,1,1
+611,saturday,611_saturday_f_T02,Lužnice,0,,,1,1
+611,saturday,611_saturday_f_T03,Lužnice,0,,,1,1
+611,saturday,611_saturday_f_T04,Lužnice,0,,,1,1
+611,saturday,611_saturday_f_T05,Lužnice,0,,,1,1
+611,saturday,611_saturday_b_T01,Kragujevac,1,,,1,1
+611,saturday,611_saturday_b_T02,Kragujevac,1,,,1,1
+611,saturday,611_saturday_b_T03,Kragujevac,1,,,1,1
+611,sunday,611_sunday_f_T01,Lužnice,0,,,1,1
+611,sunday,611_sunday_f_T02,Lužnice,0,,,1,1
+611,sunday,611_sunday_f_T03,Lužnice,0,,,1,1
+611,sunday,611_sunday_f_T04,Lužnice,0,,,1,1
+611,sunday,611_sunday_f_T05,Lužnice,0,,,1,1
+611,sunday,611_sunday_b_T01,Kragujevac,1,,,1,1
+611,sunday,611_sunday_b_T02,Kragujevac,1,,,1,1
+611,sunday,611_sunday_b_T03,Kragujevac,1,,,1,1
+611,sunday,611_sunday_b_T04,Kragujevac,1,,,1,1
+611,sunday,611_sunday_b_T05,Kragujevac,1,,,1,1
+611,sunday,611_sunday_b_T06,Kragujevac,1,,,1,1
+6110,work_day,6110_work_day_b_T01,/Cerovac Selo/Kragujevac,1,,,1,1
+6110,work_day,6110_work_day_b_T02,/Cerovac Selo/Kragujevac,1,,,1,1
+6110,work_day,6110_work_day_b_T03,/Cerovac Selo/Kragujevac,1,,,1,1
+6110,saturday,6110_saturday_b_T01,/Cerovac Selo/Kragujevac,1,,,1,1
+6110,saturday,6110_saturday_b_T02,/Cerovac Selo/Kragujevac,1,,,1,1
+6110,saturday,6110_saturday_b_T03,/Cerovac Selo/Kragujevac,1,,,1,1
+612,work_day,612_work_day_f_T01,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T02,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T03,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T04,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T05,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T06,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T07,Vinjište,0,,,1,1
+612,work_day,612_work_day_f_T08,Vinjište,0,,,1,1
+612,work_day,612_work_day_b_T01,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T02,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T03,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T04,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T05,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T06,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T07,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T08,Kragujevac,1,,,1,1
+612,work_day,612_work_day_b_T09,Kragujevac,1,,,1,1
+612,saturday,612_saturday_f_T01,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T02,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T03,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T04,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T05,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T06,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T07,Vinjište,0,,,1,1
+612,saturday,612_saturday_f_T08,Vinjište,0,,,1,1
+612,saturday,612_saturday_b_T01,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T02,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T03,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T04,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T05,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T06,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T07,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T08,Kragujevac,1,,,1,1
+612,saturday,612_saturday_b_T09,Kragujevac,1,,,1,1
+612,sunday,612_sunday_f_T01,Vinjište,0,,,1,1
+612,sunday,612_sunday_f_T02,Vinjište,0,,,1,1
+612,sunday,612_sunday_f_T03,Vinjište,0,,,1,1
+612,sunday,612_sunday_f_T04,Vinjište,0,,,1,1
+612,sunday,612_sunday_f_T05,Vinjište,0,,,1,1
+612,sunday,612_sunday_b_T01,Kragujevac,1,,,1,1
+612,sunday,612_sunday_b_T02,Kragujevac,1,,,1,1
+612,sunday,612_sunday_b_T03,Kragujevac,1,,,1,1
+612,sunday,612_sunday_b_T04,Kragujevac,1,,,1,1
+612,sunday,612_sunday_b_T05,Kragujevac,1,,,1,1
+613,work_day,613_work_day_f_T01,Mala Vrbica,0,,,1,1
+613,work_day,613_work_day_f_T02,Mala Vrbica,0,,,1,1
+613,work_day,613_work_day_b_T01,Kragujevac,1,,,1,1
+613,work_day,613_work_day_b_T02,Kragujevac,1,,,1,1
