@@ -1,0 +1,6737 @@
+
+
+{
+  "type": "node",
+  "id": 975474395,
+  "lat": 44.0128810,
+  "lon": 20.8966894,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "int_name": "Soliter „ipsilon”",
+    "name": "Солитер „ипсилон”",
+    "name:en": "\"Y\" high-rise",
+    "name:sr": "Солитер „ипсилон”",
+    "name:sr-Latn": "Soliter „ipsilon”",
+    "public_transport": "platform",
+    "ref": "126",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1086649827,
+  "lat": 44.0124716,
+  "lon": 20.8998290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdoglija",
+    "name": "Ердоглија",
+    "name:sr": "Ердоглија",
+    "name:sr-Latn": "Erdoglija",
+    "public_transport": "platform",
+    "ref": "151"
+  }
+},
+{
+  "type": "node",
+  "id": 1086650242,
+  "lat": 44.0120353,
+  "lon": 20.8992819,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ердоглија",
+    "name:en": "Erdoglija",
+    "name:sr": "Ердоглија",
+    "name:sr-Latn": "Erdoglija",
+    "public_transport": "platform",
+    "ref": "451",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835393,
+  "lat": 44.0006662,
+  "lon": 20.8895251,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "311",
+    "highway": "bus_stop",
+    "int_name": "Zvezda Cvor",
+    "name": "Звезда Чвор",
+    "name:sr": "Звезда Чвор",
+    "name:sr-Latn": "Zvezda Čvor",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "311"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835398,
+  "lat": 44.0065161,
+  "lon": 20.9062582,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "14",
+    "highway": "bus_stop",
+    "int_name": "Mala Vaga 1",
+    "name": "Мала Вага 1",
+    "name:sr": "Мала Вага 1",
+    "name:sr-Latn": "Mala Vaga 1",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835431,
+  "lat": 44.0028734,
+  "lon": 20.8946393,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "gtfs:stop_id": "12",
+    "highway": "bus_stop",
+    "int_name": "Arsenal",
+    "name": "Арсенал",
+    "name:sr": "Арсенал",
+    "name:sr-Latn": "Arsenal",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "12",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835440,
+  "lat": 44.0029594,
+  "lon": 20.8941721,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "312",
+    "highway": "bus_stop",
+    "int_name": "Arsenal",
+    "name": "Арсенал",
+    "name:sr": "Арсенал",
+    "name:sr-Latn": "Arsenal",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "312"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835453,
+  "lat": 44.0063082,
+  "lon": 20.9051637,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "314",
+    "highway": "bus_stop",
+    "int_name": "Mala Vaga 2",
+    "name": "Мала Вага 2",
+    "name:sr": "Мала Вага 2",
+    "name:sr-Latn": "Mala Vaga 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "314"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835458,
+  "lat": 44.0005915,
+  "lon": 20.8897751,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "11",
+    "highway": "bus_stop",
+    "int_name": "Zvezda Cvor",
+    "name": "Звезда Чвор",
+    "name:sr": "Звезда Чвор",
+    "name:sr-Latn": "Zvezda Čvor",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "11"
+  }
+},
+{
+  "type": "node",
+  "id": 1654835468,
+  "lat": 44.0037620,
+  "lon": 20.8994077,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "13",
+    "highway": "bus_stop",
+    "int_name": "Sest Topola",
+    "name": "Шест Топола",
+    "name:sr": "Шест Топола",
+    "name:sr-Latn": "Šest Topola",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 1655159229,
+  "lat": 44.0038035,
+  "lon": 20.8988127,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "313",
+    "highway": "bus_stop",
+    "int_name": "Sest Topola",
+    "name": "Шест Топола",
+    "name:sr": "Шест Топола",
+    "name:sr-Latn": "Šest Topola",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "313"
+  }
+},
+{
+  "type": "node",
+  "id": 1655223695,
+  "lat": 44.0111363,
+  "lon": 20.9143347,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Пионир",
+    "name:en": "Pionir",
+    "name:sr": "Пионир",
+    "name:sr-Latn": "Pionir",
+    "public_transport": "platform",
+    "ref": "123"
+  }
+},
+{
+  "type": "node",
+  "id": 1655223699,
+  "lat": 44.0078174,
+  "lon": 20.9094404,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "315",
+    "highway": "bus_stop",
+    "int_name": "Pijac 2",
+    "name": "Пијац 2",
+    "name:sr": "Пијац 2",
+    "name:sr-Latn": "Pijac 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "315"
+  }
+},
+{
+  "type": "node",
+  "id": 1655223703,
+  "lat": 44.0088469,
+  "lon": 20.9126038,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "15",
+    "highway": "bus_stop",
+    "name": "Пијац 1",
+    "name:en": "Pijac 1",
+    "name:sr": "Пијац 1",
+    "name:sr-Latn": "Pijac 1",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 1655792430,
+  "lat": 44.0091534,
+  "lon": 20.9191121,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "16",
+    "highway": "bus_stop",
+    "name": "Ћифтина Ћуприја",
+    "name:en": "Ćiftina ćuprija",
+    "name:sr": "Ћифтина ћуприја",
+    "name:sr-Latn": "Ćiftina ćuprija",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "16",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655792433,
+  "lat": 44.0094712,
+  "lon": 20.9221294,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prolece",
+    "lit": "yes",
+    "name": "Пролеће",
+    "name:sr": "Пролеће",
+    "name:sr-Latn": "Proleće",
+    "public_transport": "platform",
+    "ref": "81",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1655792434,
+  "lat": 44.0118728,
+  "lon": 20.9233712,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "18",
+    "highway": "bus_stop",
+    "int_name": "Jezero",
+    "name": "Језеро",
+    "name:sr": "Језеро",
+    "name:sr-Latn": "Jezero",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "18"
+  }
+},
+{
+  "type": "node",
+  "id": 1655792435,
+  "lat": 44.0122741,
+  "lon": 20.9264344,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "319",
+    "highway": "bus_stop",
+    "name": "Филип Кљајић 2",
+    "name:en": "Filip Kljajić 2",
+    "name:sr": "Филип Кљајић 2",
+    "name:sr-Latn": "Filip Kljajić 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "319"
+  }
+},
+{
+  "type": "node",
+  "id": 1655792436,
+  "lat": 44.0102418,
+  "lon": 20.9222739,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "318",
+    "highway": "bus_stop",
+    "name": "Језеро Спорт",
+    "name:en": "Jezero sport",
+    "name:sr": "Језеро спорт",
+    "name:sr-Latn": "Jezero sport",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "318"
+  }
+},
+{
+  "type": "node",
+  "id": 1655800645,
+  "lat": 44.0044964,
+  "lon": 20.8939126,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Centralna Radionica",
+    "name": "Централна Радионица",
+    "name:sr": "Централна Радионица",
+    "name:sr-Latn": "Centralna Radionica",
+    "public_transport": "platform",
+    "ref": "149"
+  }
+},
+{
+  "type": "node",
+  "id": 1655800646,
+  "lat": 44.0032723,
+  "lon": 20.8907280,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ilindenska",
+    "name": "Илинденска",
+    "name:sr": "Илинденска",
+    "name:sr-Latn": "Ilindenska",
+    "public_transport": "platform",
+    "ref": "582"
+  }
+},
+{
+  "type": "node",
+  "id": 1655800648,
+  "lat": 44.0043274,
+  "lon": 20.8931803,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Централна Радионица",
+    "name:en": "Centralna Radionica",
+    "name:sr": "Централна Радионица",
+    "name:sr-Latn": "Centralna Radionica",
+    "public_transport": "platform",
+    "ref": "449",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1655800649,
+  "lat": 44.0110457,
+  "lon": 20.9099432,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Pozoriste",
+    "name": "Позориште",
+    "name:sr": "Позориште",
+    "name:sr-Latn": "Pozorište",
+    "public_transport": "platform",
+    "ref": "124"
+  }
+},
+{
+  "type": "node",
+  "id": 1655800650,
+  "lat": 44.0096833,
+  "lon": 20.8954870,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sokolana",
+    "name": "Соколана",
+    "name:sr": "Соколана",
+    "name:sr-Latn": "Sokolana",
+    "public_transport": "platform",
+    "ref": "127",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907197,
+  "lat": 44.0149312,
+  "lon": 20.9199172,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "gtfs:stop_id": "347",
+    "highway": "bus_stop",
+    "name": "Дом Синдиката II",
+    "name:en": "Dom Sindikata II",
+    "name:sr": "Дом Синдиката II",
+    "name:sr-Latn": "Dom Sindikata II",
+    "public_transport": "platform",
+    "ref": "347",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907198,
+  "lat": 44.0167474,
+  "lon": 20.9070939,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Парк",
+    "name:en": "Park",
+    "name:sr": "Парк",
+    "name:sr-Latn": "Park",
+    "public_transport": "platform",
+    "ref": "453",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907203,
+  "lat": 44.0123446,
+  "lon": 20.9162801,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "46",
+    "highway": "bus_stop",
+    "name": "Уред I",
+    "name:en": "Ured I",
+    "name:sr": "Уред I",
+    "name:sr-Latn": "Ured I",
+    "public_transport": "platform",
+    "ref": "46"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907208,
+  "lat": 44.0120029,
+  "lon": 20.9163617,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "gtfs:stop_id": "346",
+    "highway": "bus_stop",
+    "name": "Уред II",
+    "name:en": "Ured II",
+    "name:sr": "Уред II",
+    "name:sr-Latn": "Ured II",
+    "public_transport": "platform",
+    "ref": "346",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907210,
+  "lat": 44.0146018,
+  "lon": 20.9193183,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "47",
+    "highway": "bus_stop",
+    "int_name": "Dom Sindikata",
+    "name": "Дом Синдиката",
+    "name:sr": "Дом Синдиката",
+    "name:sr-Latn": "Dom Sindikata",
+    "public_transport": "platform",
+    "ref": "47"
+  }
+},
+{
+  "type": "node",
+  "id": 1655907213,
+  "lat": 44.0199551,
+  "lon": 20.9101127,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "118",
+    "highway": "bus_stop",
+    "int_name": "Studentski Dom",
+    "name": "Студентски Дом",
+    "name:sr": "Студентски Дом",
+    "name:sr-Latn": "Studentski Dom",
+    "public_transport": "platform",
+    "ref": "118"
+  }
+},
+{
+  "type": "node",
+  "id": 2962720939,
+  "lat": 44.0007148,
+  "lon": 20.8899465,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zvezda",
+    "name": "Звезда",
+    "name:sr": "Звезда",
+    "name:sr-Latn": "Zvezda",
+    "public_transport": "platform",
+    "ref": "185"
+  }
+},
+{
+  "type": "node",
+  "id": 3838610984,
+  "lat": 44.0264085,
+  "lon": 20.8579885,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Poskuricki Put",
+    "name": "Поскурички Пут",
+    "name:sr": "Поскурички Пут",
+    "name:sr-Latn": "Poskurički Put",
+    "public_transport": "platform",
+    "ref": "201"
+  }
+},
+{
+  "type": "node",
+  "id": 3838619957,
+  "lat": 44.0259264,
+  "lon": 20.8615236,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumarice Skola",
+    "name": "Шумарице Школа",
+    "name:sr": "Шумарице Школа",
+    "name:sr-Latn": "Šumarice Škola",
+    "public_transport": "platform",
+    "ref": "200"
+  }
+},
+{
+  "type": "node",
+  "id": 4233383344,
+  "lat": 44.0087351,
+  "lon": 20.8972198,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Плаза",
+    "name:en": "Plaza",
+    "name:sr": "Плаза",
+    "name:sr-Latn": "Plaza",
+    "public_transport": "platform",
+    "ref": "450",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5045521448,
+  "lat": 44.0356581,
+  "lon": 20.8954526,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Denino Brdo",
+    "name": "Денино Брдо",
+    "name:sr": "Денино Брдо",
+    "name:sr-Latn": "Denino Brdo",
+    "public_transport": "platform",
+    "ref": "565"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129690,
+  "lat": 44.0271187,
+  "lon": 20.9125203,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "57",
+    "highway": "bus_stop",
+    "int_name": "Hangar",
+    "name": "Хангар",
+    "name:sr": "Хангар",
+    "name:sr-Latn": "Hangar",
+    "public_transport": "platform",
+    "ref": "57"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129691,
+  "lat": 44.0159458,
+  "lon": 20.9069708,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Park",
+    "name": "Парк",
+    "name:sr": "Парк",
+    "name:sr-Latn": "Park",
+    "public_transport": "platform",
+    "ref": "153"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129692,
+  "lat": 44.0145498,
+  "lon": 20.9017784,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ердоглијски поток",
+    "name:en": "Erdoglijski potok",
+    "name:sr": "Ердоглијски поток",
+    "name:sr-Latn": "Erdoglijski potok",
+    "public_transport": "platform",
+    "ref": "452",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129693,
+  "lat": 44.0144832,
+  "lon": 20.9020798,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdoglijski Potok",
+    "name": "Ердоглијски Поток",
+    "name:sr": "Ердоглијски Поток",
+    "name:sr-Latn": "Erdoglijski Potok",
+    "public_transport": "platform",
+    "ref": "152",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129694,
+  "lat": 44.0092398,
+  "lon": 20.8978679,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Plaza",
+    "name": "Плаза",
+    "name:sr": "Плаза",
+    "name:sr-Latn": "Plaza",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "150",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129695,
+  "lat": 44.0203151,
+  "lon": 20.9092622,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Medicinska Skola",
+    "name": "Медицинска Школа",
+    "name:sr": "Медицинска Школа",
+    "name:sr-Latn": "Medicinska Škola",
+    "public_transport": "platform",
+    "ref": "417"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129696,
+  "lat": 44.0203691,
+  "lon": 20.9084790,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Medicinska Skola",
+    "name": "Медицинска Школа",
+    "name:sr": "Медицинска Школа",
+    "name:sr-Latn": "Medicinska Škola",
+    "public_transport": "platform",
+    "ref": "117"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129697,
+  "lat": 44.0241764,
+  "lon": 20.9114377,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "56",
+    "highway": "bus_stop",
+    "int_name": "Susica",
+    "name": "Сушица",
+    "name:sr": "Сушица",
+    "name:sr-Latn": "Sušica",
+    "public_transport": "platform",
+    "ref": "56"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129698,
+  "lat": 44.0238537,
+  "lon": 20.9114702,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "356",
+    "highway": "bus_stop",
+    "int_name": "Susica",
+    "name": "Сушица",
+    "name:en": "Sushitsa",
+    "name:sr": "Сушица",
+    "name:sr-Latn": "Sušica",
+    "public_transport": "platform",
+    "ref": "356"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129699,
+  "lat": 44.0302587,
+  "lon": 20.9126433,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "58",
+    "highway": "bus_stop",
+    "int_name": "Bogoslovija",
+    "name": "Богословија",
+    "name:sr": "Богословија",
+    "name:sr-Latn": "Bogoslovija",
+    "public_transport": "platform",
+    "ref": "58"
+  }
+},
+{
+  "type": "node",
+  "id": 5846129700,
+  "lat": 44.0296911,
+  "lon": 20.9128978,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5918572616,
+  "lat": 44.0161833,
+  "lon": 20.9369720,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "21",
+    "highway": "bus_stop",
+    "name": "Еко Парк",
+    "name:en": "Eko park",
+    "name:sr": "Еко парк",
+    "name:sr-Latn": "Eko park",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "21"
+  }
+},
+{
+  "type": "node",
+  "id": 6131413449,
+  "lat": 44.0173432,
+  "lon": 20.9188747,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "48",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Узор",
+    "name:en": "Uzor",
+    "name:sr": "Узор",
+    "name:sr-Latn": "Uzor",
+    "public_transport": "platform",
+    "ref": "48"
+  }
+},
+{
+  "type": "node",
+  "id": 6131413450,
+  "lat": 44.0225067,
+  "lon": 20.9204031,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "int_name": "Univerzitet",
+    "name": "Универзитет",
+    "name:en": "University",
+    "name:sr": "Универзитет",
+    "name:sr-Latn": "Univerzitet",
+    "public_transport": "platform",
+    "ref": "277",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6139252411,
+  "lat": 44.0199210,
+  "lon": 20.9093233,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Техничка Школа",
+    "name:en": "Tehnička Škola",
+    "name:sr": "Техничка Школа",
+    "name:sr-Latn": "Tehnička Škola",
+    "public_transport": "platform",
+    "ref": "454",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6139258014,
+  "lat": 44.0163611,
+  "lon": 20.9199101,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "gtfs:stop_id": "1",
+    "highway": "bus_stop",
+    "name": "Мала Пијаца",
+    "name:en": "Mala Pijaca",
+    "name:sr": "Мала Пијаца",
+    "name:sr-Latn": "Mala Pijaca",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "yes",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "node",
+  "id": 6159637742,
+  "lat": 44.0187466,
+  "lon": 20.9136295,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "gtfs:stop_id": "350",
+    "highway": "bus_stop",
+    "int_name": "Bolnica",
+    "lit": "yes",
+    "name": "Болница",
+    "name:en": "Bolnitsa",
+    "name:sr": "Болница",
+    "name:sr-Latn": "Bolnica",
+    "public_transport": "platform",
+    "ref": "350",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6159637743,
+  "lat": 44.0201450,
+  "lon": 20.9105805,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "51",
+    "highway": "bus_stop",
+    "int_name": "Zitoprodukt",
+    "name": "Житопродукт",
+    "name:en": "Zhitoprotukt",
+    "name:sr": "Житопродукт",
+    "name:sr-Latn": "Žitoprodukt",
+    "public_transport": "platform",
+    "ref": "51"
+  }
+},
+{
+  "type": "node",
+  "id": 6455465598,
+  "lat": 43.9984931,
+  "lon": 20.8847639,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "10",
+    "highway": "bus_stop",
+    "int_name": "Stanovo",
+    "name": "Станово",
+    "name:sr": "Станово",
+    "name:sr-Latn": "Stanovo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 6455465599,
+  "lat": 43.9983550,
+  "lon": 20.8840796,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "310",
+    "highway": "bus_stop",
+    "int_name": "Stanovo",
+    "name": "Станово",
+    "name:sr": "Станово",
+    "name:sr-Latn": "Stanovo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "310"
+  }
+},
+{
+  "type": "node",
+  "id": 6672742274,
+  "lat": 44.0089108,
+  "lon": 20.9169614,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "17",
+    "highway": "bus_stop",
+    "int_name": "Hotel",
+    "name": "Хотел",
+    "name:sr": "Хотел",
+    "name:sr-Latn": "Hotel",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "17",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6796945788,
+  "lat": 44.0298851,
+  "lon": 20.9164946,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "53",
+    "highway": "bus_stop",
+    "name": "Елвод",
+    "name:en": "Elvod",
+    "name:sr": "Елвод",
+    "name:sr-Latn": "Elvod",
+    "operator": "ГАС",
+    "public_transport": "platform",
+    "ref": "53"
+  }
+},
+{
+  "type": "node",
+  "id": 6796947885,
+  "lat": 44.0397388,
+  "lon": 20.9100800,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Petrovac",
+    "name": "Петровац",
+    "name:sr": "Петровац",
+    "name:sr-Latn": "Petrovac",
+    "public_transport": "platform",
+    "ref": "61"
+  }
+},
+{
+  "type": "node",
+  "id": 6799089590,
+  "lat": 44.0286829,
+  "lon": 20.9055669,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Аеродром стадион",
+    "name:en": "Aerodrom stadion",
+    "name:sr": "Аеродром стадион",
+    "name:sr-Latn": "Aerodrom stadion",
+    "public_transport": "platform",
+    "ref": "97"
+  }
+},
+{
+  "type": "node",
+  "id": 6799097486,
+  "lat": 44.0325413,
+  "lon": 20.9120203,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "59",
+    "highway": "bus_stop",
+    "int_name": "Jabucar",
+    "name": "Јабучар",
+    "name:sr": "Јабучар",
+    "name:sr-Latn": "Jabučar",
+    "public_transport": "platform",
+    "ref": "59"
+  }
+},
+{
+  "type": "node",
+  "id": 6799996989,
+  "lat": 44.0271601,
+  "lon": 20.9164946,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "52",
+    "highway": "bus_stop",
+    "name": "Грудно",
+    "name:en": "Grudno",
+    "name:sr": "Грудно",
+    "name:sr-Latn": "Grudno",
+    "public_transport": "platform",
+    "ref": "52"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183132,
+  "lat": 44.0080498,
+  "lon": 20.9154462,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "86",
+    "highway": "bus_stop",
+    "int_name": "VIS",
+    "name": "ВИШ",
+    "name:en": "VISH",
+    "name:sr": "ВИШ",
+    "name:sr-Latn": "VIŠ",
+    "public_transport": "platform",
+    "ref": "86"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183133,
+  "lat": 44.0054685,
+  "lon": 20.9187536,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "44",
+    "highway": "bus_stop",
+    "name": "Пивара",
+    "name:en": "Pivara",
+    "name:sr": "Пивара",
+    "name:sr-Latn": "Pivara",
+    "public_transport": "platform",
+    "ref": "44"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183134,
+  "lat": 44.0012270,
+  "lon": 20.9171530,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "43",
+    "highway": "bus_stop",
+    "name": "Пиротехника",
+    "name:en": "Pirotehnika",
+    "name:sr": "Пиротехника",
+    "name:sr-Latn": "Pirotehnika",
+    "public_transport": "platform",
+    "ref": "43"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183135,
+  "lat": 44.0287548,
+  "lon": 20.9057510,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Аеродром стадион",
+    "name:en": "Aerodrom stadion",
+    "name:sr": "Аеродром стадион",
+    "name:sr-Latn": "Aerodrom stadion",
+    "public_transport": "platform",
+    "ref": "397"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183136,
+  "lat": 44.0293370,
+  "lon": 20.9013206,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grujina cesma",
+    "name": "Грујина чесма",
+    "name:en": "Gruyina chesma",
+    "name:sr": "Грујина чесма",
+    "name:sr-Latn": "Grujina česma",
+    "public_transport": "platform",
+    "ref": "399",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7085183137,
+  "lat": 44.0292994,
+  "lon": 20.9012420,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grujina cesma",
+    "name": "Грујина чесма",
+    "name:en": "Gruyina chesma",
+    "name:sr": "Грујина чесма",
+    "name:sr-Latn": "Grujina česma",
+    "public_transport": "platform",
+    "ref": "99",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7529113874,
+  "lat": 44.0275223,
+  "lon": 20.8836909,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumaricko Jezero",
+    "name": "Шумаричко Језеро",
+    "name:sr": "Шумаричко Језеро",
+    "name:sr-Latn": "Šumaričko Jezero",
+    "public_transport": "platform",
+    "ref": "683"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141151,
+  "lat": 43.9837353,
+  "lon": 20.8344542,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "3",
+    "highway": "bus_stop",
+    "int_name": "Drenovac Raskrsnica",
+    "name": "Дреновац Раскрсница",
+    "name:sr": "Дреновац Раскрсница",
+    "name:sr-Latn": "Drenovac Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141152,
+  "lat": 43.9874020,
+  "lon": 20.8451133,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "4",
+    "highway": "bus_stop",
+    "int_name": "Koricani Dom",
+    "name": "Корићани Дом",
+    "name:sr": "Корићани Дом",
+    "name:sr-Latn": "Korićani Dom",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141153,
+  "lat": 43.9887143,
+  "lon": 20.8499895,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "5",
+    "highway": "bus_stop",
+    "int_name": "Koricani",
+    "name": "Корићани",
+    "name:sr": "Корићани",
+    "name:sr-Latn": "Korićani",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141154,
+  "lat": 43.9904472,
+  "lon": 20.8571993,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "gtfs:stop_id": "6",
+    "highway": "bus_stop",
+    "int_name": "Diletova Kafana",
+    "lit": "no",
+    "name": "Дилетова Кафана",
+    "name:sr": "Дилетова Кафана",
+    "name:sr-Latn": "Diletova kafana",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "6",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141155,
+  "lat": 43.9924580,
+  "lon": 20.8659970,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "gtfs:stop_id": "7",
+    "highway": "bus_stop",
+    "int_name": "Kozujevo",
+    "name": "Козујево",
+    "name:sr": "Козујево",
+    "name:sr-Latn": "Kozujevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "7",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141156,
+  "lat": 43.9935154,
+  "lon": 20.8698218,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "8",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Raskrsnica",
+    "name": "Мале Пчелице Раскрсница",
+    "name:sr": "Мале Пчелице Раскрсница",
+    "name:sr-Latn": "Male Pčelice Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141157,
+  "lat": 43.9952675,
+  "lon": 20.8770852,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "9",
+    "highway": "bus_stop",
+    "int_name": "Grosnicka Stanica",
+    "name": "Грошничка Станица",
+    "name:sr": "Грошничка Станица",
+    "name:sr-Latn": "Grošnička Stanica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "9"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141158,
+  "lat": 44.0150693,
+  "lon": 20.9327169,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "320",
+    "highway": "bus_stop",
+    "int_name": "Ilina Voda 2",
+    "name": "Илина Вода 2",
+    "name:sr": "Илина Вода 2",
+    "name:sr-Latn": "Ilina Voda 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "320"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141159,
+  "lat": 44.0161765,
+  "lon": 20.9372794,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "321",
+    "highway": "bus_stop",
+    "name": "Еко Парк",
+    "name:en": "Eko park",
+    "name:sr": "Еко парк",
+    "name:sr-Latn": "Eko park",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "321"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141160,
+  "lat": 44.0189550,
+  "lon": 20.9420295,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "322",
+    "highway": "bus_stop",
+    "int_name": "Dvadeset Drugi Decembar",
+    "name": "Двадесет Други Децембар",
+    "name:sr": "Двадесет Други Децембар",
+    "name:sr-Latn": "Dvadeset Drugi Decembar",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "322",
+    "short_name": "22. Децембар",
+    "short_name:sr": "22. Децембар",
+    "short_name:sr-Latn": "22. Decembar"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141161,
+  "lat": 44.0222503,
+  "lon": 20.9462370,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "323",
+    "highway": "bus_stop",
+    "int_name": "Ilicevo",
+    "name": "Илићево",
+    "name:sr": "Илићево",
+    "name:sr-Latn": "Ilićevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "323"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141162,
+  "lat": 44.0267508,
+  "lon": 20.9529649,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "324",
+    "highway": "bus_stop",
+    "int_name": "Trafo Ilicevo",
+    "name": "Трафо Илићево",
+    "name:sr": "Трафо Илићево",
+    "name:sr-Latn": "Trafo Ilićevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "324"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141163,
+  "lat": 44.0308719,
+  "lon": 20.9582596,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "325",
+    "highway": "bus_stop",
+    "int_name": "Arena",
+    "name": "Арена",
+    "name:sr": "Арена",
+    "name:sr-Latn": "Arena",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "325"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141164,
+  "lat": 44.0330876,
+  "lon": 20.9621408,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "596",
+    "highway": "bus_stop",
+    "int_name": "Grujina Prodavnica",
+    "name": "Грујина Продавница",
+    "name:sr": "Грујина Продавница",
+    "name:sr-Latn": "Grujina Prodavnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "596"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141165,
+  "lat": 44.0336469,
+  "lon": 20.9683822,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "326",
+    "highway": "bus_stop",
+    "int_name": "Marsic Raskrsnica",
+    "name": "Маршић Раскрсница",
+    "name:sr": "Маршић Раскрсница",
+    "name:sr-Latn": "Maršić Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "326"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141167,
+  "lat": 44.0362847,
+  "lon": 20.9745942,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "327",
+    "highway": "bus_stop",
+    "int_name": "Marsic 2",
+    "name": "Маршић 2",
+    "name:sr": "Маршић 2",
+    "name:sr-Latn": "Maršić 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "327"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141168,
+  "lat": 44.0408256,
+  "lon": 20.9805085,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "330",
+    "highway": "bus_stop",
+    "int_name": "Korman 1",
+    "name": "Корман 1",
+    "name:sr": "Корман 1",
+    "name:sr-Latn": "Korman 1",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "330"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141182,
+  "lat": 44.0407735,
+  "lon": 20.9803108,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "30",
+    "highway": "bus_stop",
+    "int_name": "Korman 1",
+    "name": "Корман 1",
+    "name:sr": "Корман 1",
+    "name:sr-Latn": "Korman 1",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "30"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141183,
+  "lat": 44.0364506,
+  "lon": 20.9745923,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "27",
+    "highway": "bus_stop",
+    "int_name": "Marsic 2",
+    "name": "Маршић 2",
+    "name:sr": "Маршић 2",
+    "name:sr-Latn": "Maršić 2",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "27"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141184,
+  "lat": 44.0338050,
+  "lon": 20.9684876,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "26",
+    "highway": "bus_stop",
+    "int_name": "Marsic Raskrsnica",
+    "name": "Маршић Раскрсница",
+    "name:sr": "Маршић Раскрсница",
+    "name:sr-Latn": "Maršić Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "26"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141185,
+  "lat": 44.0332265,
+  "lon": 20.9622381,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "595",
+    "highway": "bus_stop",
+    "int_name": "Grujina Prodavnica",
+    "name": "Грујина Продавница",
+    "name:sr": "Грујина Продавница",
+    "name:sr-Latn": "Grujina Prodavnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "595"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141186,
+  "lat": 44.0308044,
+  "lon": 20.9580002,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "25",
+    "highway": "bus_stop",
+    "int_name": "Arena",
+    "name": "Арена",
+    "name:sr": "Арена",
+    "name:sr-Latn": "Arena",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "25"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141187,
+  "lat": 44.0266890,
+  "lon": 20.9526036,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "24",
+    "highway": "bus_stop",
+    "int_name": "Trafo Ilicevo",
+    "name": "Трафо Илићево",
+    "name:sr": "Трафо Илићево",
+    "name:sr-Latn": "Trafo Ilićevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "24"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141188,
+  "lat": 44.0222822,
+  "lon": 20.9460175,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "23",
+    "highway": "bus_stop",
+    "int_name": "Ilicevo",
+    "name": "Илићево",
+    "name:sr": "Илићево",
+    "name:sr-Latn": "Ilićevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "23"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141189,
+  "lat": 44.0189473,
+  "lon": 20.9418372,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "22",
+    "highway": "bus_stop",
+    "int_name": "Dvadeset Drugi Decembar",
+    "name": "Двадесет Други Децембар",
+    "name:sr": "Двадесет Други Децембар",
+    "name:sr-Latn": "Dvadeset Drugi Decembar",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "22",
+    "short_name": "22. Децембар",
+    "short_name:sr": "22. Децембар",
+    "short_name:sr-Latn": "22. Decembar"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141190,
+  "lat": 44.0150973,
+  "lon": 20.9324655,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "20",
+    "highway": "bus_stop",
+    "int_name": "Ilina Voda",
+    "name": "Илина Вода",
+    "name:sr": "Илина Вода",
+    "name:sr-Latn": "Ilina Voda",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "20"
+  }
+},
+{
+  "type": "node",
+  "id": 8295141191,
+  "lat": 44.0123234,
+  "lon": 20.9262428,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "19",
+    "highway": "bus_stop",
+    "int_name": "Filip Kljajic",
+    "name": "Филип Кљајић",
+    "name:sr": "Филип Кљајић",
+    "name:sr-Latn": "Filip Kljajić",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "19"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221289,
+  "lat": 43.9950987,
+  "lon": 20.8759809,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "309",
+    "highway": "bus_stop",
+    "int_name": "Grosnicka Stanica",
+    "name": "Грошничка Станица",
+    "name:sr": "Грошничка Станица",
+    "name:sr-Latn": "Grošnička Stanica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "309"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221290,
+  "lat": 43.9938029,
+  "lon": 20.8702839,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "308",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Raskrsnica",
+    "name": "Мале Пчелице Раскрсница",
+    "name:sr": "Мале Пчелице Раскрсница",
+    "name:sr-Latn": "Male Pčelice Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "308"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221291,
+  "lat": 43.9924560,
+  "lon": 20.8651180,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "307",
+    "highway": "bus_stop",
+    "int_name": "Kozujevo",
+    "name": "Козујево",
+    "name:sr": "Козујево",
+    "name:sr-Latn": "Kozujevo",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "307"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221292,
+  "lat": 43.9903874,
+  "lon": 20.8564759,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "gtfs:stop_id": "306",
+    "highway": "bus_stop",
+    "int_name": "Diletova Kafana",
+    "lit": "no",
+    "name": "Дилетова Кафана",
+    "name:sr": "Дилетова Кафана",
+    "name:sr-Latn": "Diletova kafana",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "306",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221293,
+  "lat": 43.9888706,
+  "lon": 20.8500064,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "305",
+    "highway": "bus_stop",
+    "int_name": "Koricani",
+    "name": "Корићани",
+    "name:sr": "Корићани",
+    "name:sr-Latn": "Korićani",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "305"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221294,
+  "lat": 43.9874696,
+  "lon": 20.8446956,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "304",
+    "highway": "bus_stop",
+    "int_name": "Koricani Dom",
+    "name": "Корићани Дом",
+    "name:sr": "Корићани Дом",
+    "name:sr-Latn": "Korićani Dom",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "304"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221295,
+  "lat": 43.9839996,
+  "lon": 20.8346052,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "303",
+    "highway": "bus_stop",
+    "int_name": "Drenovac Raskrsnica",
+    "name": "Дреновац Раскрсница",
+    "name:sr": "Дреновац Раскрсница",
+    "name:sr-Latn": "Drenovac Raskrsnica",
+    "network": "КГБУС",
+    "operator": "КГБУС",
+    "public_transport": "platform",
+    "ref": "303"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221298,
+  "lat": 44.0635910,
+  "lon": 20.9259022,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "77",
+    "highway": "bus_stop",
+    "int_name": "Djonsko Brdo",
+    "name": "Ђонско Брдо",
+    "name:sr": "Ђонско Брдо",
+    "name:sr-Latn": "Đonsko Brdo",
+    "public_transport": "platform",
+    "ref": "77"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221299,
+  "lat": 44.0637220,
+  "lon": 20.9261650,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "377",
+    "highway": "bus_stop",
+    "int_name": "Djonsko Brdo",
+    "name": "Ђонско Брдо",
+    "name:sr": "Ђонско Брдо",
+    "name:sr-Latn": "Đonsko Brdo",
+    "public_transport": "platform",
+    "ref": "377"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221300,
+  "lat": 44.0531092,
+  "lon": 20.9213639,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "376",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Okretnica",
+    "name": "Петровац Окретница",
+    "name:sr": "Петровац Окретница",
+    "name:sr-Latn": "Petrovac Okretnica",
+    "public_transport": "platform",
+    "ref": "376"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221301,
+  "lat": 44.0530050,
+  "lon": 20.9211386,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "76",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Okretnica",
+    "name": "Петровац Окретница",
+    "name:sr": "Петровац Окретница",
+    "name:sr-Latn": "Petrovac Okretnica",
+    "public_transport": "platform",
+    "ref": "76"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221302,
+  "lat": 44.0512045,
+  "lon": 20.9198458,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "75",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Skola",
+    "name": "Петровац Школа",
+    "name:sr": "Петровац Школа",
+    "name:sr-Latn": "Petrovac Škola",
+    "public_transport": "platform",
+    "ref": "75"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221303,
+  "lat": 44.0513009,
+  "lon": 20.9202159,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "375",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Skola",
+    "name": "Петровац Школа",
+    "name:sr": "Петровац Школа",
+    "name:sr-Latn": "Petrovac Škola",
+    "public_transport": "platform",
+    "ref": "375"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221304,
+  "lat": 44.0449583,
+  "lon": 20.9148139,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "74",
+    "highway": "bus_stop",
+    "int_name": "Bare",
+    "name": "Баре",
+    "name:sr": "Баре",
+    "name:sr-Latn": "Bare",
+    "public_transport": "platform",
+    "ref": "74"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221305,
+  "lat": 44.0450161,
+  "lon": 20.9150339,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "374",
+    "highway": "bus_stop",
+    "int_name": "Bare",
+    "name": "Баре",
+    "name:sr": "Баре",
+    "name:sr-Latn": "Bare",
+    "public_transport": "platform",
+    "ref": "374"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221306,
+  "lat": 44.0420778,
+  "lon": 20.9125931,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "669",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Igraliste",
+    "name": "Петровац Игралиште",
+    "name:sr": "Петровац Игралиште",
+    "name:sr-Latn": "Petrovac Igralište",
+    "public_transport": "platform",
+    "ref": "669"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221307,
+  "lat": 44.0420740,
+  "lon": 20.9127486,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "969",
+    "highway": "bus_stop",
+    "int_name": "Petrovac Igraliste",
+    "name": "Петровац Игралиште",
+    "name:sr": "Петровац Игралиште",
+    "name:sr-Latn": "Petrovac Igralište",
+    "public_transport": "platform",
+    "ref": "969"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221308,
+  "lat": 44.0393168,
+  "lon": 20.9106619,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "73",
+    "highway": "bus_stop",
+    "int_name": "Samoposluga",
+    "name": "Самопослуга",
+    "name:sr": "Самопослуга",
+    "name:sr-Latn": "Samoposluga",
+    "public_transport": "platform",
+    "ref": "73"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221309,
+  "lat": 44.0391818,
+  "lon": 20.9106619,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "373",
+    "highway": "bus_stop",
+    "int_name": "Samoposluga",
+    "name": "Самопослуга",
+    "name:sr": "Самопослуга",
+    "name:sr-Latn": "Samoposluga",
+    "public_transport": "platform",
+    "ref": "373"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221310,
+  "lat": 44.0372922,
+  "lon": 20.9104419,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "60",
+    "highway": "bus_stop",
+    "int_name": "Stovariste",
+    "name": "Стовариште",
+    "name:sr": "Стовариште",
+    "name:sr-Latn": "Stovarište",
+    "public_transport": "platform",
+    "ref": "60"
+  }
+},
+{
+  "type": "node",
+  "id": 8295221311,
+  "lat": 44.0348993,
+  "lon": 20.9118367,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "55",
+    "highway": "bus_stop",
+    "int_name": "Milicijski Stanovi",
+    "name": "Милицијски Станови",
+    "name:sr": "Милицијски Станови",
+    "name:sr-Latn": "Milicijski Stanovi",
+    "public_transport": "platform",
+    "ref": "55"
+  }
+},
+{
+  "type": "node",
+  "id": 8295223118,
+  "lat": 44.0321225,
+  "lon": 20.9151304,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "54",
+    "highway": "bus_stop",
+    "int_name": "Jabucar",
+    "name": "Јабучар",
+    "name:sr": "Јабучар",
+    "name:sr-Latn": "Jabučar",
+    "public_transport": "platform",
+    "ref": "54"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270524,
+  "lat": 44.0188846,
+  "lon": 20.9127835,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "50",
+    "highway": "bus_stop",
+    "int_name": "Bolnica",
+    "name": "Болница",
+    "name:sr": "Болница",
+    "name:sr-Latn": "Bolnica",
+    "public_transport": "platform",
+    "ref": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270525,
+  "lat": 44.0056255,
+  "lon": 20.9187004,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Pivara",
+    "name": "Пивара",
+    "name:sr": "Пивара",
+    "name:sr-Latn": "Pivara",
+    "public_transport": "platform",
+    "ref": "344"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270527,
+  "lat": 44.0006286,
+  "lon": 20.9171743,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Pirotehnika",
+    "name": "Пиротехника",
+    "name:sr": "Пиротехника",
+    "name:sr-Latn": "Pirotehnika",
+    "public_transport": "platform",
+    "ref": "343"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270534,
+  "lat": 43.9932279,
+  "lon": 20.9204761,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kriva Cuprija",
+    "name": "Крива Ћуприја",
+    "name:sr": "Крива Ћуприја",
+    "name:sr-Latn": "Kriva Ćuprija",
+    "public_transport": "platform",
+    "ref": "337"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270535,
+  "lat": 43.9932626,
+  "lon": 20.9206746,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "37",
+    "highway": "bus_stop",
+    "int_name": "Kriva Cuprija",
+    "name": "Крива Ћуприја",
+    "name:sr": "Крива Ћуприја",
+    "name:sr-Latn": "Kriva Ćuprija",
+    "public_transport": "platform",
+    "ref": "37"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270536,
+  "lat": 43.9886197,
+  "lon": 20.9242151,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "338",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica",
+    "name": "Продавница",
+    "name:sr": "Продавница",
+    "name:sr-Latn": "Prodavnica",
+    "public_transport": "platform",
+    "ref": "338"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270537,
+  "lat": 43.9892180,
+  "lon": 20.9238878,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "38",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Belosevac",
+    "name": "Продавница Белошевац",
+    "name:sr": "Продавница Белошевац",
+    "name:sr-Latn": "Prodavnica Beloševac",
+    "public_transport": "platform",
+    "ref": "38"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270538,
+  "lat": 43.9847021,
+  "lon": 20.9276268,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belosevac Skola",
+    "name": "Белошевац Школа",
+    "name:sr": "Белошевац Школа",
+    "name:sr-Latn": "Beloševac Škola",
+    "public_transport": "platform",
+    "ref": "339"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270539,
+  "lat": 43.9853043,
+  "lon": 20.9273640,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "39",
+    "highway": "bus_stop",
+    "int_name": "Belosevac Skola",
+    "name": "Белошевац Школа",
+    "name:sr": "Белошевац Школа",
+    "name:sr-Latn": "Beloševac Škola",
+    "public_transport": "platform",
+    "ref": "39"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270540,
+  "lat": 43.9814250,
+  "lon": 20.9309099,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica Tabla",
+    "name": "Ждраљица Табла",
+    "name:sr": "Ждраљица Табла",
+    "name:sr-Latn": "Ždraljica Tabla",
+    "public_transport": "platform",
+    "ref": "340"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270541,
+  "lat": 43.9811047,
+  "lon": 20.9315321,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "40",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica Tabla",
+    "name": "Ждраљица Табла",
+    "name:sr": "Ждраљица Табла",
+    "name:sr-Latn": "Ždraljica Tabla",
+    "public_transport": "platform",
+    "ref": "40"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270542,
+  "lat": 43.9760979,
+  "lon": 20.9342358,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Recani Zdraljica",
+    "name": "Речани Ждраљица",
+    "name:sr": "Речани Ждраљица",
+    "name:sr-Latn": "Rečani Ždraljica",
+    "public_transport": "platform",
+    "ref": "341"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270543,
+  "lat": 43.9749475,
+  "lon": 20.9355340,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Recani Zdraljica",
+    "name": "Речани Ждраљица",
+    "name:sr": "Речани Ждраљица",
+    "name:sr-Latn": "Rečani Ždraljica",
+    "public_transport": "platform",
+    "ref": "41"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270549,
+  "lat": 43.9730250,
+  "lon": 20.9370468,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica",
+    "name": "Ждраљица",
+    "name:sr": "Ждраљица",
+    "name:sr-Latn": "Ždraljica",
+    "public_transport": "platform",
+    "ref": "342"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270550,
+  "lat": 43.9730173,
+  "lon": 20.9373686,
+  "tags": {
+    "bus": "yes",
+    "gtfs:stop_id": "42",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica",
+    "name": "Ждраљица",
+    "name:sr": "Ждраљица",
+    "name:sr-Latn": "Ždraljica",
+    "public_transport": "platform",
+    "ref": "42"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270556,
+  "lat": 44.0352088,
+  "lon": 20.8957488,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Denino Brdo",
+    "name": "Денино Брдо",
+    "name:sr": "Денино Брдо",
+    "name:sr-Latn": "Denino Brdo",
+    "public_transport": "platform",
+    "ref": "265"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270557,
+  "lat": 44.0328177,
+  "lon": 20.8980716,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belodrimska Raskrsnica",
+    "name": "Белодримска Раскрсница",
+    "name:sr": "Белодримска Раскрсница",
+    "name:sr-Latn": "Belodrimska Raskrsnica",
+    "public_transport": "platform",
+    "ref": "264"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270558,
+  "lat": 44.0330915,
+  "lon": 20.8980769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belodrimska Raskrsnica",
+    "name": "Белодримска Раскрсница",
+    "name:sr": "Белодримска Раскрсница",
+    "name:sr-Latn": "Belodrimska Raskrsnica",
+    "public_transport": "platform",
+    "ref": "564"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270559,
+  "lat": 44.0308141,
+  "lon": 20.8986188,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Aerodrom Skola",
+    "name": "Аеродром Школа",
+    "name:sr": "Аеродром Школа",
+    "name:sr-Latn": "Aerodrom Škola",
+    "public_transport": "platform",
+    "ref": "263"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270560,
+  "lat": 44.0308970,
+  "lon": 20.8990425,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bukureska Raskrsnica",
+    "name": "Букурешка Раскрсница",
+    "name:sr": "Букурешка Раскрсница",
+    "name:sr-Latn": "Bukureška Raskrsnica",
+    "public_transport": "platform",
+    "ref": "256"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270561,
+  "lat": 44.0319537,
+  "lon": 20.9053886,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Aerodrom Raskrsnica",
+    "name": "Аеродром Раскрсница",
+    "name:sr": "Аеродром Раскрсница",
+    "name:sr-Latn": "Aerodrom Raskrsnica",
+    "public_transport": "platform",
+    "ref": "391"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270562,
+  "lat": 44.0318188,
+  "lon": 20.9054316,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Aerodrom Raskrsnica",
+    "name": "Аеродром Раскрсница",
+    "name:sr": "Аеродром Раскрсница",
+    "name:sr-Latn": "Aerodrom Raskrsnica",
+    "public_transport": "platform",
+    "ref": "91"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270563,
+  "lat": 44.0310320,
+  "lon": 20.9106941,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Aerodrom Crkva",
+    "name": "Аеродром Црква",
+    "name:sr": "Аеродром Црква",
+    "name:sr-Latn": "Aerodrom Crkva",
+    "public_transport": "platform",
+    "ref": "90"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270564,
+  "lat": 44.0300022,
+  "lon": 20.9150875,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "DES",
+    "name": "ДЕС",
+    "name:sr": "ДЕС",
+    "name:sr-Latn": "DES",
+    "public_transport": "platform",
+    "ref": "95"
+  }
+},
+{
+  "type": "node",
+  "id": 8295270565,
+  "lat": 44.0061184,
+  "lon": 20.9192396,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Rujna Zora",
+    "name": "Рујна Зора",
+    "name:sr": "Рујна Зора",
+    "name:sr-Latn": "Rujna Zora",
+    "public_transport": "platform",
+    "ref": "88"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281790,
+  "lat": 44.0056593,
+  "lon": 20.9194059,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Rujna Zora",
+    "name": "Рујна Зора",
+    "name:sr": "Рујна Зора",
+    "name:sr-Latn": "Rujna Zora",
+    "public_transport": "platform",
+    "ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281792,
+  "lat": 44.0035467,
+  "lon": 20.9235016,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Brioni",
+    "name": "Бриони",
+    "name:sr": "Бриони",
+    "name:sr-Latn": "Brioni",
+    "public_transport": "platform",
+    "ref": "89"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281793,
+  "lat": 44.0036162,
+  "lon": 20.9227533,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Brioni",
+    "name": "Бриони",
+    "name:sr": "Бриони",
+    "name:sr-Latn": "Brioni",
+    "public_transport": "platform",
+    "ref": "87"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281794,
+  "lat": 44.0030084,
+  "lon": 20.9299040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Samoposluga Bresnica",
+    "name": "Самопослуга Бресница",
+    "name:sr": "Самопослуга Бресница",
+    "name:sr-Latn": "Samoposluga Bresnica",
+    "public_transport": "platform",
+    "ref": "382"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281795,
+  "lat": 44.0037937,
+  "lon": 20.9289304,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Samoposluga Bresnica",
+    "name": "Самопослуга Бресница",
+    "name:sr": "Самопослуга Бресница",
+    "name:sr-Latn": "Samoposluga Bresnica",
+    "public_transport": "platform",
+    "ref": "82"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281796,
+  "lat": 44.0005524,
+  "lon": 20.9340105,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlin",
+    "name": "Млин",
+    "name:sr": "Млин",
+    "name:sr-Latn": "Mlin",
+    "public_transport": "platform",
+    "ref": "383"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281797,
+  "lat": 44.0013936,
+  "lon": 20.9333319,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlin",
+    "name": "Млин",
+    "name:sr": "Млин",
+    "name:sr-Latn": "Mlin",
+    "public_transport": "platform",
+    "ref": "83"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281798,
+  "lat": 43.9970292,
+  "lon": 20.9380580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnica Most",
+    "name": "Бресница Мост",
+    "name:sr": "Бресница Мост",
+    "name:sr-Latn": "Bresnica Most",
+    "public_transport": "platform",
+    "ref": "385"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281799,
+  "lat": 43.9968825,
+  "lon": 20.9380472,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnica Most",
+    "name": "Бресница Мост",
+    "name:sr": "Бресница Мост",
+    "name:sr-Latn": "Bresnica Most",
+    "public_transport": "platform",
+    "ref": "85"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281800,
+  "lat": 43.9956360,
+  "lon": 20.9328759,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kos",
+    "name": "Кош",
+    "name:sr": "Кош",
+    "name:sr-Latn": "Koš",
+    "public_transport": "platform",
+    "ref": "554"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281801,
+  "lat": 43.9954875,
+  "lon": 20.9327204,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kos",
+    "name": "Кош",
+    "name:sr": "Кош",
+    "name:sr-Latn": "Koš",
+    "public_transport": "platform",
+    "ref": "254"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281802,
+  "lat": 43.9948025,
+  "lon": 20.9287668,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Dom zdravlja Bresnica",
+    "name": "Дом здравља Бресница",
+    "name:sr": "Дом здравља Бресница",
+    "name:sr-Latn": "Dom zdravlja Bresnica",
+    "public_transport": "platform",
+    "ref": "555"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281803,
+  "lat": 43.9948333,
+  "lon": 20.9288768,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Dom Zdravnja Bresnica",
+    "name": "Дом Здравња Бресница",
+    "name:sr": "Дом Здравња Бресница",
+    "name:sr-Latn": "Dom Zdravnja Bresnica",
+    "public_transport": "platform",
+    "ref": "255"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281804,
+  "lat": 43.9905534,
+  "lon": 20.9310198,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Crkva Bresnica",
+    "name": "Црква Бресница",
+    "name:sr": "Црква Бресница",
+    "name:sr-Latn": "Crkva Bresnica",
+    "public_transport": "platform",
+    "ref": "774"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281805,
+  "lat": 43.9907946,
+  "lon": 20.9310976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Crkva Bresnica",
+    "name": "Црква Бресница",
+    "name:sr": "Црква Бресница",
+    "name:sr-Latn": "Crkva Bresnica",
+    "public_transport": "platform",
+    "ref": "274"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281806,
+  "lat": 43.9871589,
+  "lon": 20.9341097,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kod Kose",
+    "name": "Код Коше",
+    "name:sr": "Код Коше",
+    "name:sr-Latn": "Kod Koše",
+    "public_transport": "platform",
+    "ref": "573"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281807,
+  "lat": 43.9872862,
+  "lon": 20.9341473,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kod Kose",
+    "name": "Код Коше",
+    "name:sr": "Код Коше",
+    "name:sr-Latn": "Kod Koše",
+    "public_transport": "platform",
+    "ref": "273"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281808,
+  "lat": 43.9814646,
+  "lon": 20.9399489,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Julin Ducan",
+    "name": "Јулин Дућан",
+    "name:sr": "Јулин Дућан",
+    "name:sr-Latn": "Julin Dućan",
+    "public_transport": "platform",
+    "ref": "571"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281809,
+  "lat": 43.9813797,
+  "lon": 20.9403137,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Julin Ducan",
+    "name": "Јулин Дућан",
+    "name:sr": "Јулин Дућан",
+    "name:sr-Latn": "Julin Dućan",
+    "public_transport": "platform",
+    "ref": "271"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281810,
+  "lat": 43.9778785,
+  "lon": 20.9427384,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica Vodovod Okretnica",
+    "name": "Ждраљица Водовод Окретница",
+    "name:sr": "Ждраљица Водовод Окретница",
+    "name:sr-Latn": "Ždraljica Vodovod Okretnica",
+    "public_transport": "platform",
+    "ref": "572"
+  }
+},
+{
+  "type": "node",
+  "id": 8295281811,
+  "lat": 43.9779712,
+  "lon": 20.9429530,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zdraljica Vodovod Okretnica",
+    "name": "Ждраљица Водовод Окретница",
+    "name:sr": "Ждраљица Водовод Окретница",
+    "name:sr-Latn": "Ždraljica Vodovod Okretnica",
+    "public_transport": "platform",
+    "ref": "272"
+  }
+},
+{
+  "type": "node",
+  "id": 8295300238,
+  "lat": 44.0110233,
+  "lon": 20.9273747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Autobuska Stanica",
+    "name": "Аутобуска Станица",
+    "name:sr": "Аутобуска Станица",
+    "name:sr-Latn": "Autobuska Stanica",
+    "public_transport": "platform",
+    "ref": "253"
+  }
+},
+{
+  "type": "node",
+  "id": 8295300240,
+  "lat": 44.0111390,
+  "lon": 20.9036533,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ambulanta",
+    "name": "Амбуланта",
+    "name:sr": "Амбуланта",
+    "name:sr-Latn": "Ambulanta",
+    "public_transport": "platform",
+    "ref": "125",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8295300242,
+  "lat": 44.0083987,
+  "lon": 20.8995495,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kolonska Kapija",
+    "name": "Колонска Капија",
+    "name:sr": "Колонска Капија",
+    "name:sr-Latn": "Kolonska Kapija",
+    "public_transport": "platform",
+    "ref": "128",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8296729012,
+  "lat": 44.0397420,
+  "lon": 20.8791861,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bazeni Okretnica",
+    "name": "Базени Окретница",
+    "name:sr": "Базени Окретница",
+    "name:sr-Latn": "Bazeni Okretnica",
+    "public_transport": "platform",
+    "ref": "300"
+  }
+},
+{
+  "type": "node",
+  "id": 8296729013,
+  "lat": 44.0394913,
+  "lon": 20.8804790,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bazeni",
+    "name": "Базени",
+    "name:sr": "Базени",
+    "name:sr-Latn": "Bazeni",
+    "public_transport": "platform",
+    "ref": "103"
+  }
+},
+{
+  "type": "node",
+  "id": 8296729014,
+  "lat": 44.0394797,
+  "lon": 20.8808062,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bazeni",
+    "name": "Базени",
+    "name:sr": "Базени",
+    "name:sr-Latn": "Bazeni",
+    "public_transport": "platform",
+    "ref": "403"
+  }
+},
+{
+  "type": "node",
+  "id": 8296729015,
+  "lat": 44.0379449,
+  "lon": 20.8839980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Kucni Br. 50",
+    "name": "Продавница Кућни Бр. 50",
+    "name:sr": "Продавница Кућни Бр. 50",
+    "name:sr-Latn": "Prodavnica Kućni Br. 50",
+    "public_transport": "platform",
+    "ref": "102"
+  }
+},
+{
+  "type": "node",
+  "id": 8296729016,
+  "lat": 44.0379256,
+  "lon": 20.8841965,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Kucni br. 50",
+    "name": "Продавница Кућни бр. 50",
+    "name:sr": "Продавница Кућни бр. 50",
+    "name:sr-Latn": "Prodavnica Kućni br. 50",
+    "public_transport": "platform",
+    "ref": "402"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763217,
+  "lat": 44.0351181,
+  "lon": 20.8867446,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica PKB",
+    "name": "Продавница ПКБ",
+    "name:sr": "Продавница ПКБ",
+    "name:sr-Latn": "Prodavnica PKB",
+    "public_transport": "platform",
+    "ref": "101"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763218,
+  "lat": 44.0352840,
+  "lon": 20.8867446,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica PKB",
+    "name": "Продавница ПКБ",
+    "name:sr": "Продавница ПКБ",
+    "name:sr-Latn": "Prodavnica PKB",
+    "public_transport": "platform",
+    "ref": "401"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763219,
+  "lat": 44.0299386,
+  "lon": 20.8915619,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vinogradi",
+    "name": "Виногради",
+    "name:sr": "Виногради",
+    "name:sr-Latn": "Vinogradi",
+    "public_transport": "platform",
+    "ref": "100"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763220,
+  "lat": 44.0301391,
+  "lon": 20.8918837,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vinogradi",
+    "name": "Виногради",
+    "name:sr": "Виногради",
+    "name:sr-Latn": "Vinogradi",
+    "public_transport": "platform",
+    "ref": "400"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763221,
+  "lat": 44.0300928,
+  "lon": 20.8962825,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Vinogradi",
+    "name": "Продавница Виногради",
+    "name:sr": "Продавница Виногради",
+    "name:sr-Latn": "Prodavnica Vinogradi",
+    "public_transport": "platform",
+    "ref": "98"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763222,
+  "lat": 44.0302702,
+  "lon": 20.8959875,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Vinogradi",
+    "name": "Продавница Виногради",
+    "name:sr": "Продавница Виногради",
+    "name:sr-Latn": "Prodavnica Vinogradi",
+    "public_transport": "platform",
+    "ref": "398"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763223,
+  "lat": 44.0277864,
+  "lon": 20.9120110,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Posta",
+    "name": "Пошта",
+    "name:sr": "Пошта",
+    "name:sr-Latn": "Pošta",
+    "public_transport": "platform",
+    "ref": "96"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763224,
+  "lat": 44.0267054,
+  "lon": 20.9159539,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vulkanizer",
+    "name": "Вулканизер",
+    "name:sr": "Вулканизер",
+    "name:sr-Latn": "Vulkanizer",
+    "public_transport": "platform",
+    "ref": "67"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763231,
+  "lat": 43.9960615,
+  "lon": 20.8669365,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Brace Petrovic",
+    "name": "Браће Петровић",
+    "name:sr": "Браће Петровић",
+    "name:sr-Latn": "Braće Petrović",
+    "public_transport": "platform",
+    "ref": "372"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763232,
+  "lat": 43.9961696,
+  "lon": 20.8667031,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Brace Petrovic",
+    "name": "Браће Петровић",
+    "name:sr": "Браће Петровић",
+    "name:sr-Latn": "Braće Petrović",
+    "public_transport": "platform",
+    "ref": "72"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763233,
+  "lat": 43.9988844,
+  "lon": 20.8628998,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Dom",
+    "name": "Мале Пчелице Дом",
+    "name:sr": "Мале Пчелице Дом",
+    "name:sr-Latn": "Male Pčelice Dom",
+    "public_transport": "platform",
+    "ref": "71"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763234,
+  "lat": 43.9989982,
+  "lon": 20.8628274,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Dom",
+    "name": "Мале Пчелице Дом",
+    "name:sr": "Мале Пчелице Дом",
+    "name:sr-Latn": "Male Pčelice Dom",
+    "public_transport": "platform",
+    "ref": "371"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763235,
+  "lat": 44.0030306,
+  "lon": 20.8598957,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Groblje",
+    "name": "Мале Пчелице Гробље",
+    "name:sr": "Мале Пчелице Гробље",
+    "name:sr-Latn": "Male Pčelice Groblje",
+    "public_transport": "platform",
+    "ref": "369"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763236,
+  "lat": 44.0036441,
+  "lon": 20.8568836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Porta Male Pcelice",
+    "name": "Порта Мале Пчелице",
+    "name:sr": "Порта Мале Пчелице",
+    "name:sr-Latn": "Porta Male Pčelice",
+    "public_transport": "platform",
+    "ref": "68"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763238,
+  "lat": 43.9979997,
+  "lon": 20.8604402,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Skola",
+    "name": "Мале Пчелице Школа",
+    "name:sr": "Мале Пчелице Школа",
+    "name:sr-Latn": "Male Pčelice Škola",
+    "public_transport": "platform",
+    "ref": "70"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763239,
+  "lat": 43.9991844,
+  "lon": 20.8552367,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Solunska 65",
+    "name": "Солунска 65",
+    "name:sr": "Солунска 65",
+    "name:sr-Latn": "Solunska 65",
+    "public_transport": "platform",
+    "ref": "268"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763241,
+  "lat": 44.0020013,
+  "lon": 20.8527852,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mezijska Raskrsnica",
+    "name": "Мезијска Раскрсница",
+    "name:sr": "Мезијска Раскрсница",
+    "name:sr-Latn": "Mezijska Raskrsnica",
+    "public_transport": "platform",
+    "ref": "266"
+  }
+},
+{
+  "type": "node",
+  "id": 8296763242,
+  "lat": 44.0042972,
+  "lon": 20.8533752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Male Pcelice Prodavnica",
+    "name": "Мале Пчелице Продавница",
+    "name:sr": "Мале Пчелице Продавница",
+    "name:sr-Latn": "Male Pčelice Prodavnica",
+    "public_transport": "platform",
+    "ref": "267"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858467,
+  "lat": 44.0316037,
+  "lon": 20.9513832,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kvantas",
+    "name": "Кванташ",
+    "name:sr": "Кванташ",
+    "name:sr-Latn": "Kvantaš",
+    "public_transport": "platform",
+    "ref": "258"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858468,
+  "lat": 44.0285722,
+  "lon": 20.9502030,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Iris",
+    "name": "Ирис",
+    "name:sr": "Ирис",
+    "name:sr-Latn": "Iris",
+    "public_transport": "platform",
+    "ref": "257"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858469,
+  "lat": 44.0287072,
+  "lon": 20.9506214,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Iris",
+    "name": "Ирис",
+    "name:sr": "Ирис",
+    "name:sr-Latn": "Iris",
+    "public_transport": "platform",
+    "ref": "557"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858470,
+  "lat": 44.0248887,
+  "lon": 20.9422315,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Romanija",
+    "name": "Романија",
+    "name:sr": "Романија",
+    "name:sr-Latn": "Romanija",
+    "public_transport": "platform",
+    "ref": "34"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858471,
+  "lat": 44.0249928,
+  "lon": 20.9426606,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Romanija",
+    "name": "Романија",
+    "name:sr": "Романија",
+    "name:sr-Latn": "Romanija",
+    "public_transport": "platform",
+    "ref": "334"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858472,
+  "lat": 44.0215560,
+  "lon": 20.9377522,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Proleter",
+    "name": "Пролетер",
+    "name:sr": "Пролетер",
+    "name:sr-Latn": "Proleter",
+    "public_transport": "platform",
+    "ref": "33"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858473,
+  "lat": 44.0210391,
+  "lon": 20.9372747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Proleter",
+    "name": "Пролетер",
+    "name:sr": "Пролетер",
+    "name:sr-Latn": "Proleter",
+    "public_transport": "platform",
+    "ref": "333"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858476,
+  "lat": 43.9935116,
+  "lon": 20.8768714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grosnicka Stanica",
+    "name": "Грошничка Станица",
+    "name:sr": "Грошничка Станица",
+    "name:sr-Latn": "Grošnička Stanica",
+    "public_transport": "platform",
+    "ref": "130"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858477,
+  "lat": 43.9909827,
+  "lon": 20.8774186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kapija Vojna",
+    "name": "Капија Војна",
+    "name:sr": "Капија Војна",
+    "name:sr-Latn": "Kapija Vojna",
+    "public_transport": "platform",
+    "ref": "131"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858478,
+  "lat": 43.9896782,
+  "lon": 20.8774883,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kapija Vojna",
+    "name": "Капија Војна",
+    "name:sr": "Капија Војна",
+    "name:sr-Latn": "Kapija Vojna",
+    "public_transport": "platform",
+    "ref": "431"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858479,
+  "lat": 43.9852358,
+  "lon": 20.8793229,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ludbreska Raskrsnica",
+    "name": "Лудбрешка Раскрсница",
+    "name:sr": "Лудбрешка Раскрсница",
+    "name:sr-Latn": "Ludbreška Raskrsnica",
+    "public_transport": "platform",
+    "ref": "432"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858480,
+  "lat": 43.9853786,
+  "lon": 20.8793819,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ludbreska Raskrsnica",
+    "name": "Лудбрешка Раскрсница",
+    "name:sr": "Лудбрешка Раскрсница",
+    "name:sr-Latn": "Ludbreška Raskrsnica",
+    "public_transport": "platform",
+    "ref": "132"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858481,
+  "lat": 43.9802796,
+  "lon": 20.8820266,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Spomenik",
+    "name": "Споменик",
+    "name:sr": "Споменик",
+    "name:sr-Latn": "Spomenik",
+    "public_transport": "platform",
+    "ref": "433"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858482,
+  "lat": 43.9800480,
+  "lon": 20.8822412,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Spomenik",
+    "name": "Споменик",
+    "name:sr": "Споменик",
+    "name:sr-Latn": "Spomenik",
+    "public_transport": "platform",
+    "ref": "133"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858483,
+  "lat": 43.9752844,
+  "lon": 20.8798916,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodenica",
+    "name": "Воденица",
+    "name:sr": "Воденица",
+    "name:sr-Latn": "Vodenica",
+    "public_transport": "platform",
+    "ref": "434"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858484,
+  "lat": 43.9754349,
+  "lon": 20.8801973,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodenica",
+    "name": "Воденица",
+    "name:sr": "Воденица",
+    "name:sr-Latn": "Vodenica",
+    "public_transport": "platform",
+    "ref": "134"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858485,
+  "lat": 43.9695243,
+  "lon": 20.8747203,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grosnicka Crkva",
+    "name": "Грошничка Црква",
+    "name:sr": "Грошничка Црква",
+    "name:sr-Latn": "Grošnička Crkva",
+    "public_transport": "platform",
+    "ref": "435"
+  }
+},
+{
+  "type": "node",
+  "id": 8296858486,
+  "lat": 43.9697328,
+  "lon": 20.8749563,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grosnicka Crkva",
+    "name": "Грошничка Црква",
+    "name:sr": "Грошничка Црква",
+    "name:sr-Latn": "Grošnička Crkva",
+    "public_transport": "platform",
+    "ref": "135"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886322,
+  "lat": 44.0155795,
+  "lon": 20.8655203,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Visnjak Okretnica",
+    "name": "Вишњак Окретница",
+    "name:sr": "Вишњак Окретница",
+    "name:sr-Latn": "Višnjak Okretnica",
+    "public_transport": "platform",
+    "ref": "242"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886323,
+  "lat": 44.0138126,
+  "lon": 20.8635837,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Visnjak",
+    "name": "Вишњак",
+    "name:sr": "Вишњак",
+    "name:sr-Latn": "Višnjak",
+    "public_transport": "platform",
+    "ref": "241"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886324,
+  "lat": 44.0118335,
+  "lon": 20.8674622,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Visnjak",
+    "name": "Продавница Вишњак",
+    "name:sr": "Продавница Вишњак",
+    "name:sr-Latn": "Prodavnica Višnjak",
+    "public_transport": "platform",
+    "ref": "239"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886325,
+  "lat": 44.0146845,
+  "lon": 20.8680040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bjelasnicka",
+    "name": "Бјелашничка",
+    "name:sr": "Бјелашничка",
+    "name:sr-Latn": "Bjelašnička",
+    "public_transport": "platform",
+    "ref": "240"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886326,
+  "lat": 44.0119762,
+  "lon": 20.8675534,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Visnjak",
+    "name": "Продавница Вишњак",
+    "name:sr": "Продавница Вишњак",
+    "name:sr-Latn": "Prodavnica Višnjak",
+    "public_transport": "platform",
+    "ref": "539"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886328,
+  "lat": 44.0068949,
+  "lon": 20.8682132,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Visnjak Raskirsnica",
+    "name": "Вишњак Раскирсница",
+    "name:sr": "Вишњак Раскирсница",
+    "name:sr-Latn": "Višnjak Raskirsnica",
+    "public_transport": "platform",
+    "ref": "238"
+  }
+},
+{
+  "type": "node",
+  "id": 8296886329,
+  "lat": 44.0071303,
+  "lon": 20.8681971,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Visnjak Raskrsnica",
+    "name": "Вишњак Раскрсница",
+    "name:sr": "Вишњак Раскрсница",
+    "name:sr-Latn": "Višnjak Raskrsnica",
+    "public_transport": "platform",
+    "ref": "538"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049007,
+  "lat": 44.0074968,
+  "lon": 20.8729715,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Nova Skola Visnjak",
+    "name": "Нова Школа Вишњак",
+    "name:sr": "Нова Школа Вишњак",
+    "name:sr-Latn": "Nova Škola Višnjak",
+    "public_transport": "platform",
+    "ref": "193"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049008,
+  "lat": 44.0075817,
+  "lon": 20.8728427,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Nova Skola Visnjak",
+    "name": "Нова Школа Вишњак",
+    "name:sr": "Нова Школа Вишњак",
+    "name:sr-Latn": "Nova Škola Višnjak",
+    "public_transport": "platform",
+    "ref": "493"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049009,
+  "lat": 44.0070454,
+  "lon": 20.8788401,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Kruzni Put",
+    "name": "Продавница Кружни Пут",
+    "name:sr": "Продавница Кружни Пут",
+    "name:sr-Latn": "Prodavnica Kružni Put",
+    "public_transport": "platform",
+    "ref": "192"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049010,
+  "lat": 44.0071303,
+  "lon": 20.8789421,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Kruzni Put",
+    "name": "Продавница Кружни Пут",
+    "name:sr": "Продавница Кружни Пут",
+    "name:sr-Latn": "Prodavnica Kružni Put",
+    "public_transport": "platform",
+    "ref": "492"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049011,
+  "lat": 44.0065554,
+  "lon": 20.8806050,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Okretnica Bagremar",
+    "name": "Окретница Багремар",
+    "name:sr": "Окретница Багремар",
+    "name:sr-Latn": "Okretnica Bagremar",
+    "public_transport": "platform",
+    "ref": "260"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049012,
+  "lat": 44.0043522,
+  "lon": 20.8830029,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Milana Obradovica 65",
+    "name": "Милана Обрадовића 65",
+    "name:sr": "Милана Обрадовића 65",
+    "name:sr-Latn": "Milana Obradovića 65",
+    "public_transport": "platform",
+    "ref": "261"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049013,
+  "lat": 44.0045297,
+  "lon": 20.8829815,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Milana Obradovica 65",
+    "name": "Милана Обрадовића 65",
+    "name:sr": "Милана Обрадовића 65",
+    "name:sr-Latn": "Milana Obradovića 65",
+    "public_transport": "platform",
+    "ref": "761"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049014,
+  "lat": 44.0020486,
+  "lon": 20.8859426,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Crkva - Stanovo",
+    "name": "Црква - Станово",
+    "name:sr": "Црква - Станово",
+    "name:sr-Latn": "Crkva - Stanovo",
+    "public_transport": "platform",
+    "ref": "262",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049717,
+  "lat": 44.0075470,
+  "lon": 20.8837808,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bagremar",
+    "name": "Багремар",
+    "name:sr": "Багремар",
+    "name:sr-Latn": "Bagremar",
+    "public_transport": "platform",
+    "ref": "191"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049718,
+  "lat": 44.0077168,
+  "lon": 20.8839846,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bagremar",
+    "name": "Багремар",
+    "name:sr": "Багремар",
+    "name:sr-Latn": "Bagremar",
+    "public_transport": "platform",
+    "ref": "491"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049719,
+  "lat": 44.0069875,
+  "lon": 20.8871657,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Samposluga Bagremar",
+    "name": "Сампослуга Багремар",
+    "name:sr": "Сампослуга Багремар",
+    "name:sr-Latn": "Samposluga Bagremar",
+    "public_transport": "platform",
+    "ref": "148"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049720,
+  "lat": 44.0068255,
+  "lon": 20.8874983,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Samoposluga Bagremar",
+    "name": "Самопослуга Багремар",
+    "name:sr": "Самопослуга Багремар",
+    "name:sr-Latn": "Samoposluga Bagremar",
+    "public_transport": "platform",
+    "ref": "448"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049721,
+  "lat": 44.0034146,
+  "lon": 20.8904326,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ilindenska",
+    "name": "Илинденска",
+    "name:sr": "Илинденска",
+    "name:sr-Latn": "Ilindenska",
+    "public_transport": "platform",
+    "ref": "282"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049722,
+  "lat": 44.0189087,
+  "lon": 20.9499187,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Skola Ilicevo",
+    "name": "Школа Илићево",
+    "name:sr": "Школа Илићево",
+    "name:sr-Latn": "Škola Ilićevo",
+    "public_transport": "platform",
+    "ref": "460"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049723,
+  "lat": 44.0190360,
+  "lon": 20.9499616,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Skola Ilicevo",
+    "name": "Школа Илићево",
+    "name:sr": "Школа Илићево",
+    "name:sr-Latn": "Škola Ilićevo",
+    "public_transport": "platform",
+    "ref": "160"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049725,
+  "lat": 44.0155872,
+  "lon": 20.9555406,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ilicevo Trafo",
+    "name": "Илићево Трафо",
+    "name:sr": "Илићево Трафо",
+    "name:sr-Latn": "Ilićevo Trafo",
+    "public_transport": "platform",
+    "ref": "458"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049726,
+  "lat": 44.0157994,
+  "lon": 20.9552348,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ilicevo Trafo",
+    "name": "Илићево Трафо",
+    "name:sr": "Илићево Трафо",
+    "name:sr-Latn": "Ilićevo Trafo",
+    "public_transport": "platform",
+    "ref": "158"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049727,
+  "lat": 44.0149160,
+  "lon": 20.9603847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Spomenik 19. Oktobar",
+    "name": "Споменик 19. Октобар",
+    "name:sr": "Споменик 19. Октобар",
+    "name:sr-Latn": "Spomenik 19. Oktobar",
+    "public_transport": "platform",
+    "ref": "459"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049728,
+  "lat": 44.0150472,
+  "lon": 20.9602291,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Spomenik 19. Oktobar",
+    "name": "Споменик 19. Октобар",
+    "name:sr": "Споменик 19. Октобар",
+    "name:sr-Latn": "Spomenik 19. Oktobar",
+    "public_transport": "platform",
+    "ref": "159"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049729,
+  "lat": 44.0129369,
+  "lon": 20.9669185,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Opstina Raskrsnica",
+    "name": "Стара Општина Раскрсница",
+    "name:sr": "Стара Општина Раскрсница",
+    "name:sr-Latn": "Stara Opština Raskrsnica",
+    "public_transport": "platform",
+    "ref": "584"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049730,
+  "lat": 44.0131105,
+  "lon": 20.9669507,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Opstina Raskrsnica",
+    "name": "Стара Општина Раскрсница",
+    "name:sr": "Стара Општина Раскрсница",
+    "name:sr-Latn": "Stara Opština Raskrsnica",
+    "public_transport": "platform",
+    "ref": "284"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049731,
+  "lat": 44.0081412,
+  "lon": 20.9679270,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zivkovici",
+    "name": "Живковићи",
+    "name:sr": "Живковићи",
+    "name:sr-Latn": "Živkovići",
+    "public_transport": "platform",
+    "ref": "456"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049732,
+  "lat": 44.0082724,
+  "lon": 20.9682006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zivkovici",
+    "name": "Живковићи",
+    "public_transport": "platform",
+    "ref": "156"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049733,
+  "lat": 44.0053824,
+  "lon": 20.9661729,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Izvor",
+    "name": "Извор",
+    "name:sr": "Извор",
+    "name:sr-Latn": "Izvor",
+    "public_transport": "platform",
+    "ref": "457"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049734,
+  "lat": 44.0054249,
+  "lon": 20.9662962,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Izvor",
+    "name": "Извор",
+    "name:sr": "Извор",
+    "name:sr-Latn": "Izvor",
+    "public_transport": "platform",
+    "ref": "157"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049735,
+  "lat": 44.0026081,
+  "lon": 20.9676588,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Opstina Okretnica",
+    "name": "Стара Општина Окретница",
+    "public_transport": "platform",
+    "ref": "455"
+  }
+},
+{
+  "type": "node",
+  "id": 8297049736,
+  "lat": 44.0026814,
+  "lon": 20.9677929,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Opstina Okretnica",
+    "name": "Стара Општина Окретница",
+    "name:sr": "Стара Општина Окретница",
+    "name:sr-Latn": "Stara Opština Okretnica",
+    "public_transport": "platform",
+    "ref": "155"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203475,
+  "lat": 44.0156663,
+  "lon": 20.9230537,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Roda Centar",
+    "name": "Рода Центар",
+    "name:sr": "Рода Центар",
+    "name:sr-Latn": "Roda Centar",
+    "public_transport": "platform",
+    "ref": "463"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203476,
+  "lat": 44.0157281,
+  "lon": 20.9229088,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Roda Centar",
+    "name": "Рода Центар",
+    "name:sr": "Рода Центар",
+    "name:sr-Latn": "Roda Centar",
+    "public_transport": "platform",
+    "ref": "163"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203477,
+  "lat": 44.0210169,
+  "lon": 20.9261543,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Servis",
+    "name": "Сервис",
+    "name:sr": "Сервис",
+    "name:sr-Latn": "Servis",
+    "public_transport": "platform",
+    "ref": "464"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203478,
+  "lat": 44.0206929,
+  "lon": 20.9258003,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Servis",
+    "name": "Сервис",
+    "name:sr": "Сервис",
+    "name:sr-Latn": "Servis",
+    "public_transport": "platform",
+    "ref": "164"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203479,
+  "lat": 44.0233429,
+  "lon": 20.9276134,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlekara",
+    "name": "Млекара",
+    "name:sr": "Млекара",
+    "name:sr-Latn": "Mlekara",
+    "public_transport": "platform",
+    "ref": "465"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203480,
+  "lat": 44.0238868,
+  "lon": 20.9277851,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlekara",
+    "name": "Млекара",
+    "name:sr": "Млекара",
+    "name:sr-Latn": "Mlekara",
+    "public_transport": "platform",
+    "ref": "165"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203481,
+  "lat": 44.0258771,
+  "lon": 20.9290779,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Institut",
+    "name": "Институт",
+    "name:sr": "Институт",
+    "name:sr-Latn": "Institut",
+    "public_transport": "platform",
+    "ref": "466"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203482,
+  "lat": 44.0261240,
+  "lon": 20.9289921,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Institut",
+    "name": "Институт",
+    "name:sr": "Институт",
+    "name:sr-Latn": "Institut",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203483,
+  "lat": 44.0297226,
+  "lon": 20.9303600,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Smetliste",
+    "name": "Сметлиште",
+    "name:sr": "Сметлиште",
+    "name:sr-Latn": "Smetlište",
+    "public_transport": "platform",
+    "ref": "467"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203484,
+  "lat": 44.0304477,
+  "lon": 20.9302259,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Smetliste",
+    "name": "Сметлиште",
+    "name:sr": "Сметлиште",
+    "name:sr-Latn": "Smetlište",
+    "public_transport": "platform",
+    "ref": "167"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203485,
+  "lat": 44.0384462,
+  "lon": 20.9367008,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bozman Raskrsnica",
+    "name": "Бозман Раскрсница",
+    "name:sr": "Бозман Раскрсница",
+    "name:sr-Latn": "Bozman Raskrsnica",
+    "public_transport": "platform",
+    "ref": "468"
+  }
+},
+{
+  "type": "node",
+  "id": 8297203486,
+  "lat": 44.0382611,
+  "lon": 20.9364325,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bozman Raskrsnica",
+    "name": "Бозман Раскрсница",
+    "name:sr": "Бозман Раскрсница",
+    "name:sr-Latn": "Bozman Raskrsnica",
+    "public_transport": "platform",
+    "ref": "168"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585929,
+  "lat": 43.9717011,
+  "lon": 20.8992725,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Staro Selo",
+    "name": "Ердеч Старо Село",
+    "name:sr": "Ердеч Старо Село",
+    "name:sr-Latn": "Erdeč Staro Selo",
+    "public_transport": "platform",
+    "ref": "177"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585930,
+  "lat": 43.9781596,
+  "lon": 20.8950883,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vasiljevica Kuce",
+    "name": "Васиљевића Куће",
+    "name:sr": "Васиљевића Куће",
+    "name:sr-Latn": "Vasiljevića Kuće",
+    "public_transport": "platform",
+    "ref": "178"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585931,
+  "lat": 43.9779280,
+  "lon": 20.8948093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vasiljevica Kuce",
+    "name": "Васиљевића Куће",
+    "name:sr": "Васиљевића Куће",
+    "name:sr-Latn": "Vasiljevića Kuće",
+    "public_transport": "platform",
+    "ref": "478"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585932,
+  "lat": 43.9808965,
+  "lon": 20.8926850,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Branko Perisic - Badza",
+    "name": "Бранко Перишић - Баџа",
+    "name:sr": "Бранко Перишић - Баџа",
+    "name:sr-Latn": "Branko Perišić - Badža",
+    "public_transport": "platform",
+    "ref": "479"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585933,
+  "lat": 43.9811821,
+  "lon": 20.8926850,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Branko Perisic - Badza",
+    "name": "Бранко Перишић - Баџа",
+    "name:sr": "Бранко Перишић - Баџа",
+    "name:sr-Latn": "Branko Perišić - Badža",
+    "public_transport": "platform",
+    "ref": "179"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585935,
+  "lat": 43.9835676,
+  "lon": 20.8909148,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Ambulanta",
+    "name": "Ердеч Амбуланта",
+    "name:sr": "Ердеч Амбуланта",
+    "name:sr-Latn": "Erdeč Ambulanta",
+    "public_transport": "platform",
+    "ref": "480"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585936,
+  "lat": 43.9842199,
+  "lon": 20.8910435,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Ambulanta",
+    "name": "Ердеч Амбуланта",
+    "name:sr": "Ердеч Амбуланта",
+    "name:sr-Latn": "Erdeč Ambulanta",
+    "public_transport": "platform",
+    "ref": "180"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585937,
+  "lat": 43.9879098,
+  "lon": 20.8910274,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Trafo",
+    "name": "Ердеч Трафо",
+    "name:sr": "Ердеч Трафо",
+    "name:sr-Latn": "Erdeč Trafo",
+    "public_transport": "platform",
+    "ref": "481"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585938,
+  "lat": 43.9882726,
+  "lon": 20.8908933,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Trafo",
+    "name": "Ердеч Трафо",
+    "name:sr": "Ердеч Трафо",
+    "name:sr-Latn": "Erdeč Trafo",
+    "public_transport": "platform",
+    "ref": "181"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585939,
+  "lat": 43.9909318,
+  "lon": 20.8888226,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Trnava",
+    "name": "Продавница Трнава",
+    "name:sr": "Продавница Трнава",
+    "name:sr-Latn": "Prodavnica Trnava",
+    "public_transport": "platform",
+    "ref": "482"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585940,
+  "lat": 43.9908276,
+  "lon": 20.8890211,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Trnava",
+    "name": "Продавница Трнава",
+    "name:sr": "Продавница Трнава",
+    "name:sr-Latn": "Prodavnica Trnava",
+    "public_transport": "platform",
+    "ref": "182"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585941,
+  "lat": 43.9940888,
+  "lon": 20.8884149,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Pruga Erdec",
+    "name": "Пруга Ердеч",
+    "name:sr": "Пруга Ердеч",
+    "name:sr-Latn": "Pruga Erdeč",
+    "public_transport": "platform",
+    "ref": "483"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585942,
+  "lat": 43.9940193,
+  "lon": 20.8885437,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Pruga Erdec",
+    "name": "Пруга Ердеч",
+    "name:sr": "Пруга Ердеч",
+    "name:sr-Latn": "Pruga Erdeč",
+    "public_transport": "platform",
+    "ref": "183"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585943,
+  "lat": 43.9981022,
+  "lon": 20.8909309,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Institut",
+    "name": "Ердеч Институт",
+    "name:sr": "Ердеч Институт",
+    "name:sr-Latn": "Erdeč Institut",
+    "public_transport": "platform",
+    "ref": "484"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585944,
+  "lat": 43.9981756,
+  "lon": 20.8910703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdec Institut",
+    "name": "Ердеч Институт",
+    "name:sr": "Ердеч Институт",
+    "name:sr-Latn": "Erdeč Institut",
+    "public_transport": "platform",
+    "ref": "184"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585945,
+  "lat": 44.0302908,
+  "lon": 20.9723359,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Marsic Skola",
+    "name": "Маршић Школа",
+    "name:sr": "Маршић Школа",
+    "name:sr-Latn": "Maršić Škola",
+    "public_transport": "platform",
+    "ref": "28"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585946,
+  "lat": 44.0073129,
+  "lon": 20.8798024,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Raskrsnica Kruzni Put",
+    "name": "Раскрсница Кружни Пут",
+    "name:sr": "Раскрсница Кружни Пут",
+    "name:sr-Latn": "Raskrsnica Kružni Put",
+    "public_transport": "platform",
+    "ref": "707"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585947,
+  "lat": 44.0090568,
+  "lon": 20.8806714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mileva Rajcevic",
+    "name": "Милева Рајчевић",
+    "name:sr": "Милева Рајчевић",
+    "name:sr-Latn": "Mileva Rajčević",
+    "public_transport": "platform",
+    "ref": "706"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585948,
+  "lat": 44.0101458,
+  "lon": 20.8777022,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "JKP Vodovod",
+    "name": "ЈКП Водовод",
+    "name:sr": "ЈКП Водовод",
+    "name:sr-Latn": "JKP Vodovod",
+    "public_transport": "platform",
+    "ref": "705"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585949,
+  "lat": 44.0135216,
+  "lon": 20.8711576,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Fazanerija",
+    "name": "Фазанерија",
+    "name:sr": "Фазанерија",
+    "name:sr-Latn": "Fazanerija",
+    "public_transport": "platform",
+    "ref": "704"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585950,
+  "lat": 44.0055930,
+  "lon": 20.8688455,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Velika Krivina",
+    "name": "Велика Кривина",
+    "name:sr": "Велика Кривина",
+    "name:sr-Latn": "Velika Krivina",
+    "public_transport": "platform",
+    "ref": "494"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585951,
+  "lat": 44.0056972,
+  "lon": 20.8689421,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Velika Krivina",
+    "name": "Велика Кривина",
+    "name:sr": "Велика Кривина",
+    "name:sr-Latn": "Velika Krivina",
+    "public_transport": "platform",
+    "ref": "194"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585952,
+  "lat": 44.0034013,
+  "lon": 20.8718174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stanovljansko Igraliste",
+    "name": "Становљанско Игралиште",
+    "name:sr": "Становљанско Игралиште",
+    "name:sr-Latn": "Stanovljansko Igralište",
+    "public_transport": "platform",
+    "ref": "496"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585953,
+  "lat": 44.0035865,
+  "lon": 20.8716833,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stanovljansko Igraliste",
+    "name": "Становљанско Игралиште",
+    "name:sr": "Становљанско Игралиште",
+    "name:sr-Latn": "Stanovljansko Igralište",
+    "public_transport": "platform",
+    "ref": "196"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585954,
+  "lat": 44.0018463,
+  "lon": 20.8761197,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Porta-Zapis",
+    "name": "Порта-Запис",
+    "name:sr": "Порта-Запис",
+    "name:sr-Latn": "Porta-Zapis",
+    "public_transport": "platform",
+    "ref": "495"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585955,
+  "lat": 44.0020701,
+  "lon": 20.8757335,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Porta-Zapis",
+    "name": "Порта-Запис",
+    "name:sr": "Порта-Запис",
+    "name:sr-Latn": "Porta-Zapis",
+    "public_transport": "platform",
+    "ref": "195"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585956,
+  "lat": 44.0010552,
+  "lon": 20.8812427,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Skola Stanovo",
+    "name": "Стара Школа Станово",
+    "name:sr": "Стара Школа Станово",
+    "name:sr-Latn": "Stara Škola Stanovo",
+    "public_transport": "platform",
+    "ref": "197"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585957,
+  "lat": 44.0007581,
+  "lon": 20.8822861,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Skola Stanovo",
+    "name": "Стара Школа Станово",
+    "name:sr": "Стара Школа Станово",
+    "name:sr-Latn": "Stara Škola Stanovo",
+    "public_transport": "platform",
+    "ref": "497"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585958,
+  "lat": 43.9991504,
+  "lon": 20.8852037,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stanovo Semafor",
+    "name": "Станово Семафор",
+    "name:sr": "Станово Семафор",
+    "name:sr-Latn": "Stanovo Semafor",
+    "public_transport": "platform",
+    "ref": "198"
+  }
+},
+{
+  "type": "node",
+  "id": 8297585959,
+  "lat": 43.9990042,
+  "lon": 20.8854015,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stanovo Semafor",
+    "name": "Станово Семафор",
+    "name:sr": "Станово Семафор",
+    "name:sr-Latn": "Stanovo Semafor",
+    "public_transport": "platform",
+    "ref": "498"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070550,
+  "lat": 43.9938987,
+  "lon": 20.9532359,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Trmbas Raskrsnica",
+    "name": "Трмбас Раскрсница",
+    "name:sr": "Трмбас Раскрсница",
+    "name:sr-Latn": "Trmbas Raskrsnica",
+    "public_transport": "platform",
+    "ref": "412"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070551,
+  "lat": 43.9940299,
+  "lon": 20.9533968,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Trmbas Raskrsnica",
+    "name": "Трмбас Раскрсница",
+    "name:sr": "Трмбас Раскрсница",
+    "name:sr-Latn": "Trmbas Raskrsnica",
+    "public_transport": "platform",
+    "ref": "112"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070552,
+  "lat": 43.9947786,
+  "lon": 20.9487083,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Tefericko Groblje",
+    "name": "Теферичко Гробље",
+    "name:sr": "Теферичко Гробље",
+    "name:sr-Latn": "Teferičko Groblje",
+    "public_transport": "platform",
+    "ref": "111"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070553,
+  "lat": 43.9946474,
+  "lon": 20.9492233,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Tefericko Groblje",
+    "name": "Теферичко Гробље",
+    "name:sr": "Теферичко Гробље",
+    "name:sr-Latn": "Teferičko Groblje",
+    "public_transport": "platform",
+    "ref": "411"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070554,
+  "lat": 43.9949715,
+  "lon": 20.9435316,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Trafo Bresnica",
+    "name": "Трафо Бресница",
+    "name:sr": "Трафо Бресница",
+    "name:sr-Latn": "Trafo Bresnica",
+    "public_transport": "platform",
+    "ref": "110"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070555,
+  "lat": 43.9948944,
+  "lon": 20.9431186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Trafo Bresnica",
+    "name": "Трафо Бресница",
+    "name:sr": "Трафо Бресница",
+    "name:sr-Latn": "Trafo Bresnica",
+    "public_transport": "platform",
+    "ref": "410"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070556,
+  "lat": 43.9971249,
+  "lon": 20.9382531,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnica Most",
+    "name": "Бресница Мост",
+    "name:sr": "Бресница Мост",
+    "name:sr-Latn": "Bresnica Most",
+    "public_transport": "platform",
+    "ref": "84"
+  }
+},
+{
+  "type": "node",
+  "id": 8298070557,
+  "lat": 43.9968239,
+  "lon": 20.9387895,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnica Most",
+    "name": "Бресница Мост",
+    "name:sr": "Бресница Мост",
+    "name:sr-Latn": "Bresnica Most",
+    "public_transport": "platform",
+    "ref": "384"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184018,
+  "lat": 44.0133384,
+  "lon": 20.9233185,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hala Jezero",
+    "name": "Хала Језеро",
+    "name:sr": "Хала Језеро",
+    "name:sr-Latn": "Hala Jezero",
+    "public_transport": "platform",
+    "ref": "559"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184019,
+  "lat": 44.0133962,
+  "lon": 20.9234848,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hala Jezero",
+    "name": "Хала Језеро",
+    "name:sr": "Хала Језеро",
+    "name:sr-Latn": "Hala Jezero",
+    "public_transport": "platform",
+    "ref": "259"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184020,
+  "lat": 44.0219009,
+  "lon": 20.9024011,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Dom Starih",
+    "name": "Дом Старих",
+    "name:sr": "Дом Старих",
+    "name:sr-Latn": "Dom Starih",
+    "public_transport": "platform",
+    "ref": "416"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184021,
+  "lat": 44.0219202,
+  "lon": 20.9018378,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Dom Starih",
+    "name": "Дом Старих",
+    "name:sr": "Дом Старих",
+    "name:sr-Latn": "Dom Starih",
+    "public_transport": "platform",
+    "ref": "116"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184022,
+  "lat": 44.0224872,
+  "lon": 20.8861630,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Galerija",
+    "name": "Галерија",
+    "name:sr": "Галерија",
+    "name:sr-Latn": "Galerija",
+    "public_transport": "platform",
+    "ref": "461"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184023,
+  "lat": 44.0223831,
+  "lon": 20.8861094,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Galerija",
+    "name": "Галерија",
+    "name:sr": "Галерија",
+    "name:sr-Latn": "Galerija",
+    "public_transport": "platform",
+    "ref": "161"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184024,
+  "lat": 44.0239665,
+  "lon": 20.8760564,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hotel Sumarice",
+    "name": "Хотел Шумарице",
+    "name:sr": "Хотел Шумарице",
+    "name:sr-Latn": "Hotel Šumarice",
+    "public_transport": "platform",
+    "ref": "462"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184025,
+  "lat": 44.0239357,
+  "lon": 20.8754824,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hotel Sumarice",
+    "name": "Хотел Шумарице",
+    "name:sr": "Хотел Шумарице",
+    "name:sr-Latn": "Hotel Šumarice",
+    "public_transport": "platform",
+    "ref": "162"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184026,
+  "lat": 44.0254496,
+  "lon": 20.8656709,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Treptac",
+    "name": "Трептач",
+    "name:sr": "Трептач",
+    "name:sr-Latn": "Treptač",
+    "public_transport": "platform",
+    "ref": "499"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184027,
+  "lat": 44.0255461,
+  "lon": 20.8643191,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Treptac",
+    "name": "Трептач",
+    "name:sr": "Трептач",
+    "name:sr-Latn": "Treptač",
+    "public_transport": "platform",
+    "ref": "199"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184028,
+  "lat": 44.0260321,
+  "lon": 20.8616744,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumarice Skola",
+    "name": "Шумарице Школа",
+    "name:sr": "Шумарице Школа",
+    "name:sr-Latn": "Šumarice Škola",
+    "public_transport": "platform",
+    "ref": "500"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184029,
+  "lat": 44.0265913,
+  "lon": 20.8578925,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Poskuricki Put",
+    "name": "Поскурички Пут",
+    "name:sr": "Поскурички Пут",
+    "name:sr-Latn": "Poskurički Put",
+    "public_transport": "platform",
+    "ref": "501"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184030,
+  "lat": 44.0274900,
+  "lon": 20.8515035,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumarice Crkva",
+    "name": "Шумарице Црква",
+    "name:sr": "Шумарице Црква",
+    "name:sr-Latn": "Šumarice Crkva",
+    "public_transport": "platform",
+    "ref": "502"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184031,
+  "lat": 44.0274013,
+  "lon": 20.8512245,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumarice Crkva",
+    "name": "Шумарице Црква",
+    "name:sr": "Шумарице Црква",
+    "name:sr-Latn": "Šumarice Crkva",
+    "public_transport": "platform",
+    "ref": "202"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184032,
+  "lat": 44.0279567,
+  "lon": 20.8482580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumaricka Ravan",
+    "name": "Шумаричка Раван",
+    "name:sr": "Шумаричка Раван",
+    "name:sr-Latn": "Šumarička Ravan",
+    "public_transport": "platform",
+    "ref": "503"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184033,
+  "lat": 44.0278140,
+  "lon": 20.8482205,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumaricka Ravan",
+    "name": "Шумаричка Раван",
+    "name:sr": "Шумаричка Раван",
+    "name:sr-Latn": "Šumarička Ravan",
+    "public_transport": "platform",
+    "ref": "203"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184034,
+  "lat": 44.0287744,
+  "lon": 20.8425449,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vojska",
+    "name": "Војска",
+    "name:sr": "Војска",
+    "name:sr-Latn": "Vojska",
+    "public_transport": "platform",
+    "ref": "504"
+  }
+},
+{
+  "type": "node",
+  "id": 8298184035,
+  "lat": 44.0286394,
+  "lon": 20.8426147,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vojska",
+    "name": "Војска",
+    "name:sr": "Војска",
+    "name:sr-Latn": "Vojska",
+    "public_transport": "platform",
+    "ref": "204"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266948,
+  "lat": 43.9858791,
+  "lon": 20.8656548,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Veliko Polje",
+    "name": "Велико Поље",
+    "name:sr": "Велико Поље",
+    "name:sr-Latn": "Veliko Polje",
+    "public_transport": "platform",
+    "ref": "212"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266949,
+  "lat": 43.9869559,
+  "lon": 20.8703541,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Morava",
+    "name": "Продавница Морава",
+    "name:sr": "Продавница Морава",
+    "name:sr-Latn": "Prodavnica Morava",
+    "public_transport": "platform",
+    "ref": "213"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266950,
+  "lat": 43.9871373,
+  "lon": 20.8704989,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Morava",
+    "name": "Продавница Морава",
+    "name:sr": "Продавница Морава",
+    "name:sr-Latn": "Prodavnica Morava",
+    "public_transport": "platform",
+    "ref": "513"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266951,
+  "lat": 43.9882914,
+  "lon": 20.8737015,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Veliko Selo Skola",
+    "name": "Велико Село Школа",
+    "name:sr": "Велико Село Школа",
+    "name:sr-Latn": "Veliko Selo Škola",
+    "public_transport": "platform",
+    "ref": "514"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266952,
+  "lat": 43.9882026,
+  "lon": 20.8737846,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Veliko Selo Skola",
+    "name": "Велико Село Школа",
+    "name:sr": "Велико Село Школа",
+    "name:sr-Latn": "Veliko Selo Škola",
+    "public_transport": "platform",
+    "ref": "214"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266953,
+  "lat": 44.0394245,
+  "lon": 20.9103404,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Petrovac",
+    "name": "Петровац",
+    "name:sr": "Петровац",
+    "name:sr-Latn": "Petrovac",
+    "public_transport": "platform",
+    "ref": "361"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266954,
+  "lat": 44.0474681,
+  "lon": 20.9047829,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grand",
+    "name": "Гранд",
+    "name:sr": "Гранд",
+    "name:sr-Latn": "Grand",
+    "public_transport": "platform",
+    "ref": "362"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266955,
+  "lat": 44.0471057,
+  "lon": 20.9048365,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grand",
+    "name": "Гранд",
+    "name:sr": "Гранд",
+    "name:sr-Latn": "Grand",
+    "public_transport": "platform",
+    "ref": "62"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266956,
+  "lat": 44.0513315,
+  "lon": 20.9004484,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Rosici",
+    "name": "Росићи",
+    "name:sr": "Росићи",
+    "name:sr-Latn": "Rosići",
+    "public_transport": "platform",
+    "ref": "363"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266957,
+  "lat": 44.0509690,
+  "lon": 20.9006362,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Rosici",
+    "name": "Росићи",
+    "name:sr": "Росићи",
+    "name:sr-Latn": "Rosići",
+    "public_transport": "platform",
+    "ref": "63"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266958,
+  "lat": 44.0547743,
+  "lon": 20.8970528,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumski Raj",
+    "name": "Шумски Рај",
+    "name:sr": "Шумски Рај",
+    "name:sr-Latn": "Šumski Raj",
+    "public_transport": "platform",
+    "ref": "364"
+  }
+},
+{
+  "type": "node",
+  "id": 8298266959,
+  "lat": 44.0544852,
+  "lon": 20.8970045,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Sumski Raj",
+    "name": "Шумски Рај",
+    "name:sr": "Шумски Рај",
+    "name:sr-Latn": "Šumski Raj",
+    "public_transport": "platform",
+    "ref": "64"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419081,
+  "lat": 43.9716329,
+  "lon": 20.9102063,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Baljkovac Skola",
+    "name": "Баљковац Школа",
+    "name:sr": "Баљковац Школа",
+    "name:sr-Latn": "Baljkovac Škola",
+    "public_transport": "platform",
+    "ref": "226"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419082,
+  "lat": 43.9714553,
+  "lon": 20.9101527,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Baljkovac Skola",
+    "name": "Баљковац Школа",
+    "name:sr": "Баљковац Школа",
+    "name:sr-Latn": "Baljkovac Škola",
+    "public_transport": "platform",
+    "ref": "526"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419083,
+  "lat": 43.9733779,
+  "lon": 20.9068053,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Baljkovac Groblje",
+    "name": "Баљковац Гробље",
+    "name:sr": "Баљковац Гробље",
+    "name:sr-Latn": "Baljkovac Groblje",
+    "public_transport": "platform",
+    "ref": "217"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419084,
+  "lat": 43.9765898,
+  "lon": 20.9036725,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Erdecka Kosa",
+    "name": "Ердечка Коса",
+    "name:sr": "Ердечка Коса",
+    "name:sr-Latn": "Erdečka Kosa",
+    "public_transport": "platform",
+    "ref": "218"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419085,
+  "lat": 43.9801335,
+  "lon": 20.9020202,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Baljkovac Kos",
+    "name": "Баљковац Кош",
+    "name:sr": "Баљковац Кош",
+    "name:sr-Latn": "Baljkovac Koš",
+    "public_transport": "platform",
+    "ref": "219"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419086,
+  "lat": 43.9856224,
+  "lon": 20.9032433,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Prodavnica Brdjanska",
+    "name": "Продавница Брђанска",
+    "name:sr": "Продавница Брђанска",
+    "name:sr-Latn": "Prodavnica Brđanska",
+    "public_transport": "platform",
+    "ref": "220"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419087,
+  "lat": 43.9892350,
+  "lon": 20.9064512,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Elektricar",
+    "name": "Електричар",
+    "name:sr": "Електричар",
+    "name:sr-Latn": "Električar",
+    "public_transport": "platform",
+    "ref": "222"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419088,
+  "lat": 43.9895158,
+  "lon": 20.9095036,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Zeleni Pojas",
+    "name": "Зелени Појас",
+    "name:sr": "Зелени Појас",
+    "name:sr-Latn": "Zeleni Pojas",
+    "public_transport": "platform",
+    "ref": "221"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419089,
+  "lat": 43.9911052,
+  "lon": 20.9142498,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Levac Prodavnica",
+    "name": "Левач Продавница",
+    "name:sr": "Левач Продавница",
+    "name:sr-Latn": "Levač Prodavnica",
+    "public_transport": "platform",
+    "ref": "223"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419090,
+  "lat": 43.9921736,
+  "lon": 20.9182555,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belosevac Pruga",
+    "name": "Белосевац Пруга",
+    "name:sr": "Белосевац Пруга",
+    "name:sr-Latn": "Belosevac Pruga",
+    "public_transport": "platform",
+    "ref": "224"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419091,
+  "lat": 43.9758868,
+  "lon": 20.9134865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vidikovac Kafana",
+    "name": "Видиковац Кафана",
+    "name:sr": "Видиковац Кафана",
+    "name:sr-Latn": "Vidikovac Kafana",
+    "public_transport": "platform",
+    "ref": "225"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419092,
+  "lat": 43.9793997,
+  "lon": 20.9149457,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Srednja Mala",
+    "name": "Средња Мала",
+    "name:sr": "Средња Мала",
+    "name:sr-Latn": "Srednja Mala",
+    "public_transport": "platform",
+    "ref": "227"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419093,
+  "lat": 43.9838580,
+  "lon": 20.9166033,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belosevac Porta",
+    "name": "Белосевац Порта",
+    "name:sr": "Белосевац Порта",
+    "name:sr-Latn": "Belosevac Porta",
+    "public_transport": "platform",
+    "ref": "228"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419094,
+  "lat": 43.9904426,
+  "lon": 20.9189261,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Belosevac Pruga",
+    "name": "Белосевац Пруга",
+    "name:sr": "Белосевац Пруга",
+    "name:sr-Latn": "Belosevac Pruga",
+    "public_transport": "platform",
+    "ref": "229"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419095,
+  "lat": 44.0233730,
+  "lon": 20.8810077,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Milanovacki Put",
+    "name": "Милановачки Пут",
+    "name:sr": "Милановачки Пут",
+    "name:sr-Latn": "Milanovački Put",
+    "public_transport": "platform",
+    "ref": "682"
+  }
+},
+{
+  "type": "node",
+  "id": 8298419096,
+  "lat": 44.0260960,
+  "lon": 20.8934467,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hrvatski Spomenik",
+    "name": "Хрватски Споменик",
+    "name:sr": "Хрватски Споменик",
+    "name:sr-Latn": "Hrvatski Spomenik",
+    "public_transport": "platform",
+    "ref": "684"
+  }
+},
+{
+  "type": "node",
+  "id": 8298454295,
+  "lat": 43.9839403,
+  "lon": 20.8754089,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Cava",
+    "name": "Ћава",
+    "name:sr": "Ћава",
+    "name:sr-Latn": "Ćava",
+    "public_transport": "platform",
+    "ref": "35"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508684,
+  "lat": 44.0509129,
+  "lon": 20.9242358,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Donja Mala Petrovac",
+    "name": "Доња Мала Петровац",
+    "name:sr": "Доња Мала Петровац",
+    "name:sr-Latn": "Donja Mala Petrovac",
+    "public_transport": "platform",
+    "ref": "285"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508685,
+  "lat": 44.0505428,
+  "lon": 20.9243109,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Donja Mala ka Petrovcu",
+    "name": "Доња Мала ка Петровцу",
+    "name:sr": "Доња Мала ка Петровцу",
+    "name:sr-Latn": "Donja Mala ka Petrovcu",
+    "public_transport": "platform",
+    "ref": "698"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508686,
+  "lat": 44.0458851,
+  "lon": 20.9266498,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kikindska",
+    "name": "Кикиндска",
+    "name:sr": "Кикиндска",
+    "name:sr-Latn": "Kikindska",
+    "public_transport": "platform",
+    "ref": "286"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508687,
+  "lat": 44.0458697,
+  "lon": 20.9269931,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kikindska ka Petrovcu",
+    "name": "Кикиндска ка Петровцу",
+    "name:sr": "Кикиндска ка Петровцу",
+    "name:sr-Latn": "Kikindska ka Petrovcu",
+    "public_transport": "platform",
+    "ref": "586"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508688,
+  "lat": 44.0431474,
+  "lon": 20.9310701,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bozman ka Centru",
+    "name": "Бозман ка Центру",
+    "name:sr": "Бозман ка Центру",
+    "name:sr-Latn": "Bozman ka Centru",
+    "public_transport": "platform",
+    "ref": "358"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508689,
+  "lat": 44.0433710,
+  "lon": 20.9311345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vozman Okretnica",
+    "name": "Возман Окретница",
+    "name:sr": "Возман Окретница",
+    "name:sr-Latn": "Vozman Okretnica",
+    "public_transport": "platform",
+    "ref": "169"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508691,
+  "lat": 44.0280799,
+  "lon": 20.9200838,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Elektrosumadija",
+    "name": "Електрошумадија",
+    "name:sr": "Електрошумадија",
+    "name:sr-Latn": "Elektrošumadija",
+    "public_transport": "platform",
+    "ref": "393"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508693,
+  "lat": 44.0345208,
+  "lon": 20.9073915,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Tenkodrom",
+    "name": "Тенкодром",
+    "name:sr": "Тенкодром",
+    "name:sr-Latn": "Tenkodrom",
+    "public_transport": "platform",
+    "ref": "580"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508694,
+  "lat": 44.0380649,
+  "lon": 20.9066566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlavska",
+    "name": "Млавска",
+    "name:sr": "Млавска",
+    "name:sr-Latn": "Mlavska",
+    "public_transport": "platform",
+    "ref": "578"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508695,
+  "lat": 44.0353731,
+  "lon": 20.9037920,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Betonjerka",
+    "name": "Бетоњерка",
+    "name:sr": "Бетоњерка",
+    "name:sr-Latn": "Betonjerka",
+    "public_transport": "platform",
+    "ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508696,
+  "lat": 44.0331594,
+  "lon": 20.9008630,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodoterm",
+    "name": "Водотерм",
+    "name:sr": "Водотерм",
+    "name:sr-Latn": "Vodoterm",
+    "public_transport": "platform",
+    "ref": "581"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508699,
+  "lat": 44.0334409,
+  "lon": 20.9014692,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodoterm",
+    "name": "Водотерм",
+    "name:sr": "Водотерм",
+    "name:sr-Latn": "Vodoterm",
+    "public_transport": "platform",
+    "ref": "281"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508700,
+  "lat": 44.0355389,
+  "lon": 20.9042104,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Betonjerka",
+    "name": "Бетоњерка",
+    "name:sr": "Бетоњерка",
+    "name:sr-Latn": "Betonjerka",
+    "public_transport": "platform",
+    "ref": "279"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508701,
+  "lat": 44.0382539,
+  "lon": 20.9070268,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mlavska",
+    "name": "Млавска",
+    "name:sr": "Млавска",
+    "name:sr-Latn": "Mlavska",
+    "public_transport": "platform",
+    "ref": "278"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508702,
+  "lat": 44.0347368,
+  "lon": 20.9074827,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Tenkodrom",
+    "name": "Тенкодром",
+    "name:sr": "Тенкодром",
+    "name:sr-Latn": "Tenkodrom",
+    "public_transport": "platform",
+    "ref": "280"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508703,
+  "lat": 44.0309186,
+  "lon": 20.9106746,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Aerodrom Crkva",
+    "name": "Аеродром Црква",
+    "name:sr": "Аеродром Црква",
+    "name:sr-Latn": "Aerodrom Crkva",
+    "public_transport": "platform",
+    "ref": "90"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508704,
+  "lat": 44.0287549,
+  "lon": 20.9180667,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Elektrosumadija",
+    "name": "Електрошумадија",
+    "name:sr": "Електрошумадија",
+    "name:sr-Latn": "Elektrošumadija",
+    "public_transport": "platform",
+    "ref": "93"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508707,
+  "lat": 44.0066967,
+  "lon": 20.9051117,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mala Vaga",
+    "name": "Мала Вага",
+    "name:sr": "Мала Вага",
+    "name:sr-Latn": "Mala Vaga",
+    "public_transport": "platform",
+    "ref": "129"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508708,
+  "lat": 44.0085602,
+  "lon": 20.8994200,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kolonska Kapija",
+    "name": "Колонска Капија",
+    "name:sr": "Колонска Капија",
+    "name:sr-Latn": "Kolonska Kapija",
+    "public_transport": "platform",
+    "ref": "428",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8298508709,
+  "lat": 44.0197347,
+  "lon": 20.9095158,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Tehnicka Skola",
+    "name": "Техничка Школа",
+    "name:sr": "Техничка Школа",
+    "name:sr-Latn": "Tehnička Škola",
+    "public_transport": "platform",
+    "ref": "154"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517461,
+  "lat": 44.0329299,
+  "lon": 20.9010562,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodoterm",
+    "name": "Водотерм",
+    "name:sr": "Водотерм",
+    "name:sr-Latn": "Vodoterm",
+    "public_transport": "platform",
+    "ref": "392"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517462,
+  "lat": 44.0329801,
+  "lon": 20.9012064,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Vodoterm",
+    "name": "Водотерм",
+    "name:sr": "Водотерм",
+    "name:sr-Latn": "Vodoterm",
+    "public_transport": "platform",
+    "ref": "92"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517463,
+  "lat": 44.0228901,
+  "lon": 20.9202983,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Univerzitet",
+    "name": "Универзитет",
+    "name:sr": "Универзитет",
+    "name:sr-Latn": "Univerzitet",
+    "public_transport": "platform",
+    "ref": "577"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517464,
+  "lat": 44.0197964,
+  "lon": 20.9200784,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "1. Maj",
+    "name": "1. Мај",
+    "name:sr": "1. Мај",
+    "name:sr-Latn": "1. Maj",
+    "public_transport": "platform",
+    "ref": "275"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517465,
+  "lat": 44.0198157,
+  "lon": 20.9202125,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "1. Maj",
+    "name": "1. Мај",
+    "name:sr": "1. Мај",
+    "name:sr-Latn": "1. Maj",
+    "public_transport": "platform",
+    "ref": "276"
+  }
+},
+{
+  "type": "node",
+  "id": 8298517467,
+  "lat": 44.0025092,
+  "lon": 20.8907672,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Zvezda",
+    "name": "Стара Звезда",
+    "name:sr": "Стара Звезда",
+    "name:sr-Latn": "Stara Zvezda",
+    "public_transport": "platform",
+    "ref": "288"
+  }
+},
+{
+  "type": "node",
+  "id": 8300197511,
+  "lat": 44.0147602,
+  "lon": 20.9400206,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Cesma",
+    "name": "Чесма",
+    "name:sr": "Чесма",
+    "name:sr-Latn": "Česma",
+    "public_transport": "platform",
+    "ref": "486"
+  }
+},
+{
+  "type": "node",
+  "id": 8300197512,
+  "lat": 44.0148759,
+  "lon": 20.9396183,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Cesma",
+    "name": "Чесма",
+    "name:sr": "Чесма",
+    "name:sr-Latn": "Česma",
+    "public_transport": "platform",
+    "ref": "186"
+  }
+},
+{
+  "type": "node",
+  "id": 8300197513,
+  "lat": 44.0159484,
+  "lon": 20.9431588,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Novo Naselje",
+    "name": "Ново Насеље",
+    "name:sr": "Ново Насеље",
+    "name:sr-Latn": "Novo Naselje",
+    "public_transport": "platform",
+    "ref": "487"
+  }
+},
+{
+  "type": "node",
+  "id": 8300197514,
+  "lat": 44.0160217,
+  "lon": 20.9429603,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Novo Naselje",
+    "name": "Ново Насеље",
+    "name:sr": "Ново Насеље",
+    "name:sr-Latn": "Novo Naselje",
+    "public_transport": "platform",
+    "ref": "187"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211917,
+  "lat": 44.0140098,
+  "lon": 20.9431159,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Milovan Pavlovic",
+    "name": "Милован Павловић",
+    "name:sr": "Милован Павловић",
+    "name:sr-Latn": "Milovan Pavlović",
+    "public_transport": "platform",
+    "ref": "488"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211918,
+  "lat": 44.0138941,
+  "lon": 20.9431856,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Milovan Pavlovic",
+    "name": "Милован Павловић",
+    "name:sr": "Милован Павловић",
+    "name:sr-Latn": "Milovan Pavlović",
+    "public_transport": "platform",
+    "ref": "188"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211919,
+  "lat": 44.0103177,
+  "lon": 20.9452134,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kosutnjak Brdo",
+    "name": "Кошутњак Брдо",
+    "name:sr": "Кошутњак Брдо",
+    "name:sr-Latn": "Košutnjak Brdo",
+    "public_transport": "platform",
+    "ref": "489"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211920,
+  "lat": 44.0104604,
+  "lon": 20.9452456,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kosutnjak Brdo",
+    "name": "Кошутњак Брдо",
+    "name:sr": "Кошутњак Брдо",
+    "name:sr-Latn": "Košutnjak Brdo",
+    "public_transport": "platform",
+    "ref": "189"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211921,
+  "lat": 44.0069571,
+  "lon": 20.9480726,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kosutnjak Okretnica",
+    "name": "Кошутњак Окретница",
+    "name:sr": "Кошутњак Окретница",
+    "name:sr-Latn": "Košutnjak Okretnica",
+    "public_transport": "platform",
+    "ref": "190"
+  }
+},
+{
+  "type": "node",
+  "id": 8300211922,
+  "lat": 44.0070150,
+  "lon": 20.9478741,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kosutnjak Okretnica",
+    "name": "Кошутњак Окретница",
+    "name:sr": "Кошутњак Окретница",
+    "name:sr-Latn": "Košutnjak Okretnica",
+    "public_transport": "platform",
+    "ref": "490"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536155,
+  "lat": 44.0160400,
+  "lon": 20.8550160,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Staro Selo Male Pcelice",
+    "name": "Старо Село Мале Пчелице",
+    "name:sr": "Старо Село Мале Пчелице",
+    "name:sr-Latn": "Staro Selo Male Pčelice",
+    "public_transport": "platform",
+    "ref": "699"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536156,
+  "lat": 44.0124483,
+  "lon": 20.8558958,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hala Male Pcelice",
+    "name": "Хала Мале Пчелице",
+    "name:sr": "Хала Мале Пчелице",
+    "name:sr-Latn": "Hala Male Pčelice",
+    "public_transport": "platform",
+    "ref": "700"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536157,
+  "lat": 44.0127376,
+  "lon": 20.8558851,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Hala Male Pcelice",
+    "name": "Хала Мале Пчелице",
+    "name:sr": "Хала Мале Пчелице",
+    "name:sr-Latn": "Hala Male Pčelice",
+    "public_transport": "platform",
+    "ref": "806"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536158,
+  "lat": 44.0111057,
+  "lon": 20.8576178,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Staro Selo",
+    "name": "Старо Село",
+    "name:sr": "Старо Село",
+    "name:sr-Latn": "Staro Selo",
+    "public_transport": "platform",
+    "ref": "701"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536159,
+  "lat": 44.0110362,
+  "lon": 20.8577894,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Staro Selo",
+    "name": "Старо Село",
+    "name:sr": "Старо Село",
+    "name:sr-Latn": "Staro Selo",
+    "public_transport": "platform",
+    "ref": "805"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536160,
+  "lat": 44.0089798,
+  "lon": 20.8594792,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Crkva Male Pcelice",
+    "name": "Црква Мале Пчелице",
+    "name:sr": "Црква Мале Пчелице",
+    "name:sr-Latn": "Crkva Male Pčelice",
+    "public_transport": "platform",
+    "ref": "702"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536161,
+  "lat": 44.0091457,
+  "lon": 20.8594953,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Crkva Male Pcelice",
+    "name": "Црква Мале Пчелице",
+    "name:sr": "Црква Мале Пчелице",
+    "name:sr-Latn": "Crkva Male Pčelice",
+    "public_transport": "platform",
+    "ref": "804"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536162,
+  "lat": 44.0066301,
+  "lon": 20.8636206,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kos Male Pcelice",
+    "name": "Кош Мале Пчелице",
+    "name:sr": "Кош Мале Пчелице",
+    "name:sr-Latn": "Koš Male Pčelice",
+    "public_transport": "platform",
+    "ref": "703"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536163,
+  "lat": 44.0067844,
+  "lon": 20.8635186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Kos Male Pcelice",
+    "name": "Кош Мале Пчелице",
+    "name:sr": "Кош Мале Пчелице",
+    "name:sr-Latn": "Koš Male Pčelice",
+    "public_transport": "platform",
+    "ref": "803"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536164,
+  "lat": 44.0074770,
+  "lon": 20.9259980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Lekina Bara",
+    "name": "Лекина Бара",
+    "name:sr": "Лекина Бара",
+    "name:sr-Latn": "Lekina Bara",
+    "public_transport": "platform",
+    "ref": "647"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536165,
+  "lat": 44.0074732,
+  "lon": 20.9256064,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Lekina Bara",
+    "name": "Лекина Бара",
+    "name:sr": "Лекина Бара",
+    "name:sr-Latn": "Lekina Bara",
+    "public_transport": "platform",
+    "ref": "802"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536166,
+  "lat": 44.0092441,
+  "lon": 20.9299087,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Silos",
+    "name": "Силос",
+    "name:sr": "Силос",
+    "name:sr-Latn": "Silos",
+    "public_transport": "platform",
+    "ref": "650"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536167,
+  "lat": 44.0094949,
+  "lon": 20.9300696,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Silos",
+    "name": "Силос",
+    "name:sr": "Силос",
+    "name:sr-Latn": "Silos",
+    "public_transport": "platform",
+    "ref": "801"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536168,
+  "lat": 44.0090551,
+  "lon": 20.9345918,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Juzna Obilaznica",
+    "name": "Јужна Обилазница",
+    "name:sr": "Јужна Обилазница",
+    "name:sr-Latn": "Južna Obilaznica",
+    "public_transport": "platform",
+    "ref": "658"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536169,
+  "lat": 44.0084262,
+  "lon": 20.9348171,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Juzna Obilaznica",
+    "name": "Јужна Обилазница",
+    "name:sr": "Јужна Обилазница",
+    "name:sr-Latn": "Južna Obilaznica",
+    "public_transport": "platform",
+    "ref": "800"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536170,
+  "lat": 44.0039002,
+  "lon": 20.9347206,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnicki Do",
+    "name": "Бреснички До",
+    "name:sr": "Бреснички До",
+    "name:sr-Latn": "Bresnički Do",
+    "public_transport": "platform",
+    "ref": "590"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536171,
+  "lat": 44.0040083,
+  "lon": 20.9348654,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnicki Do",
+    "name": "Бреснички До",
+    "name:sr": "Бреснички До",
+    "name:sr-Latn": "Bresnički Do",
+    "public_transport": "platform",
+    "ref": "799"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536173,
+  "lat": 44.0021330,
+  "lon": 20.9398168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Skver",
+    "name": "Сквер",
+    "name:sr": "Сквер",
+    "name:sr-Latn": "Skver",
+    "public_transport": "platform",
+    "ref": "798"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536174,
+  "lat": 44.0019902,
+  "lon": 20.9397953,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Skver",
+    "name": "Сквер",
+    "name:sr": "Сквер",
+    "name:sr-Latn": "Skver",
+    "public_transport": "platform",
+    "ref": "593"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536175,
+  "lat": 43.9993546,
+  "lon": 20.9417694,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Grada Pitestija",
+    "name": "Града Питештија",
+    "name:sr": "Града Питештија",
+    "name:sr-Latn": "Grada Piteštija",
+    "public_transport": "platform",
+    "ref": "692"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536176,
+  "lat": 43.9981198,
+  "lon": 20.9436416,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stara Samoposluga",
+    "name": "Стара Самопослуга",
+    "name:sr": "Стара Самопослуга",
+    "name:sr-Latn": "Stara Samoposluga",
+    "public_transport": "platform",
+    "ref": "693"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536177,
+  "lat": 43.9998370,
+  "lon": 20.9433519,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Mostarska",
+    "name": "Мостарска",
+    "name:sr": "Мостарска",
+    "name:sr-Latn": "Mostarska",
+    "public_transport": "platform",
+    "ref": "592"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536178,
+  "lat": 43.9984439,
+  "lon": 20.9471285,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bresnica 3",
+    "name": "Бресница 3",
+    "name:sr": "Бресница 3",
+    "name:sr-Latn": "Bresnica 3",
+    "public_transport": "platform",
+    "ref": "591"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536179,
+  "lat": 43.9972824,
+  "lon": 20.9438347,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Viktora Bubnja",
+    "name": "Виктора Бубња",
+    "name:sr": "Виктора Бубња",
+    "name:sr-Latn": "Viktora Bubnja",
+    "public_transport": "platform",
+    "ref": "589"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536180,
+  "lat": 43.9950981,
+  "lon": 20.9437650,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stovariste",
+    "name": "Стовариште",
+    "name:sr": "Стовариште",
+    "name:sr-Latn": "Stovarište",
+    "public_transport": "platform",
+    "ref": "614"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536181,
+  "lat": 43.9950094,
+  "lon": 20.9439098,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Stovariste",
+    "name": "Стовариште",
+    "name:sr": "Стовариште",
+    "name:sr-Latn": "Stovarište",
+    "public_transport": "platform",
+    "ref": "795"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536182,
+  "lat": 43.9924237,
+  "lon": 20.9604805,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bunarce",
+    "name": "Бунарче",
+    "name:sr": "Бунарче",
+    "name:sr-Latn": "Bunarče",
+    "public_transport": "platform",
+    "ref": "419"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536183,
+  "lat": 43.9925356,
+  "lon": 20.9606575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Bunarce",
+    "name": "Бунарче",
+    "name:sr": "Бунарче",
+    "name:sr-Latn": "Bunarče",
+    "public_transport": "platform",
+    "ref": "119"
+  }
+},
+{
+  "type": "node",
+  "id": 8300536204,
+  "lat": 43.9899768,
+  "lon": 20.9718638,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ivankovacka Okretnica",
+    "name": "Иванковачка Окретница",
+    "public_transport": "platform",
+    "ref": "422"
+  }
+},
+{
+  "type": "node",
+  "id": 12314028442,
+  "lat": 44.0224456,
+  "lon": 20.9464659,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "int_name": "Ilicevo",
+    "name": "Илићево",
+    "operator": "KGBUS",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}
